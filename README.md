@@ -83,3 +83,16 @@ Once everything is up and running smoothly, your gaze will quickly turn toward f
 - Alternative Cooling (eg: CPAP)
 - Alternative Controller Boards
 - Alternative Pi Boards (eg: RPi 5)
+
+## Routine Maintenance
+As complex as they are, 3D printers do require some amount of ongoing routine maintenance. Both in terms of software/firmware, as well as hardware - physical maintenance. How much maintenance depends largely on how much printing is going on. But even printers sitting idle will need maintenance - perhaps even more than if they are used regularly. 
+
+- Important Notifications
+- Between Every Print
+- Weekly Maintenance (or every 100 Print Hours)
+- Monthly Maintenance (or every 500 Print Hours)
+- Seasonal Maintenace (or every 2000 Print Hours)
+
+
+## Macros
+
