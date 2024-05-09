@@ -30,7 +30,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 
 ### Software
 - [Install Latest Version of Klipper](https://github.com/500Foods/WelcomeToTroodon/blob/main/klipper.md)
-- Flashing the MCU
+- [Flashing the MCU](https://github.com/500Foods/WelcomeToTroodon/blob/main/flash_mcu.md)
 - Printer.cfg Priority Items
 - Logging in via SSH
 - Configure Webcam
