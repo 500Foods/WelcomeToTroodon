@@ -66,8 +66,8 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 ## Level Two - Get to work!
 This list is aimed at those who might be planning a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here's a bunch of ideas for tools and techniques and things to have on hand to ensure reliable prints day in and day out.
 
-- Tap Upgrades
-- Tap Alternatives
+- TAP Upgrades
+- TAP Alternatives
 - Build Plates
 - Chamber Fans/Filters
 - Chamber Lighting
