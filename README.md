@@ -28,7 +28,7 @@ And finally, there is of course an endless stream of YouTube videos related to 3
 This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, or anyone looking to get more from their existing setup. We're assuming at this stage that you're not outright changing any of the parts related to your printer's main filament path here - see below for ideas about that. This is more about your initial few weeks and what kinds of things to have on hand to make that experience as positive and productive as possible.
 
 ### Software
-- Install Latest Version of Klipper
+- [Install Latest Version of Klipper](https://github.com/500Foods/WelcomeToTroodon/blob/main/klipper.md)
 - Printer.cfg Priority Items
 - Logging in via SSH
 - Configure Webcam
