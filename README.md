@@ -36,7 +36,7 @@ This is aimed at those that might be scheming a more production-oriented environ
 - Chamber fan/filter
 - Chamber lighting
   
-## Level Three Kit - Need more speed!
+## Level Three Kit - More speed!
 Once everything is up and running, your gaze will quickly turn toward faster print speeds. No end to the avialable options here. Let's have a look at some of the most popular and effective options in these categories.
 
 - CAN Bus
