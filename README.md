@@ -54,3 +54,5 @@ Once everything is up and running, your gaze will quickly turn toward faster pri
 - Alternative Extruders
 - Alternative Hotends
 - Alternative Cooling (eg: CPAP)
+- Alternative Controller Boards
+- Alternative Pi Boards (eg: RPi 5)
