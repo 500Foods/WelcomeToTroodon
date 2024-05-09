@@ -8,7 +8,7 @@ When you ordered your printer (in the case of Troodon, at least) you were likely
 - [Team Gloomy Troodon Assembly Guide](https://teamgloomy.github.io/troodon_v2_assembly.html)
 - [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 
-Beyond the guides, Discord communities are a popular way to connect with other users. These tend to be specific to the printer or product, so we'll be sure to add more to this list as time goes on.
+Beyond the guides, Discord communities are a popular way to connect with other users. These tend to be specific to a printer or product, so we'll be sure to add more to this list as time goes on.
 
 - [FormBot Discord](https://discord.gg/spAGFK2PnN) - The Troodon community is particularly helpful of course.
 
