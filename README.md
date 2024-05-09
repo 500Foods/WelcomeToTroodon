@@ -16,7 +16,7 @@ When it comes time to buy products, the usual suspects - Amazon and AliExpress -
 
 - [FormBot](https://www.formbot3d.com/)
 - [West3D](https://west3d.com/)
-- [KB3D](https://kb-3d.com/store/)
+- [KB-3D](https://kb-3d.com/store/)
 
 And finally, there is of course an endless stream of YouTube videos related to 3D printing, with dozens more added every day. Here are a few YouTubers that come up often and are worth checking out. These are links to their YouTube channels, but you might very well find links to specific videos elsewhere in this repository.
 
