@@ -29,7 +29,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
   
  
 ## Level Two Kit - Get to work!
-This is aimed at those that might be scheming a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Here's a bunch of ideas for tools and techniques and things to have on-hand to ensure reliable prints day in and day out.
+This is aimed at those that might be planning a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Here's a bunch of ideas for tools and techniques and things to have on-hand to ensure reliable prints day in and day out.
 
 - Tap Replacement
 - Alternative build plates
