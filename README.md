@@ -18,6 +18,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 - Glass Cleaner
 - Pure Isopropyl Alcohol
 - Pure Acetone
+- Bed Adhesive
 
 ### Key Replacement Parts
 - Spare Nozzles / Assorted Nozzle Sizes
