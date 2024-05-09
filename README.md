@@ -58,11 +58,15 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 - Spare Nozzles / Assorted Nozzle Sizes
 - Replacement build plates
 - Spare PTFE Tubing / Connectors
-
+  
+### Other
+- 16 GB MicroSD Card
+ 
 ### First Prints
 - Filament Runout Sensor Mount
 - Bed Alignment Guides
 - Califlower Calibration Tool
+- Rocker Feet
   
  
 ## Level Two - Get to work!
