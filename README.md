@@ -60,6 +60,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 
 ### First Prints
 - Filament Runout Sensor Mount
+- Bed Alignment Guides
 - Califlower Calibration Tool
   
  
