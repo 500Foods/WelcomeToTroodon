@@ -14,6 +14,7 @@ And you certainly don't want to apply firmware intended for one MCU onto another
 The good news is that there are instructions for how to do these firmware updates. The bad news is that they're not always all that clear. Let's try and help with that.
 
 ## Upgrading the BTT Octopus F407
+TBD.
 
 ### Reference
 - Check your printer.cfg file for instructions specific to your printer
@@ -22,6 +23,6 @@ The good news is that there are instructions for how to do these firmware update
 
 
 ## Updating the ADXL
-
+TBD.
 
 
