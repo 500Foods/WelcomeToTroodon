@@ -5,14 +5,23 @@ This repository was created as a community resource for those with a new Troodon
 ## Level One Kit - Welcome! 
 This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, or anyone looking to get more from their existing setup. We're assuming at this stage that you're not outright changing any of the main parts related to your printer's main filament path here - see below for ideas about that. This is more about the first days and weeks and what kinds of things to have on-hand to make that experience as positive and productive as possible.
 
+### Software
+- Install Latest Version of Klipper
+- Printer.cfg Priority Items
+- Logging in via SSH
+- Configure Webcam
+- Configure Timelapse
+- Configure Obico
+- Secured Remote Access
+  
 ### Tools
 - Electric Screwdrivers
-- High-torque screwdrivers
-- Microfibre cloths
+- High-torque Screwdrivers
+- Microfibre Cloths
 - Scraper
 - Deburring Tool
-- Brass brush
-- Nozzle cleaning needles
+- Brass Brush
+- Nozzle Cleaning Needles
 
 ### Chemicals
 - Glass Cleaner
@@ -23,6 +32,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 ### Key Replacement Parts
 - Spare Nozzles / Assorted Nozzle Sizes
 - Replacement build plates
+- Spare PTFE Tubing / Connectors
 
 ### First Prints
 - Filament Runout Sensor Mount
