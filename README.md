@@ -11,7 +11,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 - Logging in via SSH
 - Configure Webcam
 - Configure Timelapse
-- Configure Obico
+- [Configure Obico](https://github.com/500Foods/WelcomeToTroodon/blob/main/Obico.md)
 - Secured Remote Access
   
 ### Tools
