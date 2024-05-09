@@ -67,10 +67,10 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 This list is aimed at those who might be planning a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here's a bunch of ideas for tools and techniques and things to have on hand to ensure reliable prints day in and day out.
 
 - Tap Upgrades
-- Tap Replacements
-- Alternative build plates
-- Chamber fan/filter
-- Chamber lighting
+- Tap Alternatives
+- Build Plates
+- Chamber Fans/Filters
+- Chamber Lighting
   
 ## Level Three - More speed!
 Once everything is up and running smoothly, your gaze will quickly turn toward faster print speeds. No end to the available options here. Let's have a look at some of the most popular and effective options in these categories.
