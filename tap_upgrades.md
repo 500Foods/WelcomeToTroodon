@@ -19,3 +19,5 @@ There are of course other options, including an entire replacement for TAP if so
 
 - [Chaotic Lab - Voron TAP](https://www.chaoticlab.com/products/cnc-voron-tap)
 - [West3D - Chaotic Lab Voron TAP](https://west3d.com/products/chaoticlab-cnc-voron-tap-complete?variant=44231531397332)
+
+Lots of videos around that compare various TAP options. Here's [one](https://www.youtube.com/watch?v=bg1VPMuCgWk).
