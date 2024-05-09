@@ -5,7 +5,8 @@ It is also used in bed mesh levelling, where it touches an array of points acros
 
 Some prefer to replace this mechanism entirely, particularly as new sensors that measure eddy currents have become available. These measure considerably more points to build a more accurate mesh, and do so in much less time and without physically touching the bed. We'll cover those in this section. 
 
-As the default TAP mechanism is made of plastic, an easy improvement is to replace it with a metal CNC part. Several such designs are readily available, with the "Vitalii TAP mount" being a particular favorite. As is often the case, a variation without the name "Vitali" can be found on AliExpress.
+As the default TAP mechanism is made of plastic, an easy improvement is to replace it with a metal CNC part. Several such designs are readily available, with the Vitalii CNC TAP being a particular favorite. As is often the case, a variation without the name "Vitalii" can be found on AliExpress. 
+Generally, searching for "Voron CNC Mount" is likely to turn up any number of similar products.
 
 - [Etsy](https://www.etsy.com/listing/1446827040/metal-tap-for-voron-cnc-voron-tap?variation0=3734336828)
 - [AliExpress](https://www.aliexpress.us/item/1005006097272960.html)
