@@ -1,3 +1,5 @@
+# Flashing the MCU
+
 A typical 3D printer these days has a bunch of electronics that coordinate all of the printer's components to get the printer to actually print. 
 A common configuration uses something called an MCU - basically a small computer, like a Raspberry Pi or even just a CPU or SBC chip, combined with controllers for all the motors, fans, heaters, lights, and so on. In a Troodon 2.0 Pro, as of this writing, that MCU happens to be a custom BigTreeTech Octopus F407-v1. 
 
@@ -11,11 +13,15 @@ And you certainly don't want to apply firmware intended for one MCU onto another
 
 The good news is that there are instructions for how to do these firmware updates. The bad news is that they're not always all that clear. Let's try and help with that.
 
-# Upgrading the BTT Octopus F407
+## Upgrading the BTT Octopus F407
 
+### Reference
+- Check your printer.cfg file for instructions specific to your printer
 - [Klipper Documentation - SDCard Updates](https://www.klipper3d.org/SDCard_Updates.html)
+- [Voron Documentation - Automating Klipper MCU Updates](https://docs.vorondesign.com/community/howto/drachenkatze/automating_klipper_mcu_updates.html)
 
-# Updating the ADXL
+
+## Updating the ADXL
 
 
 
