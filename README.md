@@ -17,6 +17,12 @@ When it comes time to buy products, the usual suspects - Amazon and AliExpress -
 - [FormBot](https://www.formbot3d.com/)
 - [West3D](https://west3d.com/)
 
+And finally, there is of course an endless stream of YouTube videos related to 3D printing, with dozens more added every day. Here are a few YouTubers that come up often and are worth checking out. These are links to their YouTube channels, but you might very well find links to specific videos elsewhere in this repository.
+
+- [YGK3D](https://www.youtube.com/@ygk3d) - Has some great videos specifically about Troodon printers
+- [CNC Kitchen](https://www.youtube.com/@CNCKitchen) - Tons of material on every aspect of 3D printing
+- [Teaching Tech](https://www.youtube.com/@TeachingTech) - Another great resource covering many 3D printing topics
+
 ## Level One Kit - Welcome! 
 This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, or anyone looking to get more from their existing setup. We're assuming at this stage that you're not outright changing any of the main parts related to your printer's main filament path here - see below for ideas about that. This is more about the first days and weeks and what kinds of things to have on-hand to make that experience as positive and productive as possible.
 
