@@ -25,7 +25,7 @@ And finally, there is of course an endless stream of YouTube videos related to 3
 - [Dave Aldrich](https://www.youtube.com/@designbydave) - Lots of 3D printer content, even a little bit of Troodon stuff as well!
   
 ## Level One Kit - Welcome! 
-This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, or anyone looking to get more from their existing setup. We're assuming at this stage that you're not outright changing any of the parts related to your printer's main filament path here - see below for ideas about that. This is more about the first days and weeks and what kinds of things to have on-hand to make that experience as positive and productive as possible.
+This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, or anyone looking to get more from their existing setup. We're assuming at this stage that you're not outright changing any of the parts related to your printer's main filament path here - see below for ideas about that. This is more about your initial few weeks and what kinds of things to have on hand to make that experience as positive and productive as possible.
 
 ### Software
 - Install Latest Version of Klipper
@@ -62,7 +62,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
   
  
 ## Level Two Kit - Get to work!
-This is aimed at those that might be planning a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Here's a bunch of ideas for tools and techniques and things to have on-hand to ensure reliable prints day in and day out.
+This is aimed at those who might be planning a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Here's a bunch of ideas for tools and techniques and things to have on hand to ensure reliable prints day in and day out.
 
 - Tap Replacement
 - Alternative build plates
@@ -70,7 +70,7 @@ This is aimed at those that might be planning a more production-oriented environ
 - Chamber lighting
   
 ## Level Three Kit - More speed!
-Once everything is up and running, your gaze will quickly turn toward faster print speeds. No end to the avialable options here. Let's have a look at some of the most popular and effective options in these categories.
+Once everything is up and running smoothly, your gaze will quickly turn toward faster print speeds. No end to the available options here. Let's have a look at some of the most popular and effective options in these categories.
 
 - CAN Bus
 - Alternative Extruders
