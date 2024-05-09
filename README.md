@@ -64,6 +64,8 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
   
 ### Other
 - 16 GB MicroSD Card
+- Filament Storage
+- Filament Drying
  
 ### First Prints
 - Filament Runout Sensor Mount
