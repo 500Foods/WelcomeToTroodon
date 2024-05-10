@@ -1,33 +1,13 @@
 # Welcome To Troodon
-This repository was created primarily as a community resource for those of us with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Still, much of the content that follows applies equally well to many other 3D printers. The Troodon 2.0 Pro, in particular, is a very close relative of the Voron 2.4 printers. The vast majority of the content here applies directly to those printers as well.
+This repository was created primarily as a community resource for those with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Much of the content that follows applies equally well to many other 3D printers. The Troodon 2.0 Pro, in particular, is a very close relative of a 350mm Voron 2.4R2 printer. The majority of the content here applies directly to those printers as well.
 
-## Initial Resources
-When you ordered your printer (in the case of Troodon, at least) you were likely sent a copy of the user manual for your printer. There's an online version, as well as alternative guides. The Team Gloomy guide actually addressess a few issues in the original FormBot guide, so that might be a better guide to follow when first putting together your new Troodon. And Ellis' Print Tuning Guide is applicable to many 3D printers and comes highly recommended by many people.
-
-- [Formbot Manuals](https://www.formbot3d.com/pages/user-manual-53)
-- [Team Gloomy Troodon Assembly Guide](https://teamgloomy.github.io/troodon_v2_assembly.html)
-- [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
-
-Beyond the guides, Discord communities are a popular way to connect with other users. These tend to be specific to a printer or product, so we'll be sure to add more to this list as time goes on.
-
-- [FormBot Discord](https://discord.gg/spAGFK2PnN) - The #Troodon channel is particularly helpful of course.
-
-When it comes time to buy products, the usual suspects - Amazon and AliExpress - are often the most popular. But there are also quite a few 3D printer-specific vendors that have proven to be both popular and reliable. 
-It is important to keep an eye on shipping - costs, times, and product availability. Often something on Amazon can be found on AliExpress for much less, but with substantial delays. And buying things one-at-a-time is
-surely going to add to the cost, so be sure to combine orders at each vendor to ensure the best shopping (and shipping) experience. And do shop around! Plenty of great people out there competing for your business, so don't be shy.
-
-- [FormBot](https://www.formbot3d.com/)
-- [West3D](https://west3d.com/)
-- [KB-3D](https://kb-3d.com/store/)
-- [Etsy](https://www.etsy.com/market/voron_printer)
-
-And finally, there is of course an endless stream of YouTube videos related to 3D printing, with dozens more added every day. Here are a few YouTubers that come up often and are worth checking out. These are links to their YouTube channels, but you might very well find links to specific videos elsewhere in this repository.
-
-- [YGK3D](https://www.youtube.com/@ygk3d) - Has some great videos specifically about Troodon printers
-- [CNC Kitchen](https://www.youtube.com/@CNCKitchen) - Tons of material on every aspect of 3D printing
-- [Teaching Tech](https://www.youtube.com/@TeachingTech) - Another great resource covering many 3D printing topics
-- [Dave Aldrich](https://www.youtube.com/@designbydave) - Lots of 3D printer content, even a little bit of Troodon stuff as well
-  
+## Getting Started Resources
+Even before your printter is up and running, there are plenty of resources to check out. Both to learn more about 3D printing in general, if you are new to this space, and for considerably more in-depth knowledge about getting the most out of your printer.
+- Documentation - User Manuals and Online Guides
+- Discord Communities - 
+- Vendor Websites - Vetted suppliers
+- Videos - Helpful YouTube accounts to follow
+ 
 ## Level One - Welcome! 
 This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, or anyone looking to get more from their existing setup. We're assuming at this stage that you're not outright changing any of the parts related to your printer's main filament path here - see below for ideas about that. This is more about your initial few weeks and what kinds of things to have on hand to make that experience as positive and productive as possible.
 
