@@ -1,4 +1,4 @@
-### Initial Tuning
+# Initial Tuning
 - Belt Tensioning
 - Z-Offset
 - Min/Max X/Y/Z
