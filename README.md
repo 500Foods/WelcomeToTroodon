@@ -10,7 +10,7 @@ When you ordered your printer (in the case of Troodon, at least) you were likely
 
 Beyond the guides, Discord communities are a popular way to connect with other users. These tend to be specific to a printer or product, so we'll be sure to add more to this list as time goes on.
 
-- [FormBot Discord](https://discord.gg/spAGFK2PnN) - The Troodon community is particularly helpful of course.
+- [FormBot Discord](https://discord.gg/spAGFK2PnN) - The #Troodon channel is particularly helpful of course.
 
 When it comes time to buy products, the usual suspects - Amazon and AliExpress - are often the most popular. But there are also quite a few 3D printer-specific vendors that have proven to be both popular and reliable. 
 It is important to keep an eye on shipping - costs, times, and product availability. Often something on Amazon can be found on AliExpress for much less, but with substantial delays. And buying things one-at-a-time is
