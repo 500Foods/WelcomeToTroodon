@@ -5,4 +5,4 @@ When ordering a new 3D printer (in the case of Troodon, at least) it will come (
 - [Team Gloomy Troodon Assembly Guide](https://teamgloomy.github.io/troodon_v2_assembly.html)
 - [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 
-Next: Discord Communities
+Next: [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/discord.md)
