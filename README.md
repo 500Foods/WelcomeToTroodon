@@ -69,10 +69,17 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 - Filament Drying
  
 ### First Prints
+- Benchy
+- Basic Calibration
+- Califlower Calibration Tool
 - Filament Runout Sensor Mount
 - Bed Alignment Guides
-- Califlower Calibration Tool
 - Rocker Feet
+
+### Initial Tuning
+- Belt Tensioning
+- Z-Offset
+- Min/Max X/Y/Z
 
 ### Potential First Problems
 - X-EndStop Issue
@@ -113,4 +120,4 @@ As complex as they are, 3D printers do require some amount of ongoing routine ma
 
 
 ## Macros
-
+TBD.
