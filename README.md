@@ -6,7 +6,7 @@ Even before your printter is up and running, there are plenty of resources to ch
 - [Documentation](https://github.com/500Foods/WelcomeToTroodon/blob/main/documentation.md) - User Manuals and Online Guides
 - [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/discord.md) - Connect with users and vendors of popular prints and products
 - [Vendor Websites](https://github.com/500Foods/WelcomeToTroodon/blob/main/vendors.md) - Vetted suppliers with a history of delivering on their promises
-- Videos - Helpful YouTube accounts to follow, covering a wide range of topics
+- [Videos](https://github.com/500Foods/WelcomeToTroodon/blob/main/youtubers.md) - Helpful YouTube accounts to follow, covering a wide range of topics
  
 ## Level One - Welcome! 
 This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, or anyone looking to get more from their existing setup. We're assuming at this stage that you're not outright changing any of the parts related to your printer's main filament path here - see below for ideas about that. This is more about your initial few weeks and what kinds of things to have on hand to make that experience as positive and productive as possible.
