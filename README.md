@@ -122,5 +122,8 @@ As complex as they are, 3D printers do require some amount of ongoing routine ma
 - Seasonal Maintenace (or every 2000 Print Hours)
 
 
-## Macros
+## Macros Reference
+TBD.
+
+## Scripts Reference
 TBD.
