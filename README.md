@@ -14,7 +14,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 - Software
 - Tools
 - Chemicals
-- Replacment Parts
+- Replacement Parts
 - Other
 - First Prints
 - Initial Tuning
@@ -54,8 +54,8 @@ As complex as they are, 3D printers do require some amount of ongoing routine ma
 - Seasonal Maintenace (or every 2000 Print Hours)
 
 
-## Macros Reference
+## Macros Quick Reference
 TBD.
 
-## Scripts Reference
+## Scripts Quick Reference
 TBD.
