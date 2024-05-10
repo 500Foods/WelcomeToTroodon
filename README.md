@@ -9,65 +9,17 @@ Even before your printter is up and running, there are plenty of resources to ch
 - [Videos](https://github.com/500Foods/WelcomeToTroodon/blob/main/youtubers.md) - Helpful YouTube accounts to follow, covering a wide range of topics
  
 ## Level One - Welcome! 
-This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, or anyone looking to get more from their existing setup. We're assuming at this stage that you're not outright changing any of the parts related to your printer's main filament path here - see below for ideas about that. This is more about your initial few weeks and what kinds of things to have on hand to make that experience as positive and productive as possible.
+This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about your initial few weeks with a new printer and what kinds of things to have on hand to make that experience as positive and productive as possible.
 
-### Software
-- [Install Latest Version of Klipper](https://github.com/500Foods/WelcomeToTroodon/blob/main/klipper.md)
-- [Flashing the MCU](https://github.com/500Foods/WelcomeToTroodon/blob/main/flash_mcu.md)
-- Printer.cfg Priority Items
-- Logging in via SSH
-- Configure Webcam
-- Configure Timelapse
-- [Configure Obico](https://github.com/500Foods/WelcomeToTroodon/blob/main/Obico.md)
-- Secured Remote Access
-- Home Assistant Moonraker Integration
-  
-### Tools
-- Electric Screwdrivers
-- High-torque Screwdrivers
-- Microfibre Cloths
-- Scraper
-- Deburring Tool
-- Brass Brush
-- Nozzle Cleaning Needles
-- Filament Cutter
+- Software
+- Tools
+- Chemicals
+- Replacment Parts
+- Other
+- First Prints
+- Initial Tuning
+- Potential Problems
 
-### Chemicals
-- Glass Cleaner
-- Pure Isopropyl Alcohol
-- Pure Acetone
-- Bed Adhesive
-
-### Key Replacement Parts
-- Spare Nozzles / Assorted Nozzle Sizes
-- Replacement Build Plates
-- Spare PTFE Tubing / Connectors
-- Spare Hotends / Heaters / Socks
-  
-### Other
-- 16 GB MicroSD Card
-- Filament Storage
-- Filament Drying
- 
-### First Prints
-- Benchy
-- Basic Calibration
-- Califlower Calibration Tool
-- Filament Runout Sensor Mount
-- Bed Alignment Guides
-- Rocker Feet
-
-### Initial Tuning
-- Belt Tensioning
-- Z-Offset
-- Min/Max X/Y/Z
-
-### Potential First Problems
-- X-EndStop Issue
-- Bed Placement 
-- Hitting the Doors
-- Crazy Bed Meshes
- 
 ## Level Two - Get to work!
 This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer, but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
 
