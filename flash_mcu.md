@@ -23,6 +23,22 @@ TBD.
 
 
 ## Updating the ADXL
-TBD.
+Here's a start, credit to @dog2bert from the #Troodon Discord community. This has been added as "adxl_update.sh" in the "scripts" folder in this repository. We'll give this a once over a little bit later.
 
+```
+#!/usr/bin/bash
+
+sudo service klipper stop
+cd ~/klipper
+git pull
+make clean
+make menuconfig
+make
+make flash FLASH_DEVICE=/dev/serial/by-id/usb-1a86_USB2.0-Serial-if00-port0
+sudo service klipper start
+```
+
+In Menuconfig:
+- Microcontroller: Raspberry Pi RP 2040
+- Com Interface: USBSERIAL
 
