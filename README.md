@@ -9,16 +9,16 @@ Even before your printter is up and running, there are plenty of resources to ch
 - [Videos](https://github.com/500Foods/WelcomeToTroodon/blob/main/youtubers.md) - Helpful YouTube accounts to follow, covering a wide range of topics
  
 ## Level One - Welcome! 
-This list is aimed at brand new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about your initial few weeks with a new printer and what kinds of things to have on hand to make that experience as positive and productive as possible.
+This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible.
 
-- Software
-- Tools
-- Chemicals
-- Replacement Parts
-- Other
-- First Prints
-- Initial Tuning
-- Potential Problems
+- Software - Get the most out of your printer's 
+- Tools - What you need to perform basic assembly, maintenance, and repairs
+- Chemicals - Keep these on hand for quick cleanup and proper maintenance
+- Replacement Parts - Stuff is going to break, so be prepared
+- Accessories - Not strictly required, but a few things to help 
+- First Prints - Good places to start
+- Initial Tuning - A little extra TLC goes a long ways
+- First Problems - Solutions to common problems
 
 ## Level Two - Get to work!
 This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer, but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
