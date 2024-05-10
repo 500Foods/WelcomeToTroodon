@@ -97,6 +97,7 @@ This list is aimed at those who might be planning for a more production-oriented
 - Chamber Lighting
 - Multi-Color/Material Options
 - Toppers
+- Advanced Calibration
   
 ## Level Three - More speed!
 Once everything is up and running smoothly, your gaze will quickly turn toward faster print speeds. No end to the available options here. Let's have a look at some of the most popular and effective options in these categories.
