@@ -1,5 +1,5 @@
 # Welcome To Troodon
-This repository was created as a community resource for those with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Still, much of the content that follows could apply equally well to most any other 3D printer you might have. Particularly if you have a Voron 3D printer, which the Troodon is a close derivative of. 
+This repository was created primarily as a community resource for those of us with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Still, much of the content that follows applies equally well to many other 3D printers. The Troodon 2.0 Pro, in particular, is a very close relative of the Voron 2.4 printers. The vast majority of the content here applies directly to those printers as well.
 
 ## Initial Resources
 When you ordered your printer (in the case of Troodon, at least) you were likely sent a copy of the user manual for your printer. There's an online version, as well as alternative guides. The Team Gloomy guide actually addressess a few issues in the original FormBot guide, so that might be a better guide to follow when first putting together your new Troodon. And Ellis' Print Tuning Guide is applicable to many 3D printers and comes highly recommended by many people.
