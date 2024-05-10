@@ -3,4 +3,4 @@ Beyond the guides, Discord communities are a popular way to connect with other u
 
 - [FormBot Discord](https://discord.gg/spAGFK2PnN) - The #Troodon channel is particularly helpful of course.
 
-Next: Vendor Websites
+Next: [Vendor Websites](https://github.com/500Foods/WelcomeToTroodon/blob/main/vendors.md)
