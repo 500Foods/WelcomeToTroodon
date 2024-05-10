@@ -98,7 +98,7 @@ This list is aimed at those who might be planning for a more production-oriented
 - Multi-Color/Material Options
 - Toppers
 - Advanced Calibration
-- Klipper TMC Auto Tune
+- [Klipper TMC Auto Tune](https://github.com/500Foods/WelcomeToTroodon/blob/main/klipper_tmc_auto_tune.md)
   
 ## Level Three - More speed!
 Once everything is up and running smoothly, your gaze will quickly turn toward faster print speeds. No end to the available options here. Let's have a look at some of the most popular and effective options in these categories.
