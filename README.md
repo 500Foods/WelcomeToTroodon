@@ -62,6 +62,7 @@ This list is aimed at brand new 3D printer owners, particularly new Troodon 3D p
 - Spare Nozzles / Assorted Nozzle Sizes
 - Replacement Build Plates
 - Spare PTFE Tubing / Connectors
+- Spare Hotends / Heaters / Socks
   
 ### Other
 - 16 GB MicroSD Card
