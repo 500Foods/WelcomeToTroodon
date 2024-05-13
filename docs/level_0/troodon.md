@@ -29,4 +29,4 @@ Here are a few links to other resources about Troodon.
 - YouTube - [Dave Aldrich - Upgraded To The Troodon 2.0 3D Printer - The Voron You Don't Have To Build!](https://www.youtube.com/watch?v=D5uA0bJsT4w)
 - Reddit - [r/VORONDesign - Is the Formbot Troodon 2.0 a terrible thing?](https://www.reddit.com/r/VORONDesign/comments/1bmy4lc/is_the_formbot_troodon_20_a_terrible_thing/) 
 
-Next: Notes About Mods
+Next: [Notes About Mods](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/modifications.md)
