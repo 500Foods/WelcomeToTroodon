@@ -27,6 +27,6 @@ Here are a few links to other resources about Troodon.
 - YouTube - [YGK3D - Watch This Before Buying a Voron Clone (Troodon 2.0)](https://www.youtube.com/watch?v=r3ibJG-2ZlE)
 - YouTube - [3D Printing Canada - FORMBOT'S TROODON 2.0 UNBOX, ASSEMBLY & TEST PRINTS](https://www.youtube.com/watch?v=gXbmPid1quU)
 - YouTube - [Dave Aldrich - Upgraded To The Troodon 2.0 3D Printer - The Voron You Don't Have To Build!](https://www.youtube.com/watch?v=D5uA0bJsT4w)
-- Reddent - [r/VORONDesign - Is the Formbot Troodon 2.0 a terrible thing?](https://www.reddit.com/r/VORONDesign/comments/1bmy4lc/is_the_formbot_troodon_20_a_terrible_thing/) 
+- Reddit - [r/VORONDesign - Is the Formbot Troodon 2.0 a terrible thing?](https://www.reddit.com/r/VORONDesign/comments/1bmy4lc/is_the_formbot_troodon_20_a_terrible_thing/) 
 
 Next: Notes About Mods
