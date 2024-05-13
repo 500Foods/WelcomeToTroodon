@@ -26,7 +26,7 @@ No mods here, really, as these are focused on getting up and running with what y
 ## Level Two - Get to work!
 This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer, but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
 
-- [TAP Upgrades](https://github.com/500Foods/WelcomeToTroodon/blob/main/tap_upgrades.md)
+- [TAP Upgrades](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tap_upgrades.md)
 - TAP Alternatives
 - Alternative Build Plates
 - Chamber Fans/Filters
@@ -34,7 +34,7 @@ This list is aimed at those who might be planning for a more production-oriented
 - Multi-Color/Material Options
 - Toppers
 - Advanced Calibration
-- [Klipper TMC Auto Tune](https://github.com/500Foods/WelcomeToTroodon/blob/main/klipper_tmc_auto_tune.md)
+- [Klipper TMC Auto Tune](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/klipper_tmc_auto_tune.md)
   
 ## Level Three - More speed!
 Once everything is up and running smoothly, your gaze will quickly turn toward faster print speeds. No end to the available options here. Let's have a look at some of the most popular and effective options in these categories.
