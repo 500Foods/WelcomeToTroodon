@@ -9,3 +9,4 @@ For the most part, if what you're doing between each print yields consistent res
 - [ ] Clean the acrylic panels inside and out
 - [ ] If using a fixed build plate (like a glass plate) run a mesh level
 
+Next: [Monthly Maintenance](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/monthly.md)
