@@ -4,4 +4,4 @@
 - Spare PTFE Tubing / Connectors
 - Spare Hotends / Heaters / Socks
   
-Next: Accessories
+Next: [Initial Tuning](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/initial_tuning.md)
