@@ -8,7 +8,7 @@ Even before your printter is up and running, there are plenty of resources to ch
 - [Vendor Websites](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/vendors.md) - Vetted suppliers with a history of delivering on their promises
 - [YouTube Videos](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/youtubers.md) - Helpful accounts to follow, covering a wide range of topics
 - [Troodon Information](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/troodon.md) - Links to check out if you're on the fence about purchasing a Troodon
-- Notes about Mods - What is a mod and why are they so popular?
+- [Notes About Mods](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/modifications.md) - What is a mod and why are they so popular?
  
 ## Level One - Welcome! 
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
