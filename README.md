@@ -3,7 +3,7 @@ This repository was created primarily as a community resource for those with a n
 
 ## Getting Started Resources
 Even before your printter is up and running, there are plenty of resources to check out. Both to learn more about 3D printing in general, if you are new to this space, and for considerably more in-depth knowledge about getting the most out of your printer.
-- [Documentation](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/documentation.md) - User Manuals and Online Guides
+- [Documentation](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/documentation.md) - User manuals, online guides, and other reference materials
 - [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md) - Connect with users and vendors of popular prints and products
 - [Vendor Websites](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/vendors.md) - Vetted suppliers with a history of delivering on their promises
 - [YouTube Videos](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/youtubers.md) - Helpful accounts to follow, covering a wide range of topics
