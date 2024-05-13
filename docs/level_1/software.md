@@ -9,4 +9,4 @@
 - Secured Remote Access
 - Home Assistant Moonraker Integration
   
-Next: Tools
+Next: [Tools](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/tools.md)
