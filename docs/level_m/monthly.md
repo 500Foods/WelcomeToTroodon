@@ -1,7 +1,7 @@
 # Monthly Maintenance (Every 500 Print Hours)
 Over time, screws will loosen and parts will wear. Sometimes loctite can be used on screws that loosen regularly, but that's not a good option for every screw, so they'll need to be checked. 
 Likewise, depending on how abrasive the filament you're using is, and how much printing you're doing, the main filament path through the printer can start to show signs of wear, necessitating the replacement of various bits and pieces. 
-Abrasive materials generally include ABS, ASA, antything containing carbon fiber or nylon, glow-in-the-dark filaments, or other filament additives (like "sparkle" or "galaxy" filaments). 
+Abrasive materials generally include ABS, ASA, anything containing carbon fiber or nylon, glow-in-the-dark filaments, or other filament additives (like "sparkle" or "galaxy" filaments). 
 
 - [ ] Check the PTFE tubing feeding the filament into the toolhead for any signs of wear
 - [ ] Consider replacing this tubing as a preventative measure
