@@ -11,7 +11,7 @@ This repository has been organized into three "levels".
 
 - **[Level One](https://github.com/500Foods/WelcomeToTroodon/tree/main#level-one---welcome)** - No hardware mods. Just get the printer working.
 - **[Level Two](https://github.com/500Foods/WelcomeToTroodon/tree/main#level-two---get-to-work)** - Basic mods that nearly anyone can perform without spending too much money.
-- **[Level Three](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#level-three---more-speed)** - Advanced mods that take a bit of time, experience, and money, but can dramatically improve the capabilities of the printer.
+- **[Level Three](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#level-three---more-speed)** - Advanced mods that can dramatically improve the capabilities of the printer.
 
 Mods in this context generally refer to hardware mods - replacing or adding parts, wiring, electronics or some other bits that change or modify how the printer works. But mods come in all shapes and sizes. 
 One could also define a mod as changing a software setting or a parameter somewhere, which can have as equally dramatic effects as the most complex hardware mod. Generally speaking, the "mod" term is used here to refer to hardware changes.
