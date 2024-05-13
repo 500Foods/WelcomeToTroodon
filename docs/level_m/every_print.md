@@ -20,7 +20,7 @@ When changing the filament (when not using an MMS):
 - [ ] Check that the nozzle temp is appropriate for the filament being loaded
 - [ ] Feed the filament until it hits the print head
 - [ ] Use the "Load Filament" macro and check that the new filament is extruded
-- [ ] Clean out the extruded filament and give it a good brush
+- [ ] Clean out the extruded filament and give the nozzle a good brush
 - [ ] Use the "Nozzle Clean" and "Nozzle Purge" to ensure everything is ready
 
 Next: [Weekly Maintenance](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/weekly.md)
