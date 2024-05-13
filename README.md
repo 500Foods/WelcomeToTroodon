@@ -7,7 +7,7 @@ Even before your printter is up and running, there are plenty of resources to ch
 - [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md) - Connect with users and vendors of popular prints and products
 - [Vendor Websites](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/vendors.md) - Vetted suppliers with a history of delivering on their promises
 - [YouTube Videos](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/youtubers.md) - Helpful accounts to follow, covering a wide range of topics
-- Troodon Information - Links to check out if you're on the fence about purchasing a Troodon
+- [Troodon Information](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/troodon.md) - Links to check out if you're on the fence about purchasing a Troodon
 - Notes about Mods - What is a mod and why are they so popular?
  
 ## Level One - Welcome! 
