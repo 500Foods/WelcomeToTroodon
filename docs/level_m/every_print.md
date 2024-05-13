@@ -22,3 +22,5 @@ When changing the filament (when not using an MMS):
 - [ ] Use the "Load Filament" macro and check that the new filament is extruded
 - [ ] Clean out the extruded filament and give it a good brush
 - [ ] Use the "Nozzle Clean" and "Nozzle Purge" to ensure everything is ready
+
+Next: [Weekly Maintenance](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/weekly.md)
