@@ -27,13 +27,13 @@ No mods here, really, as these are focused on getting up and running with what y
 This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer, but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
 
 - [TAP Upgrades](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tap_upgrades.md)
-- TAP Alternatives
-- Alternative Build Plates
-- Chamber Fans/Filters
-- Chamber Lighting
-- Multi-Color/Material Options
-- Toppers
-- Advanced Calibration
+- [TAP Alternatives](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tap_alternatives.md)
+- [Alternative Build Plates](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/build_plates.md)
+- [Chamber Fans and Filters](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/chamber_fans.md)
+- [Chamber Lighting](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/chamber_lighting.md)
+- [Multi-material and Multi-Color Options](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/mms_options.md)
+- [Toppers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/toppers.md)
+- [Advanced Calibration](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/advanced_calibration.md)
 - [Klipper TMC Auto Tune](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/klipper_tmc_auto_tune.md)
   
 ## Level Three - More speed!
