@@ -23,7 +23,7 @@ No mods here, really, as these are focused on getting up and running with what y
 - [First Prints](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_prints.md) - Good places to start
 - [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md) - Solutions to common problems
 
-## Level Two - Get to work!
+## Level Two - Get to Work!
 This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer, but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
 
 - [TAP Upgrades](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tap_upgrades.md) - Replace the plastic TAP mount with a metal CNC part
@@ -36,7 +36,7 @@ This list is aimed at those who might be planning for a more production-oriented
 - [Advanced Calibration](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/advanced_calibration.md) - For when you want that extra bit of performance
 - [Klipper TMC Auto Tune](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/klipper_tmc_auto_tune.md) - Let's quiet things down a little
   
-## Level Three - More speed!
+## Level Three - More Speed!
 Once everything is up and running smoothly, your gaze will quickly turn toward faster print speeds. No end to the available options here. Let's have a look at some of the most popular and effective options in these categories.
 
 - CAN Bus
