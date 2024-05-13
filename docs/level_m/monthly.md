@@ -10,3 +10,5 @@ Abrasive materials generally include ABS, ASA, antything with carbon fibre or ny
 - [ ] Check that screws are tight basically everywhere
 - [ ] Change active charcoal filters
 - [ ] Clean fans and any fan enclosures
+
+Next: [Seasonal Maintenance](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/seasonal.md)
