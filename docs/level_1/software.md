@@ -7,6 +7,6 @@
 - 🙂 Configure Timelapse
 - 💪 [Configure Obico](https://github.com/500Foods/WelcomeToTroodon/blob/main/Obico.md)
 - 💪 Secured Remote Access
-- 🙂 Home Assistant Moonraker Integration
+- 💪 Home Assistant Moonraker Integration
   
 Next: [Tools](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/tools.md)
