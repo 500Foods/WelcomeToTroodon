@@ -45,7 +45,7 @@ This list is aimed at those who might be planning for a more production-oriented
 - [Advanced Calibration](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/advanced_calibration.md) - For when you want that extra bit of performance
 - [Klipper TMC Auto Tune](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/klipper_tmc_auto_tune.md) - Let's quiet things down a little
   
-## :skull Level Three - More Speed!  
+## 💀 Level Three - More Speed!  
 Once everything is up and running smoothly, your gaze will quickly turn toward faster print speeds. No end to the available options here. Let's have a look at some of the most popular and effective options in these categories.
 
 - CAN Bus
