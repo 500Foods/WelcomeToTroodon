@@ -32,7 +32,7 @@ This list is aimed at those who might be planning for a more production-oriented
 - [Chamber Fans and Filters](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/chamber_fans.md) - Upgrade VOC filtering, higher chamber temperatures
 - [Chamber Lighting](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/chamber_lighting.md) - Improve the lighting for better visibility, timelapse videos, etc.
 - [Multi-material and Multi-Color Options](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/mms_options.md) - Print with a mix of colors and materials at the same time
-- [Toppers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/toppers.md) - Increase the top height or add more mounting points for other accessories
+- [Toppers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/toppers.md) - Increase the top height or add mounting points for other accessories
 - [Advanced Calibration](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/advanced_calibration.md) - For when you want that extra bit of performance
 - [Klipper TMC Auto Tune](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/klipper_tmc_auto_tune.md) - Let's quiet things down a little
   
