@@ -13,9 +13,14 @@ Even before your printter is up and running, there are plenty of resources to ch
 ## Effort, Expertise, and Expense
 Most everything will require some amount of each of these. To help narrow things down a little, a simple ranking system is used throughout this material.
 
-- 🙂 = Easy - Items that most anyone can (and should) implement, not very complex or time-consuming, typically little or no cost, and without much time commitment
-- 💪 = Medium - Items that are more involved or take a bit more time, not required or not universally applicable, and likely with a small cost
-- 💀 = Hard - Items that might be very beneficial but are complex to implement, with either a significant cost or a significant time commitment, or likely both
+### 🙂 = Easy 
+Items that most anyone can (and should) implement, not very complex or time-consuming, typically little or no cost, and without much time commitment
+
+### 💪 = Medium
+Items that are more involved or take a bit more time, not required or not universally applicable, and likely with a small cost
+
+### 💀 = Hard
+Items that might be very beneficial but are complex to implement, with either a significant cost or a significant time commitment, or likely both
  
 ## Level One - Welcome!  
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
