@@ -11,18 +11,15 @@ Even before your printter is up and running, there are plenty of resources to ch
 - [Notes About Mods](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/modifications.md) - What is a mod and why are they so popular?
 
 ## Effort, Expertise, and Expense
-Most everything will require some amount of each of these. To help narrow things down a little, a simple ranking system is used throughout this material.
+Almost any kind of upgrade or modification to your printer will require something - a bit of time, a bit of know-how, or a bit of money. Sometimes more than one, and sometimes much more than a bit. To help, a simple rating system has been used throughout these pages. Naturally, everyone values their own time, skills, and money differently. What might be cheap for one person might be out of the question for someone else. The same goes for time and talent - there's a reason why we don't all have Vorons! 
 
-### 🙂 = Easy 
-Items that most anyone can (and should) implement, not very complex or time-consuming, typically little or no cost, and without much time commitment
-
-### 💪 = Medium
-Items that are more involved or take a bit more time, not required or not universally applicable, and likely with a small cost
-
-### 💀 = Hard
-Items that might be very beneficial but are complex to implement, with either a significant cost or a significant time commitment, or likely both
+|  🤔  | Effort | Description |
+|:-----:|:---------:|:---|
+| 🙂 | Easy   | Items that almost everyone can (and should) implement<ul><li>Not very time-consuming, often much less than an hour</li><li>Not very complex - grandma could do it (supervised, of course)</li><li>Little or no cost - won't impact the filament budget</li></ul> <tr></tr> |
+| 🔨 | Medium | Items that are broadly applicable, but strictly optional<ul><li>Might take some time to implement, certainly more than a few minutes </li><li>Definitiely need to read the documentation, maybe even watch a video or two</li><li>Some expense, likely more than the cost of a roll of filament</li></ul> <tr></tr> |
+| 💀 | Hard   | Items that might be very beneficial but complex to implement<ul><li>More of a weekend project than an evening project</li><li>Need to do a bit of planning, watch several videos, do a bit of research</li><li>Likely the cost of several rolls of filament, or more, all-in</li><ul> <tr></tr> |
  
-## Level One - Welcome!  
+## 🙂 Level One - Welcome!  
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
 No mods here, really, as these are focused on getting up and running with what you already have out of the box with a typical stock configuration.
 
@@ -35,7 +32,7 @@ No mods here, really, as these are focused on getting up and running with what y
 - [First Prints](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_prints.md) - Good places to start
 - [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md) - Solutions to common problems
 
-## Level Two - Get to Work!
+## 🔨 Level Two - Get to Work!
 This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer, but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
 
 - [TAP Upgrades](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tap_upgrades.md) - Replace the plastic TAP mount with a metal CNC part
@@ -48,7 +45,7 @@ This list is aimed at those who might be planning for a more production-oriented
 - [Advanced Calibration](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/advanced_calibration.md) - For when you want that extra bit of performance
 - [Klipper TMC Auto Tune](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/klipper_tmc_auto_tune.md) - Let's quiet things down a little
   
-## Level Three - More Speed!  
+## :skull Level Three - More Speed!  
 Once everything is up and running smoothly, your gaze will quickly turn toward faster print speeds. No end to the available options here. Let's have a look at some of the most popular and effective options in these categories.
 
 - CAN Bus
