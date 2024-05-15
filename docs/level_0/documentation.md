@@ -7,4 +7,10 @@ Ellis' Print Tuning Guide is applicable to many 3D printers and comes highly rec
 - [Team Gloomy Troodon Assembly Guide](https://teamgloomy.github.io/troodon_v2_assembly.html)
 - [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 
+## Technical Documentation
+For those looking for more detailed information on the specifics of a printer or a printer component, here are some helpful links.
+
+- [Troodon 2.0 Stock Board Pinout](https://teamgloomy.github.io/troodon_v2_pins.html) - via TeamGloomy - Describes the BTT F407 board 
+- [StealthBurner](https://vorondesign.com/voron_stealthburner) - Everything from the parts to the BOM to the assembly manual
+
 Next: [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md)
