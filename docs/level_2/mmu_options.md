@@ -15,6 +15,6 @@ Most of the examples here have been designed to support a customizable number of
 - 🔨 [ERCF](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/ercf.md) - Connects multiple filaments, based largely on the original VORON MMU design
 - 🔨 [TradRack](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tradrack.md) - Connects multiple filaments, similar to ERCF with a 4different design
 - 🔨 [8-Track](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/8track.md) - Connects a set of custom filament dry boxes (cassettes), each with their own extruder
-- 🔨 [Bambu Labs' AMS](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/ams.md)44 - If you have a Bambu printer, an AMS or AMS Lite is also an easy option
+- 🔨 [Bambu Labs' AMS](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/ams.md) - If you have a Bambu printer, an AMS or AMS Lite is also an easy option
 
 Next: [Toppers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/toppers.md)
