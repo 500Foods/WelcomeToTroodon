@@ -16,5 +16,6 @@ Most of the examples here have been designed to support a customizable number of
 - 🔨 [TradRack](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tradrack.md) - Connects multiple filaments, similar to ERCF with a 4different design
 - 🔨 [8-Track](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/8track.md) - Connects a set of custom filament dry boxes (cassettes), each with their own extruder
 - 🔨 [Bambu Labs' AMS](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/ams.md) - If you have a Bambu printer, an AMS or AMS Lite is also an easy option
+- 🔨 Tool Changers - Instead of changing the filament, swap the entire toolhead. 
 
 Next: [Toppers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/toppers.md)
