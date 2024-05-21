@@ -10,6 +10,15 @@ Even before your printter is up and running, there are plenty of resources to ch
 - [Troodon Information](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/troodon.md) - Links to check out if you're on the fence about purchasing a Troodon
 - [Notes About Mods](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/modifications.md) - What is a mod and why are they so popular?
 
+## Effort, Expertise, and Expense
+Almost any kind of upgrade or modification to your printer will require something - a bit of time, a bit of know-how, or a bit of money. Sometimes more than one, and sometimes much more than a bit. To help, a simple rating system has been used throughout these pages. Naturally, everyone values their own time, skills, and money differently. What might be cheap for one person might be out of the question for someone else. The same goes for time and talent - there's a reason why we don't all have Vorons! 
+
+|  🤔  | Effort | Description |
+|:-----:|:---------:|:---|
+| 🙂 | Easy   | Items that almost everyone can (and should) implement<ul><li>Not very time-consuming, often much less than an hour</li><li>Not very complex - grandma could do it (supervised, of course)</li><li>Little or no cost - won't impact the filament budget</li></ul> <tr></tr> |
+| 🔨 | Medium | Items that are broadly applicable, but strictly optional<ul><li>Might take some time to implement, certainly more than a few minutes </li><li>Definitiely need to read the documentation, maybe even watch a video or two</li><li>Some expense, likely more than the cost of a roll of filament</li></ul> <tr></tr> |
+| 🥇 | Difficult | Items that might be very beneficial but complex to implement<ul><li>More of a weekend project than an evening project</li><li>Need to do a bit of planning, watch several videos, do a bit of research</li><li>Likely the cost of several rolls of filament, or more, all-in</li><ul> <tr></tr> |
+
 ## Fussy Filaments
 A critical aspect of 3D printing relates to what kind of material - what filament - is being used. While there are plenty of websites that go on at length about the properties of a huge array of filaments, at the end of the day it is up to your printer to make the most of the filament you're feeding it. There are differences in filament quality between vendors, and sometimes even between colors or batches of the same filament type from the same vendor. But at the end of the day, it all comes down to the spool of filament that you have on-hand, and how well-equipped your printer is to deal with it.
 
@@ -21,15 +30,6 @@ A critical aspect of 3D printing relates to what kind of material - what filamen
 - Nylon
 - Additives
 - Others
-
-## Effort, Expertise, and Expense
-Almost any kind of upgrade or modification to your printer will require something - a bit of time, a bit of know-how, or a bit of money. Sometimes more than one, and sometimes much more than a bit. To help, a simple rating system has been used throughout these pages. Naturally, everyone values their own time, skills, and money differently. What might be cheap for one person might be out of the question for someone else. The same goes for time and talent - there's a reason why we don't all have Vorons! 
-
-|  🤔  | Effort | Description |
-|:-----:|:---------:|:---|
-| 🙂 | Easy   | Items that almost everyone can (and should) implement<ul><li>Not very time-consuming, often much less than an hour</li><li>Not very complex - grandma could do it (supervised, of course)</li><li>Little or no cost - won't impact the filament budget</li></ul> <tr></tr> |
-| 🔨 | Medium | Items that are broadly applicable, but strictly optional<ul><li>Might take some time to implement, certainly more than a few minutes </li><li>Definitiely need to read the documentation, maybe even watch a video or two</li><li>Some expense, likely more than the cost of a roll of filament</li></ul> <tr></tr> |
-| 🥇 | Difficult | Items that might be very beneficial but complex to implement<ul><li>More of a weekend project than an evening project</li><li>Need to do a bit of planning, watch several videos, do a bit of research</li><li>Likely the cost of several rolls of filament, or more, all-in</li><ul> <tr></tr> |
  
 ## 🙂 Level One - Welcome!  
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
