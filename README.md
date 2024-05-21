@@ -10,6 +10,18 @@ Even before your printter is up and running, there are plenty of resources to ch
 - [Troodon Information](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/troodon.md) - Links to check out if you're on the fence about purchasing a Troodon
 - [Notes About Mods](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/modifications.md) - What is a mod and why are they so popular?
 
+## Fussy Filaments
+A critical aspect of 3D printing relates to what kind of material - what filament - is being used. While there are plenty of websites that go on at length about the properties of a huge array of filaments, at the end of the day it is up to your printer to make the most of the filament you're feeding it. There are differences in filament quality between vendors, and sometimes even between colors or batches of the same filament type from the same vendor. But at the end of the day, it all comes down to the spool of filament that you have on-hand, and how well-equipped your printer is to deal with it.
+
+- Choosing a Filament
+- PLA
+- PETG
+- TPU
+- ABS / ASA
+- Nylon
+- Additives
+- Others
+
 ## Effort, Expertise, and Expense
 Almost any kind of upgrade or modification to your printer will require something - a bit of time, a bit of know-how, or a bit of money. Sometimes more than one, and sometimes much more than a bit. To help, a simple rating system has been used throughout these pages. Naturally, everyone values their own time, skills, and money differently. What might be cheap for one person might be out of the question for someone else. The same goes for time and talent - there's a reason why we don't all have Vorons! 
 
