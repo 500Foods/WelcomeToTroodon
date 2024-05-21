@@ -1,6 +1,6 @@
 # Software and Firmware
 - 🙂 [Install Latest Version of Klipper](https://github.com/500Foods/WelcomeToTroodon/blob/main/klipper.md)
-- 🎁 [Flashing the MCU](https://github.com/500Foods/WelcomeToTroodon/blob/main/flash_mcu.md)
+- 🥇 [Flashing the MCU](https://github.com/500Foods/WelcomeToTroodon/blob/main/flash_mcu.md)
 - 🙂 Printer.cfg Priority Items
 - 🙂 Logging in via SSH
 - 🙂 Configure Webcam
