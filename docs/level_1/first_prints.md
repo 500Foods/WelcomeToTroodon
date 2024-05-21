@@ -5,5 +5,6 @@
 - Filament Runout Sensor Mount
 - Bed Alignment Guides
 - Rocker Feet
+- Boxes and Organizers
 
 Next: [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md)
