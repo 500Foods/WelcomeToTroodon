@@ -22,14 +22,13 @@ Almost any kind of upgrade or modification to your printer will require somethin
 ## Fussy Filaments
 A critical aspect of 3D printing relates to what kind of material - what filament - is being used. While there are plenty of websites that go on at length about the properties of a huge array of filaments, at the end of the day it is up to your printer to make the most of the filament you're feeding it. There are differences in filament quality between vendors, and sometimes even between colors or batches of the same filament type from the same vendor. But at the end of the day, it all comes down to the spool of filament that you have on-hand, and how well-equipped your printer is to deal with it.
 
-- Choosing a Filament
-- PLA
-- PETG
-- TPU
-- ABS / ASA
-- Nylon
-- Additives
-- Others
+- PLA - Most common, easiest to start with, least expensive
+- PETG - More durable, less brittle, quite popular
+- TPU - Much more flexible and sometimes even stretchy
+- ABS / ASA - Better for high-temperature environments
+- Nylon - Not as strong but very durable, more expensive
+- Additives - Glass and Carbon Fiber take things up a notch
+- Others - Many, many more options to choose from
  
 ## 🙂 Level One - Welcome!  
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
