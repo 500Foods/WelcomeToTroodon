@@ -20,15 +20,15 @@ Almost any kind of upgrade or modification to your printer will require somethin
 | 🥇 | Difficult | Items that might be very beneficial but complex to implement<ul><li>More of a weekend project than an evening project</li><li>Need to do a bit of planning, watch several videos, do a bit of research</li><li>Likely the cost of several rolls of filament, or more, all-in</li><ul> <tr></tr> |
 
 ## Fussy Filaments
-A critical aspect of 3D printing relates to what kind of material - what filament - is being used. While there are plenty of websites that go on at length about the properties of a huge array of filaments, at the end of the day it is up to your printer to make the most of the filament you're feeding it. There are differences in filament quality between vendors, and sometimes even between colors or batches of the same filament type from the same vendor. But at the end of the day, it all comes down to the spool of filament that you have on-hand, and how well-equipped your printer is to deal with it.
+A critical aspect of 3D printing relates to the type of filament used. While there are many websites that go on at length about the properties of a huge array of filaments, at the end of the day it comes down to how well the printer can process the filament being fed to it. There are differences in filament quality between vendors, and sometimes even between colors or batches of the same filament type from the same vendor. There can also be differences related to how dry the filament is. Here we'll have a brief look at the most common filament types and what kinds of things to plan for in terms of printer capabilities, modifications, settings, and so on to get the most from each.
 
-- PLA - Most common, easiest to start with, least expensive
-- PETG - More durable, less brittle, quite popular
-- TPU - Much more flexible and sometimes even stretchy
-- ABS / ASA - Better for high-temperature environments
-- Nylon - Not as strong but very durable, more expensive
-- Additives - Glass and Carbon Fiber take things up a notch
-- Others - Many, many more options to choose from
+- [PLA](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/pla.md) - Most common, easiest to start with, least expensive
+- [PETG](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/petg.md) - More durable, less brittle, quite popular
+- [TPU](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/tpu.md) - Much more flexible and sometimes even stretchy
+- [ABS / ASA](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/abs.md) - Better for high-temperature environments
+- [Nylon](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/nylon.md) - Not as strong but very durable, more expensive
+- [Additives](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/additivies.md) - Glass and Carbon Fiber take things up a notch
+- [Others](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/others.md) - Many, many more options to choose from
  
 ## 🙂 Level One - Welcome!  
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
