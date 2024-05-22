@@ -5,7 +5,7 @@ It is also used in bed mesh levelling, where it touches an array of points acros
 
 Some prefer to replace this mechanism entirely, particularly as new sensors that measure eddy currents have become available. These measure considerably more points to build a more accurate mesh, and do so in much less time and without physically touching the bed. We'll cover those in [this section](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tap_alternatives.md). 
 
-As the default TAP mechanism is made of plastic, an easy improvement is to replace it with a metal CNC part. Several such designs are readily available, with the Vitalii CNC TAP being a particular favorite. As is often the case, a variation without the name "Vitalii" can be found on AliExpress. 
+As the default TAP mechanism is made of plastic which can easily deform or become brittle over time, or even break. Given the nature of what this part does, it is perhaps more prone to damage than most. An obvious improvement is to replace it with a metal CNC part. Several such designs are readily available, with the [Vitalii3D CNC TAP](https://www.etsy.com/listing/1446827040/metal-tap-for-voron-cnc-voron-tap?variation0=3734336828) being a particular favorite. As is often the case, a variation without the name "Vitalii3D" can be found on AliExpress. 
 Generally, searching for "Voron CNC Mount" is likely to turn up any number of similar products.
 
 - [Etsy](https://www.etsy.com/listing/1446827040/metal-tap-for-voron-cnc-voron-tap?variation0=3734336828)
@@ -20,7 +20,7 @@ Other products include an entire replacement for TAP if some part of it has beco
 - [Chaotic Lab - Voron TAP](https://www.chaoticlab.com/products/cnc-voron-tap)
 - [West3D - Chaotic Lab Voron TAP](https://west3d.com/products/chaoticlab-cnc-voron-tap-complete?variant=44231531397332)
 
-Lots of videos around that compare various TAP options. Here's [one](https://www.youtube.com/watch?v=bg1VPMuCgWk).
+There are a few videos around that compare various TAP options. Here's [one](https://www.youtube.com/watch?v=bg1VPMuCgWk).
 
 ## Installing Vitalii TAP 
-As far as complexity goes, this ranks as a little more involved, given that the print head has to be taken off and the main XY belts disconnected. Which does take some time.
+As far as complexity goes, this ranks as a little more involved, given that the print head has to be taken off and the main XY belts disconnected. Which does take some time. And it has to be assembled, requiring a few 3D-printed parts that need heat-set inserts. So a little bit of prep work ahead of time is needed.
