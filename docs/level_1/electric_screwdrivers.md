@@ -12,4 +12,4 @@ NOTE: Be sure to pick up a bit magnetizer if the kit doesn't already come with o
 - [Amazon (CA)](https://www.amazon.ca/s?k=mini+electric+screwdriver+set) - Search: Mini Electric Screwdriver Set
 - [AliExpress](https://www.aliexpress.us/w/wholesale-mini-electric-screwdriver-set.html) - Search: Mini Electric Screwdriver Set
 
-Next: High-Torque Screwdrivers
+Next: [High-Torque Screwdrivers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/hightorque.md)
