@@ -10,7 +10,8 @@ Plenty of other things might find their way into this macro.
 
 As with all the Macros provided here, be sure to examine them thoroughly and carefully and comment/uncomment the various parts as needed. 
 
-***DISCLAIMER: While every effort is made to ensure that these work well in the vast majority of cases, typos or other mistakes made in these macros can lead to bad things happening. Be sure to thoroughly test any changes you make.***
+***DISCLAIMER: While every effort is made to ensure that these macros work well in the vast majority of cases, typos or other mistakes made in these macros can lead to bad things happening. 
+Please be sure to thoroughly test any changes you make to your own printer configuration, and also be sure to factor in any modifications you have made from your stock configuration.***
 
 ```
 ####################################
