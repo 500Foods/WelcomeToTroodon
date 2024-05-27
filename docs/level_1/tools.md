@@ -1,6 +1,7 @@
 # Tools
 - Electric Screwdrivers
 - High-torque Screwdrivers
+- Digital belt tension gauge
 - Microfibre Cloths
 - Scraper
 - Deburring Tool
