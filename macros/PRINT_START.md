@@ -7,6 +7,7 @@ Plenty of other things might find their way into this macro.
 - Quad-Gantry-Levelling (QGL)
 - Nozzle Cleaning
 - Nozzle Priming
+- Chamber temperatures/heaters
 
 As with all the Macros provided here, be sure to examine them thoroughly and carefully and comment/uncomment the various parts as needed. 
 
