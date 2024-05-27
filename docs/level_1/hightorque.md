@@ -11,4 +11,4 @@ Bonus points if you can get a matching black/red set.
 
 - [Amazon (CA)](https://a.co/d/5eMKST0) - TEKTON Hex High-Torque Black Oxide Blade Screwdriver Set with Holder, 10-Piece (1.5-6 mm)
 
-Next: Digital Belt Tension Gauge
+Next: [Digital Belt Tension Gauge](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/digital_belt_gauge.md)
