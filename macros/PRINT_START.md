@@ -2,7 +2,7 @@
 
 The PRINT_START macro is typically called before the start of every print job. It is used primarily to configure the printer to a known state in terms of the temperatures of its various components, specifically the extruder temperature and the bed temperature.
 
-Plenty of other things might find their way into this macro. 
+Plenty of other things might find their way into this macro in future, or might be there already.
 - Calibrating or loading a bed mesh
 - Quad-Gantry-Levelling (QGL)
 - Nozzle Cleaning
