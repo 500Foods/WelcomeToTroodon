@@ -24,7 +24,7 @@ gcode:
     # This will typically be a value in the range 220-260C
     {% set temp_extruder  = params.EXTRUDER|default(260)|int %}
 
-    # Set extruder temp initially (without waiting) initially
+    # Set extruder temperature (without waiting) initially
     M104 S{temp_extruder}       # No Waiting
     #M109 S{temp_extruder}      # Waiting
 
