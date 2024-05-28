@@ -15,9 +15,10 @@ There are many elements that may be added to such a macro depending on the avail
 The PRINT_START macro as shown below tries to speed up the process by first setting the temperature targets for the extruder and the bed without waiting for them to reach temperature before continuing. 
 This allows for non-heat-related items, like homing the toolhead, to continue while they reach temperature. 
 However, it is likely that the slicer will generate the non-wait versions of these very same commands in the generated gcode, even before calling PRINT_START. 
-In Orca for example, these are set in the top-most printer settings under "Machine G-code". Be sure to remove those commands in the generated gcode to take advantage of this optimization.
+In Orca, for example, these are set in the top-most printer settings under "Machine G-code". Be sure to remove those commands in the generated gcode to take advantage of this optimization.
 
-As with all the Macros provided here, be sure to examine them thoroughly and comment/uncomment the various parts as needed. 
+As with all the Macros provided here, be sure to examine them thoroughly and comment/uncomment the various parts as needed. Also, note that if there are more console log entries than you'd like to see,
+the console log typically has the ability to have filters applied. In Mainsail, you can find these under the Interface Settings (gear icon in the top-right corner), at the bottom of the Console page.
 
 ***DISCLAIMER: While every effort is made to ensure that these macros work well in the vast majority of cases, typos or other mistakes made in these macros can lead to bad things happening. 
 Please be sure to thoroughly test any changes you make to your own printer configuration, and also be sure to factor in any modifications you have made from your stock configuration.***
