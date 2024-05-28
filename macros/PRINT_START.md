@@ -19,6 +19,7 @@ Please be sure to thoroughly test any changes you make to your own printer confi
 # PRINT_START macro
 ####################################
 [gcode_macro PRINT_START]
+description: Prepare the printer for a new print job
 gcode:
 
     # Start a timer (Note: Requires TIMER macros)
