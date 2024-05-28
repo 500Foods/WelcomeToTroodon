@@ -1,6 +1,6 @@
 # TIMER Macros
 
-See [here](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_s/time_timer.md) for more information.
+See [here](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_s/time_timer.md) for more information. Note that while these are macros destined for printer.cfg, they rely on several supporting [shell scripts](https://github.com/500Foods/WelcomeToTroodon/tree/main#time-and-timer-shell-commands).
 
 ```
 ####################################
