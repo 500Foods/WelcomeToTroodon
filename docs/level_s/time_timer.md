@@ -31,7 +31,7 @@ The first stanza gives us a place to put in the full pathname to the script - th
 
 With that installed, we've got a new button in the Klipper interface and when we click on it, the current date/time is shown in the Klipper console. we can also just enter the command 'current_date_time' into the console and get the same end result. Or we can add it to another macro anytime we want that macro to output the current date and time. Note that this is somewhat less than useful as the Klipper console logs the time anyway. 
 
-![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/fe789383-b277-4054-bdb0-860cb1f9e67d)
+<kbd><a href="URL"><img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/fe789383-b277-4054-bdb0-860cb1f9e67d></a></kbd>
 
 ## Timers
 
@@ -90,10 +90,11 @@ For our PRINT_START macro, we can add this at the beginning, being sure to inden
 And at the end of the macro, we can make the call to output the elapsed time to the Klipper console.
 ```
     # Show elpased time (NOTE: Requires TIMER macros)
-    RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='PRINT_START'
+    RUN_SHELL_COMMAND CMD=shell_get_elapsed_time PARAMS='PRINT_START'
 ```
 Now, once the PRINT_START macro completes, you'll see a message something like this in the console.
-![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/2a4a8850-b9e3-4bbb-91c9-559647912ae4)
+
+<kbd><a href="URL"><img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/2a4a8850-b9e3-4bbb-91c9-559647912ae4></a></kbd>
 
 
 
