@@ -1,9 +1,14 @@
 # TIMER Macros
 
+See [here](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_s/time_timer.md) for more information.
+
 ```
 ####################################
 # TIMER macros
 ####################################
+
+# These log the current date/time in ISO8601 format
+
 [gcode_shell_command shell_get_current_datetime]
 command: ~/scripts/get_current_datetime.sh
 timeout: 2.
@@ -13,6 +18,8 @@ verbose: True
 gcode:
     RUN_SHELL_COMMAND CMD=shell_get_current_datetime
 
+
+# These start a timer by logging a timestamp to a tmp file
     
 [gcode_shell_command shell_log_current_datetime]
 command: ~/scripts/log_current_datetime.sh
@@ -24,6 +31,7 @@ gcode:
     {% set TIMER=params.TIMER | default("Manual_Timer") | string %}
     RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS={TIMER}
 
+# These calculate the eleapsed time by reading in a previous tmp file value
 
 [gcode_shell_command shell_get_elapsed_time]
 command: ~/scripts/get_elapsed_time.sh
