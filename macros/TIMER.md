@@ -18,7 +18,6 @@ verbose: True
 gcode:
     RUN_SHELL_COMMAND CMD=shell_get_current_datetime
 
-
 # These start a timer by logging a timestamp to a tmp file
     
 [gcode_shell_command shell_log_current_datetime]
