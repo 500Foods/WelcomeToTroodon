@@ -20,6 +20,10 @@ Please be sure to thoroughly test any changes you make to your own printer confi
 ####################################
 [gcode_macro PRINT_START]
 gcode:
+
+    # Start a timer (Note: Requires TIMER macros)
+    # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='PRINT_START'
+
     # Get the extruder temperature expected for this print job
     # This will typically be a value in the range 220-260C
     {% set temp_extruder  = params.EXTRUDER|default(260)|int %}
@@ -87,5 +91,8 @@ gcode:
 
     # One last home
     G28
+
+    # Show elapsed time (Note: Requires TIMER macros)
+    # RUN_SHELL_COMMAND CMD=shell_get_elapsed_time PARAMS='PRINT_START'
     
 ```
