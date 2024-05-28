@@ -1,6 +1,6 @@
 # TIMER Macros
 
-An explanation for how to use these can be found [here](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_s/time_timer.md). Note that these macros rely on several supporting [shell scripts](https://github.com/500Foods/WelcomeToTroodon/tree/main#time-and-timer-shell-commands).
+An explanation for how to use these can be found [here](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_s/time_timer.md). Note that these macros rely on several supporting [shell scripts](https://github.com/500Foods/WelcomeToTroodon#time-and-timer-shell-scripts).
 
 ```
 ####################################
