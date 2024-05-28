@@ -35,24 +35,24 @@ With that installed, we've got a new button in the Klipper interface and when we
 
 ## Timers
 
-With that in place, we can do something similar to get timers working. To amke this more useful, we're going to pass a parameter to indicate the name of a timer. This will make it possible to have a separate timer running in different macros, or even just to have a manually-run timer for whatever purpose you want to have a timer for in Klipper. However, we've got a problem.  We can pass variables from Klipper to our script, but we can't get values back. So we'll use this parameter to store the current time in a local tmp file (using the parameter as part of the filename). And then use a second script to retrieve that value and show us the elapsed time.
+With that in place, we can do something similar to get timers working. To make this more useful, we're going to pass a parameter to indicate the name of a timer. This will make it possible to have a separate timer running in different macros, or even just to have a manually-run timer for whatever purpose you want to have a timer for in Klipper. However, we've got a problem.  We can pass variables from Klipper to our script, but we can't get values back. So we'll use this parameter to store the current time in a local tmp file (using the parameter as part of the filename). And then use a second script to retrieve that value and show us the elapsed time.
 
-For our first timer script, let's call it log_current_datetime.sh. It writes out the current epoch value (number of seconds since January 1, 1970) to a temporary file that includes the parameter as part of the filename. In this case, we're using a built-in Bash feature that stores this value in a variable that we can just write out directly.
+For our first timer script, let's call it [log_current_datetime.sh](https://github.com/500Foods/WelcomeToTroodon/blob/main/scripts/log_current_datetime.sh). It writes out the current epoch value (number of seconds since January 1, 1970) to a temporary file that includes the parameter as part of the filename. In this case, we're using a built-in Bash feature that stores this value in a variable that we can just write out directly.
 ```
-# echo $EPOCHSECONDS > /tmp/klipper-TEST-epochtime.tmp
-# cat /tmp/klipper-TEST-epochtime.tmp
+# echo $EPOCHSECONDS > /tmp/klipper-$1-epochtime.tmp
+# cat /tmp/klipper-$1-epochtime.tmp
 1716861043
 ```
-For the second timer script, all we're doing is reading in this same value (at a later time, naturally) and displaying the difference, in seconds, using a more human-readable format. Let's call this one get_elapsed_time.sh.
+For the second timer script, all we're doing is reading in this same value (at a later time, naturally) and displaying the difference, in seconds, using a more human-readable format. Let's call this one [get_elapsed_time.sh](https://github.com/500Foods/WelcomeToTroodon/blob/main/scripts/get_elapsed_time.sh).
 ```
 now=`echo $EPOCHSECONDS`
 then=`cat /tmp/klipper-$1-epochtime.tmp`
 timediff=$(($now-$then))
 echo "$1 Elapsed Time: " `date -ud @${timediff} +"$(( seconds/3600/24 ))d %-Hh %-Mm %-Ss" | sed -E 's/\b0(s|m|h|d) ?//g; s/ +$//; s/^$/0s/'`
 ```
-The tricky bit here is in the formatting of the number of seconds as a nice 2m 16s sort of thing. Don't worry, there won't be a quiz on the inner workings of sed. 
+The tricky bit here is in the formatting of the number of seconds as a nice '2m 16s' sort of thing. Don't worry, there won't be a quiz on the inner workings of sed. 
 
-On the Klipper side, we'll set up two macros that work in the same way as our previous current date/time macro worked.
+On the Klipper side, we'll set up two pairs of macros that work in the same way as our previous current date/time pair of macros worked.
 
 ```
 # These start a timer by logging a timestamp to a tmp file
@@ -81,15 +81,15 @@ gcode:
 ```
 
 ## Macro Timing
-To put it all together, then, we can add an extra command at the beginning of a macro to kick off one of these timers, giving it the name of the macro we're timing, for example, And then at the end of the macro we can retrieve the elapsed time. 
+To put it all together, then, we can add an extra command at the beginning of a macro to kick off one of these timers, giving it the name of the macro we're timing, for example. And then at the end of the macro we can retrieve the elapsed time. 
 For our PRINT_START macro, we can add this at the beginning, being sure to indent it to be inline with the rest of the macro.
 ```
-    # Start a timer
+    # Start a timer (Note: Requires TIMER macros)
     RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='PRINT_START'
 ```
 And at the end of the macro, we can make the call to output the elapsed time to the Klipper console.
 ```
-    # Start a timer
+    # Show elpased time (NOTE: Requires TIMER macros)
     RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='PRINT_START'
 ```
 Now, once the PRINT_START macro completes, you'll see a message something like this in the console.
