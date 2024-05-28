@@ -31,6 +31,7 @@ description: Prepare the printer for a new print job
 gcode:
 
     # Start a timer (Note: Requires TIMER macros)
+    # RUN_SHELL_COMMAND CMD=shell_get_current_datetime
     # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='PRINT_START'
 
     # Get the extruder temperature expected for this print job
