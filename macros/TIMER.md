@@ -15,6 +15,7 @@ timeout: 2.
 verbose: True
 
 [gcode_macro current_date_time]
+description: Log the current date/time in IOS8601 format
 gcode:
     RUN_SHELL_COMMAND CMD=shell_get_current_datetime
 
@@ -26,6 +27,7 @@ timeout: 2.
 verbose: False
 
 [gcode_macro timer_start]
+description: Start a named timer
 gcode:
     {% set TIMER=params.TIMER | default("Manual_Timer") | string %}
     RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS={TIMER}
@@ -38,6 +40,7 @@ timeout: 2.
 verbose: True
 
 [gcode_macro timer_elapsed]
+description: Show the elapsed time of a named timer
 gcode:
     {% set TIMER=params.TIMER | default("Manual_Timer") | string %}
     RUN_SHELL_COMMAND CMD=shell_get_elapsed_time PARAMS={TIMER}
