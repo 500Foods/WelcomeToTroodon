@@ -1,15 +1,23 @@
 # PRINT_START Macro
 
-The PRINT_START macro is typically called before the start of every print job. It is used primarily to configure the printer to a known state in terms of the temperatures of its various components, specifically the extruder temperature and the bed temperature.
+The PRINT_START macro is typically called at the start of every print job. It is used primarily to configure the printer to a known state in terms of the temperatures of its various components, specifically the extruder (hotend) temperature and the bed temperature. 
+It also looks after moving the toolhead to a known position along with various position-related calibration steps.
 
-Plenty of other things might find their way into this macro in future, or might be there already.
-- Calibrating or loading a bed mesh
+There are many elements that may be added to such a macro depending on the available hardware, some of which are included in the PRINT_START macro shown below.
+- Homing X, Y, and Z 
 - Quad-Gantry-Levelling (QGL)
-- Nozzle Cleaning
-- Nozzle Priming
-- Chamber temperatures/heaters
+- Nozzle cleaning and priming
+- Configure chamber temperatures/heaters
+- Initialize custom lighting options
+- Initialize custom camera settings
+- Log timing or other data
 
-As with all the Macros provided here, be sure to examine them thoroughly and carefully and comment/uncomment the various parts as needed. 
+The PRINT_START macro as shown below tries to speed up the process by first setting the temperature targets for the extruder and the bed without waiting for them to reach temperature before continuing. 
+This allows for non-heat-related items, like homing the toolhead, to continue while they reach temperature. 
+However, it is likely that the slicer will generate the non-wait versions of these very same commands in the generated gcode, even before calling PRINT_START. 
+In Orca for example, these are set in the top-most printer settings under "Machine G-code". Be sure to remove those commands in the generated gcode to take advantage of this optimization.
+
+As with all the Macros provided here, be sure to examine them thoroughly and comment/uncomment the various parts as needed. 
 
 ***DISCLAIMER: While every effort is made to ensure that these macros work well in the vast majority of cases, typos or other mistakes made in these macros can lead to bad things happening. 
 Please be sure to thoroughly test any changes you make to your own printer configuration, and also be sure to factor in any modifications you have made from your stock configuration.***
