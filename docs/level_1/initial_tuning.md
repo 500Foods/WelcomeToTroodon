@@ -3,6 +3,6 @@ While most printers, including Troodons, come already preconfigured whenever pos
 
 - X/Y/Z Limits - How far the toolhead can move in each direction
 - Belt Tensioning - Not too loose, not too tight, but just right
-- PID Tuning - Calibrate your heating elements for optimal performance
+- [PID Tuning](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/pid_tuning.md) - Calibrate your heating elements for optimal performance
 
 Next: [First Prints](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_prints.md)
