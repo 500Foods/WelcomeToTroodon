@@ -10,6 +10,9 @@ NOTE: In order for this to be called, Klipper must be told about it. This is han
 It, and the PRINT_CANCEL macro, may already exist or might not be present. Be sure to also check for CANCEL_PRINT macro and consider combining the two into one macro.
 ```
 on_error_gcode: PRINT_CANCEL
+```
+
+```
 #######################################
 # PRINT_CANCEL
 #######################################
