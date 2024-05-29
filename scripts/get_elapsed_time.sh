@@ -21,4 +21,4 @@ timediff=$(($now-$then))
 echo "$1 Elapsed Time: " `date -ud @${timediff} +"$(( seconds/3600/24 ))d %-Hh %-Mm %-Ss" | sed -E 's/\b0(s|m|h|d) ?//g; s/ +$//; s/^$/0s/'`
 
 # To record these values indefinitely, enable this command
-echo "$1 Elapsed Time: " `date -ud @${timediff} +"$(( seconds/3600/24 ))d %-Hh %-Mm %-Ss" | sed -E 's/\b0(s|m|h|d) ?//g; s/ +$//; s/^$/0s/'` >> ~/printer_data/logs/timers.log
+echo `date +"%Y-%m-%dT%H:%M:%S%z"` "$1 Elapsed Time: " `date -ud @${timediff} +"$(( seconds/3600/24 ))d %-Hh %-Mm %-Ss" | sed -E 's/\b0(s|m|h|d) ?//g; s/ +$//; s/^$/0s/'` >> ~/printer_data/logs/timers.log
