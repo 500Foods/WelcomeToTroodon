@@ -23,7 +23,7 @@ gcode:
     G91                   # Relative positioning
     G1 E-5.00 F1000       # Retract 5mm of filament
 
-    # Pick a final position 
+    # Pick a final position - Assuming a 350mm x 350mm x 310mm print volume
     # Here, the toolhead is presented for inspection following a failure
     G90                   # Absolute positioning
     G1 Z310               # Max Z first
