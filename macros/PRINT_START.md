@@ -17,6 +17,14 @@ This allows for non-heat-related items, like homing the toolhead, to continue wh
 However, it is likely that the slicer will generate the non-wait versions of these very same commands in the generated gcode, even before calling PRINT_START. 
 In Orca, for example, these are set in the top-most printer settings under "Machine G-code". Be sure to remove those commands in the generated gcode to take advantage of this optimization.
 
+NOTE: The PRINT_START macro call is added to the gcode sent to the printer by the slicer software. For example, in Orca, it looks like this, which can be found in Print Settings > Machine G-cocde > Machine Start G-code. 
+This is where the values for EXTRUDER and BED are derived from in the script.
+```
+PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]
+```
+
+NOTE: Sometimes there is also a START_PRINT macro defined in printer.cfg. Unless it is being called by your slicer or by another macro, it can be safely removed.
+
 As with all the Macros provided here, be sure to examine them thoroughly and comment/uncomment the various parts as needed. Also, note that if there are more console log entries than you'd like to see,
 the console log typically has the ability to have filters applied. In Mainsail, you can find these under the Interface Settings (gear icon in the top-right corner), at the bottom of the Console page.
 
