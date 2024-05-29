@@ -34,7 +34,7 @@ gcode:
     # Start a timer (Note: Requires TIMER macros)
     # RUN_SHELL_COMMAND CMD=shell_get_current_datetime
     # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='PRINT_START'
-    # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='___COMPLETE'
+    # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='__COMPLETED'
     # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='__CANCELLED'
 
     # Get the extruder temperature expected for this print job
