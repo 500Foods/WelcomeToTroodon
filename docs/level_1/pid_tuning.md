@@ -1,4 +1,4 @@
-# PID Tuning
+# 🙂 PID Tuning
 A critical component in any 3D printer is the hotend. In particular, the heater at the bottom of the toolhead, just above the nozzle, is where the filament is melted just prior to being pushed out through the nozzle. 
 Maintaining a constant temperature here is important to ensure a smooth and consist flow of filament. 
 
@@ -21,24 +21,24 @@ target temperature when heating (or cooling), then this is a good sign that a PI
 Lots of words, but how do we actually kick off a PID Tuning session? Pretty easy, as it turns out.
 
 - Start when the printer and print bed are at room temperature
-- Home the printer as you normally would, with the tool head in the middle of the build plate
-- Raise the Z axis off the bed around 50mm so the bed temperature isn't interfering
-- Determine the TARGET temperature for the Tuning - the temperature you most often print at
+- Home the printer as you normally would, with the toolhead in the middle of the build plate
+- Raise the Z axis off the bed around 50mm so the bed temperature isn't affecting the extruder
+- Determine the TARGET temperature for the PID Tune - the temperature you most often print at
 - Run the following command in the Klipper console, setting TARGET to that temperature 
 ```
 PID_CALIBRATE HEATER=extruder TARGET=260
 ```
-The printer will then heat up the extruder to that temperature and then oscilate a handful of times. This might take a few minutes,
+The printer will then heat up the extruder to that temperature and then oscillate a handful of times. This might take a few minutes,
 depending on what kind of heating element is available. 
 When complete, it will output a message indicating the optimal values it has determined from its calibration run. To save these
-values in printer.cfg, run the SAVE_MESH command as indicated.
-
+values in printer.cfg, run the SAVE_CONFIG command as indicated. Klipper will then immediately restart and use these values.
 
 ## PID Tuning - Bed Heater
-The bed heater works the same way, just usually a little slower than the extruder heater. PID Tuning can be done here using the same approach.
+The bed heater works the same way, just usually a little slower than the extruder heater. PID Tuning can be done here using the same approach. Use whatever bed temperature here that you normally use for printing.
+ABS/ASA prints are typically run with a 100C bed, for example.
 ```
-PID_CALIBRATE HEATER=heater_bed TARGET=60
+PID_CALIBRATE HEATER=heater_bed TARGET=100
 ```
 Changing the bed heater or anything related to the components involved in maintaining a consistent bed temperature would be a good time to run this calibration.
 
-Next: First Prints
+Next: [First Prints](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_prints.md)
