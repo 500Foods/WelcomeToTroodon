@@ -1,4 +1,4 @@
-# CANCEL_PRINT
+# PRINT_CANCEL
 A print generally ends in one of two ways - either it is successful and completes normally, or something goes awry and you cancel it. Klipper can be configured to do different things in each case.
 Here, we're addressing what to do when a print is prematurely cancelled. Note that if an "emergency stop" mechanism is used, this macro will not be executed.
 
@@ -6,12 +6,14 @@ The main things we're doing here are calling the timer to log the elapsed time, 
 to the front of the printer, center-top, so it is easy to have a look at the nozzle and see if anything is amiss. This can also as a visual cue that the print was cancelled. 
 Note that a print could be cancelled automatically due to missed temperature targets and that kind of thing.
 
+NOTE: In order for this to be called, Klipper must be told about it. This is handled using the "on_erro_gcode" directive which typically appears near the top of the printer.cfg file. 
+It, and the PRINT_CANCEL macro, may already exist or might not be present. Be sure to also check for CANCEL_PRINT macro and consider combining the two into one macro.
 ```
+on_error_gcode: PRINT_CANCEL
 #######################################
-# CANCEL_PRINT
+# PRINT_CANCEL
 #######################################
-
-[gcode_macro CANCEL_PRINT]
+[gcode_macro PRINT_CANCEL]
 description: Cancel print abruptly
 rename_existing: BASE_CANCEL_PRINT
 gcode:
