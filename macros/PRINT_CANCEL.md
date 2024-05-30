@@ -18,7 +18,7 @@ command it is currently working on. If that's printing a line of filament, as in
 In the case of macros, and in particular the PRINT_START macro, Klipper will wait until the *entire* macro completes before acknowledging the cancel request. 
 It may often be quicker to use the emergency stop function and restart Klipper rather than wait for it to finish, particularly if you want to cancel a print job before it has laid down any filament. 
 ```
-#######################################
+######################################
 # PRINT_CANCEL macro
 #######################################
 [gcode_macro PRINT_CANCEL]
@@ -43,8 +43,21 @@ gcode:
     G1 Z310               # Max Z first
     G1 X175               # Center X
     G1 Y10                # Front Y
-    
+
+    # Turn off heaters
+    TURN_OFF_HEATERS                         # Let things cool down
+
+    # Turn on part cooling fan to max to cool nozzle
+    M106
+
+    # Exhaust fan to max (Note: Requires [fan_generic exhaust_fan] configured)
+    # SET_FAN_SPEED FAN=exhaust_fan SPEED=1.0  # Exhaust fan to max -> cool chamber fast
+
+    # Unpause if paused
     CLEAR_PAUSE
+
+    # Cancel the job
+    BASE_CANCEL_PRINT
 
 
 
