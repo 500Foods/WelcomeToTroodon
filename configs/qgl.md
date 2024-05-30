@@ -1,4 +1,4 @@
-# [quad_gantry_levelling]
+# [quad_gantry_level]
 Quad Gantry Levelling (QGL) on a Troodon uses the stock Voron TAP mechanism to determine the relative positions of the four corners of the build plate. It then adjusts the motors in each of the four corners to ensure that they are level. 
 
 The gantry can become tilted (not level) in various scenarios, such as when the printer has been off for an extended time, or if the gantry has been bumped or moved manually during maintenace. 
