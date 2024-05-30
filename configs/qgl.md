@@ -77,3 +77,7 @@ retry_tolerance: 0.0075   # When everything is very well calibrated
 retries: 10               # Number of cycles to run
 max_adjust: 10            # How much adjustment is acceptable
 ```
+
+Reference:
+- [Klipper QGL Documentation](https://www.klipper3d.org/Config_Reference.html?h=probe#quad_gantry_level) - List of parameters
+  
