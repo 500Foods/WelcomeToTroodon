@@ -37,15 +37,24 @@ gcode:
         M118 PRINT_CANCEL: Extruder too cool to retract
     {% endif %}
 
-    # Pick a final position - Assuming a 350mm x 350mm x 310mm print volume
-    # Here, the toolhead is presented for inspection following a failure
-    G90                   # Absolute positioning
-    G1 Z310               # Max Z first
-    G1 X175               # Center X
-    G1 Y10                # Front Y
+    # The toolhead is presented for inspection following a failure
+    {% if printer.toolhead.homed_axes == "xyz" %}
+        {% set x_park = (printer.configfile.settings['stepper_x'].position_max - printer.configfile.settings['stepper_x'].position_min) / 2 %}
+        {% set y_park = printer.configfile.settings['stepper_y'].position_min %}
+        {% set z_park = printer.configfile.settings['stepper_z'].position_max %}
+        {% set x_speed = printer.configfile.settings['stepper_x'].homing_speed * 60.0 %}  # homing = mm/s, but F = mm/min 
+        {% set y_speed = printer.configfile.settings['stepper_y'].homing_speed * 60.0 %}  # homing = mm/s, but F = mm/min 
+        {% set z_speed = printer.configfile.settings['stepper_z'].homing_speed * 60.0 %}  # homing = mm/s, but F = mm/min 
+        G90                          # Absolute positioning
+        G1 Z{z_park} F{z_speed}      # Max Z first
+        G1 X{x_park} F{x_speed}      # Center X
+        G1 Y{y_park} F{y_speed}      # Front Y
+    {% else %}
+        M118 PRINT_CANCEL: No movement as printer is not homed
+    {% endif %}
 
-    # Turn off heaters
-    TURN_OFF_HEATERS                         # Let things cool down
+    # Turn off heaters - let things cool down
+    TURN_OFF_HEATERS                       
 
     # Turn on part cooling fan to max to cool nozzle
     M106
