@@ -11,3 +11,4 @@ sudo make install
 cd ~moonraker-timelapse
 sudo make install
 ```
+If you've made changes to the crowsnest.cfg file, you will have to make those changes again. Normally backups of this file are available, so you can look through those to find any previous changes that have been made.
