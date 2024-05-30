@@ -3,7 +3,7 @@ This is used to configure the Voron TAP probe found on Troodon printers and othe
 
 The TAP probe uses the nozzle directly, so the x_offset and y_offset are both set to zero.
 
-***NOTE: Setting z_offset as suggested in the documentation seems to set it globally, meaning that it changes the z_offset for your printer which is absolutely not what is intended, So this value is deliberately not included here. I've got a wonderfully engraved first layer in a glass bed as a testament to this.***
+***NOTE: Setting z_offset as suggested in the documentation seems to set it globally, meaning that it changes the z_offset for your printer. Which is absolutely not what is intended. So this value is deliberately not included here. I've got a wonderfully engraved first layer in a glass bed as a testament to this.***
 ```
 #####################################################################
 # Voron TAP config (probe IS the nozzle)
