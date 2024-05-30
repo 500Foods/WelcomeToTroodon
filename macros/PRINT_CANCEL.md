@@ -23,7 +23,7 @@ description: Cancel print abruptly
 gcode:
 
     # Show elapsed time (Note: Requires TIMER macros)
-    # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='__CANCELLED'
+    # RUN_SHELL_COMMAND CMD=shell_get_elapsed_time PARAMS='__CANCELLED'
     
     # Retract filament if possible
     {% if printer.extruder.can_extrude %}
