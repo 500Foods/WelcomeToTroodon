@@ -24,10 +24,15 @@ gcode:
 
     # Show elapsed time (Note: Requires TIMER macros)
     # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='__CANCELLED'
-   
-    # Retract filament
-    G91                   # Relative positioning
-    G1 E-5.00 F1000       # Retract 5mm of filament
+    
+    # Retract filament if possible
+    {% if printer.extruder.can_extrude %}
+        G91               # Relative positioning
+        G1 E-5.00 F1000   # Retract 5mm of filament
+    {% else %}
+        M118 PRINT_CANCEL: Extruder Temp: {printer.extruder.temperature}
+        M118 PRINT_CANCEL: Extruder too cool to retract
+    {% endif %}
 
     # Pick a final position - Assuming a 350mm x 350mm x 310mm print volume
     # Here, the toolhead is presented for inspection following a failure
@@ -37,6 +42,8 @@ gcode:
     G1 Y10                # Front Y
     
     CLEAR_PAUSE
+
+
 
 #######################################
 # CANCEL_PRINT macro
