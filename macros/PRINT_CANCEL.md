@@ -14,12 +14,12 @@ on_error_gcode: PRINT_CANCEL
 ```
 
 ```
+
 #######################################
-# PRINT_CANCEL
+# PRINT_CANCEL macro
 #######################################
 [gcode_macro PRINT_CANCEL]
 description: Cancel print abruptly
-rename_existing: BASE_CANCEL_PRINT
 gcode:
 
     # Show elapsed time (Note: Requires TIMER macros)
@@ -37,5 +37,14 @@ gcode:
     G1 Y10                # Front Y
     
     CLEAR_PAUSE
+
+#######################################
+# CANCEL_PRINT macro
+#######################################
+[gcode_macro CANCEL_PRINT]
+rename_existing: BASE_CANCEL_PRINT
+gcode:
+    PRINT_CANCEL
     BASE_CANCEL_PRINT
+
 ```
