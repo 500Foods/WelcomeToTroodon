@@ -18,7 +18,6 @@ command it is currently working on. If that's printing a line of filament, as in
 In the case of macros, and in particular the PRINT_START macro, Klipper will wait until the *entire* macro completes before acknowledging the cancel request. 
 It may often be quicker to use the emergency stop function and restart Klipper rather than wait for it to finish, particularly if you want to cancel a print job before it has laid down any filament. 
 ```
-
 #######################################
 # PRINT_CANCEL macro
 #######################################
@@ -57,5 +56,4 @@ rename_existing: BASE_CANCEL_PRINT
 gcode:
     PRINT_CANCEL
     BASE_CANCEL_PRINT
-
 ```
