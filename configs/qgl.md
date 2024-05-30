@@ -38,25 +38,25 @@ In most cases, a QGL should be automatically performed before every print. It is
 ## Example: Gantry Corners for 250mm Build
 #--------------------------------------------------------------------
 # gantry_corners:
-#    -60,-10
-#    310, 320
+#    -60,-10                # Front-left X/Y
+#    310, 320               # Back-right X/Y
 # points:
-#    50,25
-#    50,175
-#    200,175
-#    200,25
-
+#    50,25                  # Front-left X/Y
+#    50,175                 # Back-left X/Y
+#    200,175                # Back-right X/Y
+#    200,25                 # Front-right X/Y
 #--------------------------------------------------------------------
 ## Example: Gantry Corners for 300mm Build
 #--------------------------------------------------------------------
 # gantry_corners:
-#    -60,-10
-#    360,370
+#    -60,-10                # Front-left X/Y
+#    360,370                # Back-right X/Y
 # points:
-#    50,25
-#    50,225
-#    250,225
-#    250,25
+#    50,25                  # Front-left X/Y
+#    50,225                 # Back-left X/Y
+#    250,225                # Back-right X/Y
+#    250,25                 # Front-right X/Y
+#--------------------------------------------------------------------
 
 # Limts of gantry
 gantry_corners:          
@@ -65,10 +65,10 @@ gantry_corners:
 
 # Points to measure
 points:        
-   10,10                  # Front-left
-   10,340                 # Back-left
-   340,340                # Back-right
-   340,10                 # Front-right
+   10,10                  # Front-left X/Y
+   10,340                 # Back-left X/Y
+   340,340                # Back-right X/Y
+   340,10                 # Front-right X/Y
 
 speed: 500                # Horizontal move speed between points
 horizontal_move_z: 5      # Vertical movement between points
