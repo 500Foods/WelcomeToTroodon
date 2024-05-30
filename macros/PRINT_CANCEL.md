@@ -42,9 +42,11 @@ gcode:
         {% set x_park = (printer.configfile.settings['stepper_x'].position_max - printer.configfile.settings['stepper_x'].position_min) / 2 %}
         {% set y_park = printer.configfile.settings['stepper_y'].position_min %}
         {% set z_park = printer.configfile.settings['stepper_z'].position_max %}
+
         {% set x_speed = printer.configfile.settings['stepper_x'].homing_speed * 60.0 %}  # homing = mm/s, but F = mm/min 
         {% set y_speed = printer.configfile.settings['stepper_y'].homing_speed * 60.0 %}  # homing = mm/s, but F = mm/min 
-        {% set z_speed = printer.configfile.settings['stepper_z'].homing_speed * 60.0 %}  # homing = mm/s, but F = mm/min 
+        {% set z_speed = printer.configfile.settings['stepper_z'].homing_speed * 60.0 %}  # homing = mm/s, but F = mm/min
+
         G90                          # Absolute positioning
         G1 Z{z_park} F{z_speed}      # Max Z first
         G1 X{x_park} F{x_speed}      # Center X
