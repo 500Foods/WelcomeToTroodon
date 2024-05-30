@@ -26,9 +26,7 @@ If the QGL fails unexpectedly, consider doing a little troubleshooting to see if
 - Belt tensioning issues
 
 In most cases, a QGL should be automatically performed before every print. It is included in our [PRINT_START](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_START.md) macro for just this purpose. 
-
 ```
-
 #####################################################################
 # Quad Gantry Levelling
 #####################################################################
@@ -77,7 +75,6 @@ retry_tolerance: 0.0075   # When everything is very well calibrated
 retries: 10               # Number of cycles to run
 max_adjust: 10            # How much adjustment is acceptable
 ```
-
-Reference:
+References:
 - [Klipper QGL Documentation](https://www.klipper3d.org/Config_Reference.html?h=probe#quad_gantry_level) - List of parameters
   
