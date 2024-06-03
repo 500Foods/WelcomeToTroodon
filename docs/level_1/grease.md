@@ -1,4 +1,4 @@
-# Grease.
+# Grease
 Grease, or lubricant, is used to ensure that the motion of the linear rails is smooth and consistent over a long period of time. 
 Inside the linear rail block is a set of steel ball bearings that run along the steel rail - metal on metal. Over time, these can wear unevenly, resulting in poor performance that can directly impact print quality.
 In order to lubricate these rails, [syringes](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/syringes.md) are used to inject grease into the service ports on the blocks.
