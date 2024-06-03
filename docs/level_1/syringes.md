@@ -15,3 +15,5 @@ Resources:
 - [YouTube: How to Lubricate MGN12 Linear Rails](https://www.youtube.com/watch?v=GWzz6fQiWmw)
 - https://www.needlez.co.uk
 - [Amazon 🇨🇦 10 Pack - Plastic Syringe Blunt Tip Needles - Various sizes](https://a.co/d/cmNPUo2)
+
+Next: [Grease](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/grease.md)
