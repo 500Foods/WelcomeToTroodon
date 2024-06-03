@@ -19,3 +19,5 @@ Resources:
 - [YouTube: How to Lubricate MGN12 Linear Rails](https://www.youtube.com/watch?v=GWzz6fQiWmw)
 - [Amazon 🇺🇸 B'laster 16-LG High-Performance White Lithium Grease](https://a.co/d/gwLPUC0)
 
+ Next: [Nozzle Cleaning Needles](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/nozzle_needles.md)
+ 
