@@ -8,7 +8,7 @@ Who doesn't like an excuse to buy more tools? Here are several that can make qui
 - [Scraper](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/scraper.md) - For part removal and bed cleaning
 - [Deburring Tool](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/deburring_tool.md) - Quick and easy part cleanup
 - [Brass Brush](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/brass_brush.md) - Helps with the invisible strands of filament
-- [Syringes] - Linear rails need to be lubricated
+- [Syringes](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/syringes.md) - Linear rails need to be lubricated
 - [Grease] - If your printer didn't come with any
 - [Nozzle Cleaning Needles](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/nozzle_needles.md) - Sooner or later something is going to get stuck in there
 - [Filament Cutter](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/filament_cutter.md) - Clean cuts every time
