@@ -7,9 +7,21 @@ For Troodon 2.0 Pro users, a generic tube of grease is included in the box with 
 
 When purchasing grease, consider the following recommendations.
 - Do NOT use PTFE lubricant
-- White lithium grease rated NLGI 1
-- Mobilux EP1 or EP2
-- Superlube 21030
+- White lithium grease rated NLGI 1 (ideal)
+- White lithium grease rated NLGI 2 (still great)
+- Mobilux EP1 (ideal)
+- Mobilux EP2 (still great)
+- Superlube 21030 (still great)
+
+There are other alternatives, like oil. In general, bear in mind that your use of the printer will largely dictate how long the lubrication lasts.
+If you're printing at max speeds all day long and every day, then you might have to re-lubricate every three months, even with the best lubricant. 
+If you're printing at normal speeds a few times per week and you've used a lower quality lubricant, it might be years before a re0-lubrication is needed.
+
+Here are some signs that indicate that more lubrication might help.
+- Any kind of noise related to the axis motion. Squeaking, that sort of thing.
+- With the printer off, you should be able to move the toolhead in all directions by hand easily. Just be sure to re-align the z-axis of the gantry if you try this.
+- An unusual amount of dust or debris has accumulated on the rails.
+- It has been more than 2,000 print-hours since the last lubrication.
 
 ***NOTE: As of this writing, the Troodon 2.0 Pro printer ships with none of the rails lubricated. They include lubricant in the box, but not the syringes.***
 
