@@ -1,8 +1,8 @@
 # Welcome To Troodon
-This repository was created primarily as a community resource for those with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Much of the content that follows applies equally well to many other 3D printers. The Troodon 2.0 Pro, in particular, is a very close relative of a 350mm Voron 2.4R2 printer. The majority of the content here applies directly to those printers as well.
+This repository was created primarily as a community resource for those with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Troodons are very close relatives of the popular Voron series of printers. A great deal of the content here applies equally to those printers, as well as many other 3D printers. 
 
 ## Getting Started Resources
-Even before your printter is up and running, there are plenty of resources to check out. Both to learn more about 3D printing in general, if you are new to this space, and for considerably more in-depth knowledge about getting the most out of your printer.
+Even before your printer is up and running, there are plenty of resources to check out. Both to learn more about 3D printing in general, if you are new to this space, and for considerably more in-depth knowledge about getting the most out of your printer.
 - [Documentation](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/documentation.md) - User manuals, online guides, and other reference materials
 - [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md) - Connect with users and vendors of popular prints and products
 - [Vendor Websites](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/vendors.md) - Vetted suppliers with a history of delivering on their promises
@@ -44,7 +44,7 @@ No mods here, really, as these are focused on getting up and running with what y
 - [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md) - Solutions to common problems
 
 ## 🔨 Level Two - Get to Work!
-This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer, but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
+This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
 
 - 🔨 [TAP Upgrades](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tap_upgrades.md) - Replace the plastic TAP mount with a metal CNC part
 - 🥇 [TAP Alternatives](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tap_alternatives.md) - Upgrade to an entirely different bed mesh sensor
