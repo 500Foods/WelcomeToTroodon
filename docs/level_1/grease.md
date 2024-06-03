@@ -7,7 +7,7 @@ For Troodon 2.0 Pro users, a generic tube of grease is included in the box with 
 
 When purchasing grease, consider the following recommendations.
 - Do NOT use PTFE lubricant
-- White lithium grease
+- White lithium grease rated NLGI
 - Mobilux EP1 or EP2
 - Superlube 21030
 
@@ -17,4 +17,5 @@ Resources:
 - [Misumi: Installation and Maintenance of Linear Guides](https://us.misumi-ec.com/pdf/fa/2010/p0501.pdf)
 - [Hiwin: Lubricating instructions for linear guideways and ballscrews](https://www.hiwin.com/wp-content/uploads/lubricating_instructions.pdf)
 - [YouTube: How to Lubricate MGN12 Linear Rails](https://www.youtube.com/watch?v=GWzz6fQiWmw)
-- [Amazon 🇨🇦 White Lithium Grease](https://a.co/d/cD2jnbG)
+- [Amazon 🇺🇸 B'laster 16-LG High-Performance White Lithium Grease](https://a.co/d/0dJhDd0)
+
