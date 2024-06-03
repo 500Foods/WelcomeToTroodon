@@ -7,7 +7,7 @@ For Troodon 2.0 Pro users, a generic tube of grease is included in the box with 
 
 When purchasing grease, consider the following recommendations.
 - Do NOT use PTFE lubricant
-- White lithium grease rated NLGI
+- White lithium grease rated NLGI 1
 - Mobilux EP1 or EP2
 - Superlube 21030
 
