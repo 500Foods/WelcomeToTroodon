@@ -23,7 +23,7 @@ Here are some signs that indicate that more lubrication might help.
 - An unusual amount of dust or debris has accumulated on the rails.
 - It has been more than 2,000 print-hours since the last lubrication.
 
-***NOTE: As of this writing, the Troodon 2.0 Pro printer ships with none of the rails lubricated. They include lubricant in the box, but not the syringes.***
+***NOTE: As of this writing, the Troodon 2.0 Pro printer ships with none of the rails lubricated. They include lubricant in the box, but not the syringes. It isn't labeled but appears to be white lithium grease (NLGI 2).***
 
 Resources:
 - [Misumi: Installation and Maintenance of Linear Guides](https://us.misumi-ec.com/pdf/fa/2010/p0501.pdf)
