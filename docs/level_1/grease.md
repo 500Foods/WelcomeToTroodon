@@ -15,7 +15,7 @@ When purchasing grease, consider the following recommendations.
 
 There are other alternatives, like oil. In general, bear in mind that your use of the printer will largely dictate how long the lubrication lasts.
 If you're printing at max speeds all day long and every day, then you might have to re-lubricate every three months, even with the best lubricant. 
-If you're printing at normal speeds a few times per week and you've used a lower quality lubricant, it might be years before a re0-lubrication is needed.
+If you're printing at normal speeds a few times per week, even with a lower quality lubricant, it might be years before a re-lubrication is needed.
 
 Here are some signs that indicate that more lubrication might help.
 - Any kind of noise related to the axis motion. Squeaking, that sort of thing.
