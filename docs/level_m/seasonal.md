@@ -5,5 +5,6 @@ After several months of continuous printing, there are likely to be more serious
 - [ ] 🙂 Check PTFE connectors for signs of dust or wear
 - [ ] 🥇 Consider replacing the build plate if it has become unusually warn or uneven
 - [ ] 🥇 Consider replacing the aluminum base plate if it has warped over time
+- [ ] 🔨 [Lubricate](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/lubrication.md) all of the linear rails again
 
 Next: [Macros Quick Reference](https://github.com/500Foods/WelcomeToTroodon#macros-quick-reference)
