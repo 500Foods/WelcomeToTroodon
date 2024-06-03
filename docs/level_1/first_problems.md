@@ -1,4 +1,5 @@
 # First Problems
+- PRINT_START Issue - "Extruder not hot enough" and other problems that come as a result of a problematic PRINT_START macro
 - X-EndStop Issue
 - Bed Placement 
 - Hitting the Doors
