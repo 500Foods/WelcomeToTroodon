@@ -10,10 +10,14 @@ Inside a Troodon 2.0 Pro printer:
 
 ***NOTE: As of this writing, the Troodon 2.0 Pro printer ships with none of the rails lubricated. They include lubricant in the box, but not the syringes.***
 
-To lubricate a block, grease is injected directly into the service port. This can take a bit of force as the needles are very thin compared to the grease being injected. Enough grease should be injected to fill the block. To the point where it can be seen outside of the block.
+To lubricate a block, inject the grease with a syringe directly into the service port. This can take a bit of force as the needles may be very thin compared to the grease being injected. 
+Enough grease should be injected to fill the block to the point where it can be seen being pushed outside of the block.
 
-NOTE: In the YouTube video, he suggests applying grease to the rails directly in case the service port is inaccesible. This may work for some linear rail blocks, but in many cases the block has wipers to prevent contamination. 
-These can prevent the grease outside the block entering inside the block, and therefore this might not be very effective.
+Ideally, this should be done before the printer is assembled when the service ports are easily accessible. After assembly, this can be considerably more challenging. Some, like the TAP rail, require some disassembly before the service port can be accessed.
+
+NOTE: In the YouTube video, there is a comment about applying grease to the rails directly in case the service port is inaccessible. 
+While this may work for some linear rail blocks, in many cases the block has wipers to prevent contamination. 
+These can prevent the grease outside the block from entering inside the block, and therefore this might not be very effective at all. 
 
 Resources:
 - [Misumi: Installation and Maintenance of Linear Guides](https://us.misumi-ec.com/pdf/fa/2010/p0501.pdf)
