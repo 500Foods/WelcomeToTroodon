@@ -8,10 +8,10 @@ For Troodon 2.0 Pro users, a generic tube of grease is included in the box with 
 When purchasing grease, consider the following recommendations.
 - Do NOT use PTFE lubricant
 - White lithium grease rated NLGI 1 (ideal)
-- White lithium grease rated NLGI 2 (still great)
+- White lithium grease rated NLGI 2 (great)
 - Mobilux EP1 (ideal)
-- Mobilux EP2 (still great)
-- Superlube 21030 (still great)
+- Mobilux EP2 (great)
+- Superlube 21030 (great)
 
 There are other alternatives, like oil. In general, bear in mind that your use of the printer will largely dictate how long the lubrication lasts.
 If you're printing at max speeds all day long and every day, then you might have to re-lubricate every three months, even with the best lubricant. 
