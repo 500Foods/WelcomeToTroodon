@@ -80,7 +80,7 @@ As complex as they are, 3D printers do require some amount of ongoing routine ma
 Configuration items are typically defined in the printer.cfg file, and these are likely already all defined there. Be careful with these customizations as the hardware in your printer may be very different than what is assumed here.
 - [[probe]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/probe.md) - Voron TAP optimizations
 - [[quad_gantry_level]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/qgl.md) - Improve the QGL process
-- [Orca](https://github.com/500Foods/WelcomeToTroodon/blob/main/config/orca.md) - Check that Klipper is being supplied with as much information as it can
+- [Orca](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/orca.md) - Check that Klipper is being supplied with as much information as it can
     
 ## Macros Quick Reference
 Macros are typically defined in the printer.cfg file and these macros in particular are probably already present. Be sure to comment out any existing macro while testing changes, so you can revert back to the prior version if you encounter any problems.
