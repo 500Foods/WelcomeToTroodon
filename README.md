@@ -85,7 +85,8 @@ Configuration items are typically defined in the printer.cfg file, and these are
 Macros are typically defined in the printer.cfg file and these macros in particular are probably already present. Be sure to comment out any existing macro while testing changes, so you can revert back to the prior version if you encounter any problems.
 - [PRINT_START](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_START.md) - Runs whenever a new print job is sent to the printer
 - [PRINT_CANCEL](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_CANCEL.md) - Runs whenever a new print job is canceled, manually or otherwise
-- [TIMER](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/TIMER.md) - Adds support for adding timers to other macros, particularly to PRINT_START 
+- [TIMER](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/TIMER.md) - Adds support for adding timers to other macros, particularly to PRINT_START
+- Orca Macros - Check that Klipper is being supplied with as much information as it can
 
 ## Scripts Quick Reference
 Typically these would be installed in ~/scripts on the BTT-CB1 or Raspberry Pi or wherever Klipper is running. Some of the scripts are intended for use with the [gcode_shell_command](https://github.com/dw-0/kiauh/blob/master/docs/gcode_shell_command.md) extension that can be very easily installed using [KIAUH](https://github.com/dw-0/kiauh). As its name implies, this extension allows for running Linux shell commands directly as gcode commands within, for example, printer.cfg. Rather useful. Note that most interfaces to the Klipper log allow you to filter entries, which comes in handy here in particular. 
