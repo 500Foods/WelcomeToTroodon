@@ -97,6 +97,6 @@ Note also that Linux scripts can be written in multiple languages, but most comm
   - [get_elapsed_time.sh](https://github.com/500Foods/WelcomeToTroodon/blob/main/scripts/get_elapsed_time.sh) - Show the elapsed time 
 
 ## Experimental Projects
-And for the brave souls who made it to the end of the page, this section is for experimental projects. Stuff that isn't ready for primetime but may still be useful. The usual disclaimers apply - enter at your own risk, here be dragons, not for the squeamish, etc. etc. 
+And something for the brave souls who made it to the end of the page. Stuff that isn't ready for primetime but may still be useful. The usual disclaimers apply - enter at your own risk, here be dragons, not for the squeamish, etc., etc. 
 - [Philament/Carbon](https://github.com/500Foods/Philement/blob/main/elements/006-carbon/README.md) - On-device print failure monitoring using Timelapse images
   
