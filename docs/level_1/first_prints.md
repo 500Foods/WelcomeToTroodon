@@ -1,5 +1,5 @@
 # First Prints
-- Basic Calibration
+- Basic Slicer Calibration
 - Califlower Calibration Tool
 - Benchy
 - Stealthburner Latch
