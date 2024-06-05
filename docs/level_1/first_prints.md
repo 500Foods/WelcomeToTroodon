@@ -1,11 +1,12 @@
 # First Prints
-- Benchy
 - Basic Calibration
 - Califlower Calibration Tool
+- Benchy
+- Stealthburner Latch
+- Gantry Z Covers
 - Filament Runout Sensor Mount
+- Gantry Levelling Cans
 - Bed Alignment Guides
 - Rocker Feet
-- Gantry Levelling
-- Boxes and Organizers
 
 Next: [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md)
