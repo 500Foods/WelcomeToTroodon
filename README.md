@@ -102,3 +102,22 @@ Note also that Linux scripts can be written in multiple languages, but most comm
 And something for the brave souls who made it to the end of the page. Stuff that isn't ready for primetime but may still be useful. The usual disclaimers apply - enter at your own risk, here be dragons, not for the squeamish, etc., etc. 
 - [Philement/Carbon](https://github.com/500Foods/Philement/blob/main/elements/006-carbon/README.md) - On-device print failure monitoring using Timelapse images
   
+## Repository Information 
+[![Count Lines of Code](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml)
+<!--CLOC-START -->
+```
+Last updated at 2024-06-06 19:37:22 UTC
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                        15             71              2            866
+C                                1            178             27            725
+Text                             1              0              0             75
+Bourne Shell                     1             11             14             47
+YAML                             2              8             13             35
+-------------------------------------------------------------------------------
+SUM:                            20            268             56           1748
+-------------------------------------------------------------------------------
+6 Files (without source code) were skipped
+```
+<!--CLOC-END-->
