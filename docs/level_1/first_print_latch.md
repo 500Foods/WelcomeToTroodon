@@ -7,4 +7,7 @@ The issue, however, is that the latch itself isn't particularly strong and is pr
 And if you happen to have only one printer, printing a replacement latch is going to be problematic. Fortunately, a little crazy glue can help put a broken latch back together in most cases. But maybe it would be 
 best to print up a couple in advance, and while we're at it, print a beefier version that is much less likely to be broken in the first place.
 
-https://www.printables.com/model/508340-updated-latch-for-voron-stealthburner-clockwork-2-
+![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/61d527ae-df1a-432f-866d-489bb2ecdcd9)
+
+Resources:
+- Printables - https://www.printables.com/model/508340-updated-latch-for-voron-stealthburner-clockwork-2-
