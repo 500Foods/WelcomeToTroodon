@@ -106,18 +106,16 @@ And something for the brave souls who made it to the end of the page. Stuff that
 [![Count Lines of Code](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```
-Last updated at 2024-06-06 19:37:22 UTC
+Last updated at 2024-06-06 19:40:56 UTC
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                        15             71              2            866
-C                                1            178             27            725
-Text                             1              0              0             75
-Bourne Shell                     1             11             14             47
-YAML                             2              8             13             35
+Markdown                        76            277              2           1030
+YAML                             1              8             13             33
+Bourne Shell                     4              6             39             19
 -------------------------------------------------------------------------------
-SUM:                            20            268             56           1748
+SUM:                            81            291             54           1082
 -------------------------------------------------------------------------------
-6 Files (without source code) were skipped
+1 Files (without source code) were skipped
 ```
 <!--CLOC-END-->
