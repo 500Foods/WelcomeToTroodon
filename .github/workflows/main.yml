@@ -1,0 +1,54 @@
+name: Count Lines of Code
+
+# Controls when the action will run. Triggers the workflow on push or pull request 
+# events but only for the main branch
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  cloc:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v3
+
+    # Runs djdefi/cloc-action
+    - name: Count Lines of Code (cloc)
+      uses: djdefi/cloc-action@main
+      with:
+        options: --report-file=cloc.txt --ignored=cloc-ignored.txt
+
+    # Copy the new cloc.txt contents into the README.md file at the appropriate spot
+    - run: csplit README.md /\<\!--CLOC/ {1}
+    - run: cp xx00 README.md
+    - run: echo "<!--CLOC-START -->" >> README.md
+    - run: echo "\`\`\`" >> README.md
+    - run: echo "NOW=$(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_ENV
+    - run: echo "Last updated at ${{ env.NOW }}" >> README.md
+    - run: tail -n +2 cloc.txt >> README.md
+    - run: echo "SKIP=$(wc -l < cloc-ignored.txt)" >> $GITHUB_ENV
+    - run: echo "${{ env.SKIP }} Files (without source code) were skipped" >> README.md
+#    - run: cat cloc-ignored.txt >> README.md
+    - run: echo "\`\`\`" >> README.md
+    - run: cat xx02 >> README.md
+
+    # Save the output back to the repository
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        skip_dirty_check: true            
+        branch: main
+        file_pattern: 'README.md'
