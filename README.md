@@ -30,8 +30,8 @@ A critical aspect of 3D printing relates to the type of filament used. While the
 - [Additives](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/additivies.md) - Glass and Carbon Fiber take things up a notch
 - [Others](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/others.md) - Many, many more options to choose from
 
-## 🏴‍☠️ Initial Build Checklist
-Before assembling your 3D printer there are a few things to be aware of. These are primarily targeted at those assembling a Troodon printer but may be of interest to others as well. These items might have been overlooked (or not included) in the assembly guide. 
+## 🏴‍☠️ Initial Build Tips
+Before putting together your 3D printer there are a few things to be aware of. These items are targeted at those assembling a Troodon printer but may be of interest to others. These items might have been overlooked (or not included) in the assembly guide. 
 - Linear Rails - Smooth operation is not optional
 - Bed Plate Screws - How tight is too tight?
 - Belt Tension - Also, how tight is too tight?
