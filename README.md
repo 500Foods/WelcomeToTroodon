@@ -32,12 +32,13 @@ A critical aspect of 3D printing relates to the type of filament used. While the
 
 ## 🏴‍☠️ Initial Build Tips
 Before putting together your 3D printer there are a few things to be aware of. These items are targeted at those assembling a Troodon printer but may be of interest to others. These items might have been overlooked (or not included) in the assembly guide. 
-- Linear Rails - Smooth operation is not optional
+- Linear Rails - Smooth operator or ion is not optional
 - Bed Plate Screws - How tight is too tight?
 - Belt Tension - Also, how tight is too tight?
 - T-Nuts - Friend or foe?
-- Acrylic Panels - Enclosures are great
-  
+- Acrylic Panels - Enclosures are great, right?
+- [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md) - Forewarned is forearmed!
+    
 ## 🙂 Level One - Welcome!  
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
 No mods here, really, as these are focused on getting up and running with what you already have out of the box with a typical stock configuration.
@@ -49,7 +50,6 @@ No mods here, really, as these are focused on getting up and running with what y
 - [Replacement Parts](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/replacment_parts.md) - Stuff is going to break, so be prepared
 - [Initial Tuning](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/initial_tuning.md) - A little extra TLC goes a long way
 - [First Prints](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_prints.md) - Good places to start
-- [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md) - Solutions to common problems
 
 ## 🔨 Level Two - Get to Work!
 This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
