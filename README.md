@@ -1,7 +1,7 @@
 # Welcome To Troodon
 This repository has been created primarily as a community resource for those with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Troodons are very close relatives of the popular Voron series of printers. A great deal of the content here applies equally to those printers, as well as many other 3D printers. 
 
-## Getting Started Resources
+## 🤔 Getting Started Resources
 Even before your printer is up and running, there are plenty of resources to check out. Both to learn more about 3D printing in general, if you are new to this space, and for considerably more in-depth knowledge about getting the most out of your printer.
 - [Documentation](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/documentation.md) - User manuals, online guides, and other reference materials
 - [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md) - Connect with users and vendors of popular prints and products
@@ -10,16 +10,16 @@ Even before your printer is up and running, there are plenty of resources to che
 - [Troodon Information](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/troodon.md) - Links to check out if you're on the fence about purchasing a Troodon
 - [Notes About Mods](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/modifications.md) - What is a mod and why are they so popular?
 
-## Effort, Expertise, and Expense
+## 🤓 Effort, Expertise, and Expense
 Almost any kind of upgrade or modification to your printer will require something - a bit of time, a bit of know-how, or a bit of money. Sometimes more than one, and sometimes much more than a bit. To help, a simple rating system has been used throughout these pages. Naturally, everyone values their own time, skills, and money differently. What might be cheap for one person might be out of the question for someone else. The same goes for time and talent - there's a reason why we don't all have Vorons! 
 
-|  🤔  | Effort | Description |
+| 🤓 | Effort | Description |
 |:-----:|:---------:|:---|
 | 🙂 | Easy   | Items that almost everyone can (and should) implement<ul><li>Not very time-consuming, often much less than an hour</li><li>Not very complex - grandma could do it (supervised, of course)</li><li>Little or no cost - won't impact the filament budget</li></ul> <tr></tr> |
 | 🔨 | Medium | Items that are broadly applicable, but strictly optional<ul><li>Might take some time to implement, certainly more than a few minutes </li><li>Definitiely need to read the documentation, maybe even watch a video or two</li><li>Some expense, likely more than the cost of a roll of filament</li></ul> <tr></tr> |
 | 🥇 | Difficult | Items that might be very beneficial but complex to implement<ul><li>More of a weekend project than an evening project</li><li>Need to do a bit of planning, watch several videos, do a bit of research</li><li>Likely the cost of several rolls of filament, or more, all-in</li><ul> <tr></tr> |
 
-## Fussy Filaments
+## 🧐 Fussy Filaments
 A critical aspect of 3D printing relates to the type of filament used. While there are many websites that go on at length about the properties of each filament type, at the end of the day it comes down to how well the printer can process the filament being fed to it. There are differences in filament quality between vendors, and sometimes even between colors or batches of the same filament type from the same vendor. There can also be differences related to how dry the filament is. Here is a brief look at the most common filament types and what to plan for in terms of printer capabilities, modifications, settings, and so on.
 
 - [PLA](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/pla.md) - Most common, easiest to start with, least expensive
@@ -29,7 +29,15 @@ A critical aspect of 3D printing relates to the type of filament used. While the
 - [Nylon](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/nylon.md) - Not as strong but very durable, more expensive
 - [Additives](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/additivies.md) - Glass and Carbon Fiber take things up a notch
 - [Others](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/others.md) - Many, many more options to choose from
- 
+
+## 🏴‍☠️ Initial Build Checklist
+Before assembling your 3D printer there are a few things to be aware of. These are primarily targeted at those assembling a Troodon printer but may be of interest to others as well. These items might have been overlooked (or not included) in the assembly guide. 
+- Linear Rails - Smooth operation is not optional
+- Bed Plate Screws - How tight is too tight?
+- Belt Tension - Also, how tight is too tight?
+- T-Nuts - Friend or foe?
+- Acrylic Panels - Enclosures are great
+  
 ## 🙂 Level One - Welcome!  
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
 No mods here, really, as these are focused on getting up and running with what you already have out of the box with a typical stock configuration.
@@ -67,7 +75,7 @@ Once everything is up and running smoothly, your gaze will quickly turn toward f
 - 🥇 [Controller Boards](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_3/controllers.md) - No shortage of options here
 - 🥇 [Computer Boards](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_3/computer.md) - When your printer needs to do a little more than just print
 
-## Routine Maintenance
+## ⏰ Routine Maintenance
 As complex as they are, 3D printers do require some amount of ongoing routine maintenance. Both in terms of software/firmware, as well as hardware - physical maintenance. How much maintenance depends largely on how much printing is going on. But even printers sitting idle will need maintenance - perhaps even more than if they are used regularly. 
 
 - [Notifications](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/notifications.md) - Items that need your immediate attention
@@ -76,20 +84,20 @@ As complex as they are, 3D printers do require some amount of ongoing routine ma
 - [Monthly Maintenance (Every 500 Print Hours)](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/monthly.md) - Or every 500 print hours
 - [Seasonal Maintenace (Every 2,000 Print Hours)](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/seasonal.md) - Or every 2,000 print hours
 
-## Configuration Quick Reference
+## 🪛 Configuration Quick Reference
 Configuration items are typically defined in the printer.cfg file, and these are likely already all defined there. Be careful with these customizations as the hardware in your printer may be very different than what is assumed here.
 - [[probe]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/probe.md) - Voron TAP optimizations
 - [[quad_gantry_level]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/qgl.md) - Improve the QGL process
 - [Orca](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/orca.md) - Check that Klipper is being supplied with as much information as it can
     
-## Macros Quick Reference
+## ✂️ Macros Quick Reference
 Macros are typically defined in the printer.cfg file and these macros in particular are probably already present. Be sure to comment out any existing macro while testing changes, so you can revert back to the prior version if you encounter any problems.
 - [PRINT_START](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_START.md) - Runs whenever a new print job is sent to the printer
 - [PRINT_CANCEL](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_CANCEL.md) - Runs whenever a new print job is canceled, manually or otherwise
 - [TIMER](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/TIMER.md) - Adds support for adding timers to other macros, particularly to PRINT_START
 
 
-## Scripts Quick Reference
+## 🪚 Scripts Quick Reference
 Typically these would be installed in ~/scripts on the BTT-CB1 or Raspberry Pi or wherever Klipper is running. Some of the scripts are intended for use with the [gcode_shell_command](https://github.com/dw-0/kiauh/blob/master/docs/gcode_shell_command.md) extension that can be very easily installed using [KIAUH](https://github.com/dw-0/kiauh). As its name implies, this extension allows for running Linux shell commands directly as gcode commands within, for example, printer.cfg. Rather useful. Note that most interfaces to the Klipper log allow you to filter entries, which comes in handy here in particular. 
 Note also that Linux scripts can be written in multiple languages, but most commonly Bash and Python in this environment.
 
@@ -98,11 +106,11 @@ Note also that Linux scripts can be written in multiple languages, but most comm
   - [log_current_datetime.sh](https://github.com/500Foods/WelcomeToTroodon/blob/main/scripts/log_current_datetime.sh) - Start a timer within Klipper
   - [get_elapsed_time.sh](https://github.com/500Foods/WelcomeToTroodon/blob/main/scripts/get_elapsed_time.sh) - Show the elapsed time 
 
-## Experimental Projects
+## 💣 Experimental Projects
 And something for the brave souls who made it to the end of the page. Stuff that isn't ready for primetime but may still be useful. The usual disclaimers apply - enter at your own risk, here be dragons, not for the squeamish, etc., etc. 
 - [Philement/Carbon](https://github.com/500Foods/Philement/blob/main/elements/006-carbon/README.md) - On-device print failure monitoring using Timelapse images
   
-## Repository Information 
+## 📏 Repository Information 
 [![Count Lines of Code](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```
