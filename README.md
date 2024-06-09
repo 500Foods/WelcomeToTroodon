@@ -30,13 +30,13 @@ A critical aspect of 3D printing relates to the type of filament used. While the
 - [Additives](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/additivies.md) - Glass and Carbon Fiber take things up a notch
 - [Others](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/others.md) - Many, many more options to choose from
 
-## 🏴‍☠️ Initial Build Tips
+## ⚠️ Initial Build Tips
 Before putting together your 3D printer there are a few things to be aware of. These items are targeted at those assembling a Troodon printer but may be of interest to others. These items might have been overlooked (or not included) in the assembly guide. 
-- Linear Rails - Smooth operator or ion is not optional
-- Bed Plate Screws - How tight is too tight?
-- Belt Tension - Also, how tight is too tight?
-- T-Nuts - Friend or foe?
-- Acrylic Panels - Enclosures are great, right?
+- [Linear Rails](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/linear_rails.md) - Smooth operator or ion is not optional
+- [Bed Plate Screws](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/bed_plate.md) - How tight is too tight?
+- [Belt Tensioning](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/belt_tensioning.md) - Also, how tight is too tight?
+- [T-Nuts](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/tnuts.md) - Friend or foe?
+- [Acrylic Panels](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/acrylic_panels.md) - Enclosures are great, right?
 - [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md) - Forewarned is forearmed!
     
 ## 🙂 Level One - Welcome!  
