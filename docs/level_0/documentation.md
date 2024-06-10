@@ -3,9 +3,9 @@ When ordering a new 3D printer (in the case of Troodon, at least) it will come (
 
 Ellis' Print Tuning Guide is applicable to many 3D printers and comes highly recommended by many people.
 
-- [Formbot Manuals](https://www.formbot3d.com/pages/user-manual-53)
-- [Team Gloomy Troodon Assembly Guide](https://teamgloomy.github.io/troodon_v2_assembly.html)
-- [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
+- [Formbot Manuals](https://www.formbot3d.com/pages/user-manual-53) - Specific to Formbot's printers
+- [Team Gloomy Troodon Assembly Guide](https://teamgloomy.github.io/troodon_v2_assembly.html) - Alternative guides for Troodon printers
+- [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/) - Applicable to many 3D printers
 - [Troodon Owners](https://www.troodonowners.com/) - Third-party website dedicated to Troodon owners - just like WelcomeToTroodon 😄
   
 ## Technical Documentation
@@ -13,5 +13,6 @@ For those looking for more detailed information on the specifics of a printer or
 
 - [Troodon 2.0 Stock Board Pinout](https://teamgloomy.github.io/troodon_v2_pins.html) - via TeamGloomy - Describes the BTT F407 board 
 - [StealthBurner](https://vorondesign.com/voron_stealthburner) - Everything from the parts to the BOM to the assembly manual
+- [Troodon 1.0](https://web.archive.org/web/20220606141317/https://duet3d.dozuki.com/Wiki/Installing_and_Updating_Firmware#Section_Fallback_procedure_Num_1) - Steps to update firmware
 
 Next: [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md)
