@@ -11,7 +11,8 @@ Ellis' Print Tuning Guide is applicable to many 3D printers and comes highly rec
 ## Technical Documentation
 For those looking for more detailed information on the specifics of a printer or a printer component, here are some helpful links.
 
-- [Troodon 2.0 Stock Board Pinout](https://teamgloomy.github.io/troodon_v2_pins.html) - via TeamGloomy - Describes the BTT F407 board 
+- [Troodon 2.0 Stock Board Pinout](https://teamgloomy.github.io/troodon_v2_pins.html) - via TeamGloomy - Describes the BTT F407 board
+- [Troodon 2.0 Pro STEP File](https://www.500foods.com/Troodon/Troodon20Pro350mm.zip) - 3D model of the Troodon 2.0 Pro (missing back panel though)
 - [StealthBurner](https://vorondesign.com/voron_stealthburner) - Everything from the parts to the BOM to the assembly manual
 - [Troodon 1.0](https://web.archive.org/web/20220606141317/https://duet3d.dozuki.com/Wiki/Installing_and_Updating_Firmware#Section_Fallback_procedure_Num_1) - Steps to update firmware
 
