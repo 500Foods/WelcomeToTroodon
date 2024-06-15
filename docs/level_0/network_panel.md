@@ -8,10 +8,10 @@ This was encountered during the initial setup of their Troodon printer when they
 - There's an RJ45 jack at the back of the printer.
 - You might have to look up the IP address from your router to see what was assigned.
 - Once you know the IP address, you can log in using SSH with the usual credentials.
-- Username: biqu Password: biqu SSH port: 22
-- From there, install [KIAUH](https://github.com/dw-0/kiauh) - a command line Klipper installer
-- Use KIAUH to Uninstall KlipperScreen
-- Use KIAUH Reinstall KlipperScreen
-- Reboot ('sudo reboot now' from the command line)
+- Username: biqu &nbsp;&nbsp;&nbsp; Password: biqu &nbsp;&nbsp;&nbsp; SSH port: 22.
+- From there, install [KIAUH](https://github.com/dw-0/kiauh) - a command line Klipper installer.
+- Use KIAUH to uninstall KlipperScreen.
+- Use KIAUH to reinstall KlipperScreen.
+- Reboot ('sudo reboot now' from the command line).
 
 KlipperScreen should now be able to access the network page where you can configure the WiFi connection and then no longer need the ethernet cable.
