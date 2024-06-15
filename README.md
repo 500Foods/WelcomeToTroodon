@@ -37,7 +37,7 @@ Before putting together your 3D printer there are a few things to be aware of. T
 - [Belt Tensioning](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/belt_tensioning.md) - Also, how tight is too tight?
 - [T-Nuts](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/tnuts.md) - Friend or foe?
 - [Acrylic Panels](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/acrylic_panels.md) - Enclosures are great, right?
-- [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md) - Forewarned is forearmed!
+- [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/first_problems.md) - Forewarned is forearmed!
     
 ## 🙂 Level One - Welcome!  
 This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
