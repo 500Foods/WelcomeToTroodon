@@ -4,6 +4,7 @@
 - Bed Placement 
 - Hitting the Doors
 - Crazy Bed Meshes
+- "Unable to load panel network" - When you try to configure your WiFi connection
 - [Moonraker Warnings](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/moonraker_warnings.md) - Crowsnest and Timelapse issues after updating Klipper
 
 Next: [Level One](https://github.com/500Foods/WelcomeToTroodon#-level-one---welcome)
