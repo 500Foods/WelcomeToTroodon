@@ -6,7 +6,7 @@
 - Gantry Z Covers
 - Filament Runout Sensor Mount
 - Gantry Levelling Cans
-- Bed Alignment Guides
+- [Bed Alignment Guides](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/bed_alignment.md) - These help ensure the build plate is positioned accurately
 - Rocker Feet
 
 Next: [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md)
