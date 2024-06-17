@@ -16,6 +16,7 @@ For those looking for more detailed information on the specifics of a printer or
 - [Troodon 2.0 Pro STM32F407 Datasheet](https://semiconductors.es/datasheet/STM32F407.html) - This is the MCU's processor datasheet
 - [Troodon 2.0 Pro STEP File](https://www.500foods.com/Troodon/Troodon20Pro350mm.zip) - 3D model of the Troodon 2.0 Pro (missing back panel though)
 - [Troodon 1.0](https://web.archive.org/web/20220606141317/https://duet3d.dozuki.com/Wiki/Installing_and_Updating_Firmware#Section_Fallback_procedure_Num_1) - Steps to update firmware
-- [StealthBurner](https://vorondesign.com/voron_stealthburner) - Everything from the parts to the BOM to the assembly manual
-
+- [StealthBurner Hardware](https://vorondesign.com/voron_stealthburner) - Everything from the parts to the BOM to the assembly manual
+- [StealthBurner Pinout](https://wiki.kb-3d.com/en/home/linneo/voron/PCBs/Stealthburner_Two_Piece_PCB) - Should map to the connector on a Troodon 2.0 Pro breakout board 
+  
 Next: [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md)
