@@ -12,4 +12,6 @@ For Troodon 2.0 Pro users, the above doesn't work so well because the nozzle bru
 
 [Troodon Bed Alignment Guide - STL](https://github.com/500Foods/WelcomeToTroodon/blob/main/3D%20files/Troodon_Alignment_Bracket.stl)
 
+Note: Four M3x8mm bolts and 4 M3 T-Nuts will be needed. These are likely to be found in the leftover parts from a Troodon build. 
+
 ![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/4e0445b7-1de2-40ee-92df-3bc4c5fa7cbe)
