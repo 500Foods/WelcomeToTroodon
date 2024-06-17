@@ -8,8 +8,8 @@ For printers with a brass nozzle cleaning brush, this can sometimes interfere wi
 
 https://www.printables.com/model/346782-voron-24-bed-alignment-stop-updated
 
-For Troodon 2.0 Pro users, the above doesn't work so well because the nozzle brush is in a slightly different location. A remix of the above by user @jamby9457 from the Troodon forum in the Formbot Discord addresses this nicely.
+For Troodon 2.0 Pro users, the above doesn't work so well because the nozzle brush is in a slightly different location. A remix of the above by user @jamby9457 from the Troodon forum in the [Formbot Discord](https://discord.gg/spAGFK2PnN) addresses this nicely.
 
-Troodon Bed Alignment Guide
+[Troodon Bed Alignment Guide - STL](https://github.com/500Foods/WelcomeToTroodon/blob/main/3D%20files/Troodon_Alignment_Bracket.stl)
 
 ![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/4e0445b7-1de2-40ee-92df-3bc4c5fa7cbe)
