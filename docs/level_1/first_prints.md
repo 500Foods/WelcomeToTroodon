@@ -8,4 +8,6 @@
 - [Troodon Bed Alignment Guides](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/bed_alignment.md) - These help ensure the build plate is positioned accurately
 - [Troodon Rocker Feet](https://www.printables.com/model/629765-troodon-20-rocker-feet) - Makes getting into the electronics bay a little easier
 
+<br /><hr>
+
 Next: [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_problems.md)
