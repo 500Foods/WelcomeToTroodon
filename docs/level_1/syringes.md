@@ -9,12 +9,12 @@ Inside a Troodon 2.0 Pro printer:
 
 ***NOTE: As of this writing, the Troodon 2.0 Pro printer ships with none of the rails lubricated. They include lubricant in the box, but not the syringes.***
 
-## Resources:
+## Resources
 - [Misumi: Installation and Maintenance of Linear Guides](https://us.misumi-ec.com/pdf/fa/2010/p0501.pdf)
 - [Hiwin: Lubricating instructions for linear guideways and ballscrews](https://www.hiwin.com/wp-content/uploads/lubricating_instructions.pdf)
 - [YouTube: How to Lubricate MGN12 Linear Rails](https://www.youtube.com/watch?v=GWzz6fQiWmw)
 
-## Product Links:
+## Product Links
 - [Amazon 🇨🇦 - 10 Pack - Plastic Syringe Blunt Tip Needles - Various sizes](https://a.co/d/cmNPUo2)
 - [Amazon 🇺🇸 - 10 Pack - Plastic Syringe with 18Ga Blunt Tip Needles](https://a.co/d/dMXu7Gv)
 - [Amazon 🇺🇸 - 10 Pack - Plastic Syringe with 16Ga Blunt Tip Needles](https://a.co/d/1T7yKLE)
