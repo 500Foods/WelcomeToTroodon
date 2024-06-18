@@ -15,3 +15,6 @@ This was encountered during the initial setup of their Troodon printer when they
 - Reboot ('sudo reboot now' from the command line).
 
 KlipperScreen should now be able to access the network page where you can configure the WiFi connection and then no longer need the ethernet cable.
+
+#
+Next: [Moonraker Warnings](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/moonraker_warnings.md)
