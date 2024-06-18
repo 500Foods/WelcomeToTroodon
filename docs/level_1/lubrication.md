@@ -19,9 +19,11 @@ NOTE: In the YouTube video, there is a comment about applying grease to the rail
 While this may work for some linear rail blocks, in many cases the block has wipers to prevent contamination. 
 These can prevent the grease outside the block from entering inside the block, and therefore this might not be very effective at all. 
 
-Resources:
+## Resources
 - [Misumi: Installation and Maintenance of Linear Guides](https://us.misumi-ec.com/pdf/fa/2010/p0501.pdf)
 - [Hiwin: Lubricating instructions for linear guideways and ballscrews](https://www.hiwin.com/wp-content/uploads/lubricating_instructions.pdf)
 - [YouTube: How to Lubricate MGN12 Linear Rails](https://www.youtube.com/watch?v=GWzz6fQiWmw)
+
+<br /><hr>
 
 Next: X/Y/Z Limits
