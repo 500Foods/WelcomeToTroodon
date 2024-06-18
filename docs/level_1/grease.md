@@ -25,12 +25,12 @@ Here are some signs that indicate that more lubrication might help.
 
 ***NOTE: As of this writing, the Troodon 2.0 Pro printer ships with none of the rails lubricated. They include lubricant in the box, but not the syringes. The fine print on the tube states it is Type GT-01 and contains mineral oil and lithium soap thickener.***
 
-Resources:
+## Resources
 - [Misumi: Installation and Maintenance of Linear Guides](https://us.misumi-ec.com/pdf/fa/2010/p0501.pdf)
 - [Hiwin: Lubricating instructions for linear guideways and ballscrews](https://www.hiwin.com/wp-content/uploads/lubricating_instructions.pdf)
 - [YouTube: How to Lubricate MGN12 Linear Rails](https://www.youtube.com/watch?v=GWzz6fQiWmw)
 
-Products:
+## Products
 - [Amazon 🇺🇸 - B'laster 16-LG High-Performance White Lithium Grease](https://a.co/d/gwLPUC0)
 - [Amazon 🇺🇸 - Super Lube-21030 Synthetic Multi-Purpose Grease, 3 Oz.](https://a.co/d/9RkeD1P)
 
