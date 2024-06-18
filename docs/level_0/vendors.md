@@ -8,4 +8,5 @@ surely going to add to the cost, so be sure to combine orders at each vendor to 
 - [KB-3D](https://kb-3d.com/store/)
 - [Etsy](https://www.etsy.com/market/voron_printer)
 
+#
 Next: [YouTube Videos](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/youtubers.md)
