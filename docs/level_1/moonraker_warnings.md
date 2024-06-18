@@ -4,7 +4,8 @@ However, there may be an issue after rebooting where Moonraker seems to 'forget'
 In the case of Crowsnest, there's usually a very prominent message about this. With Timelapse, the functionality is just not visible in the interface any more.
 
 To address this, login to the printer using SSH. For Troodon printers with the stock BTT-CB1 board, the username is 'biqu'. The password is 'biqu'. SSH is running on port 22 (the regular SSH port). 
-Once logged in, CD to the 'crowsnest' directory run the 'sudo make install' command. Then do the same for moonraker-timelapse. 
+
+Once logged in, run the following commands.
 ```
 cd ~/crowsnest
 sudo make install
