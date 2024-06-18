@@ -1,5 +1,6 @@
 # Documentation
-When ordering a new 3D printer (in the case of Troodon, at least) it will come (often via e-mail in advance) with a user manual, setup manual, or installation manual of some kind. These typically have online versions as well as alternative guides made by third parties. For Troodon printers, the Team Gloomy guide addressess a few issues in the original FormBot guide, so that might be a better guide to follow when first putting together your new Troodon. 
+When ordering a new 3D printer (in the case of Troodon, at least) it will come (often via e-mail in advance) with a user manual, setup manual, or installation manual of some kind. These typically have online versions as well as alternative guides made by third parties. 
+For Troodon printers, the Team Gloomy guide addresses a few issues in the original FormBot guide, so that might be a better guide to follow when first putting together your new Troodon. 
 
 Ellis' Print Tuning Guide is applicable to many 3D printers and comes highly recommended by many people.
 
@@ -18,5 +19,6 @@ For those looking for more detailed information on the specifics of a printer or
 - [Troodon 1.0](https://web.archive.org/web/20220606141317/https://duet3d.dozuki.com/Wiki/Installing_and_Updating_Firmware#Section_Fallback_procedure_Num_1) - Steps to update firmware
 - [StealthBurner Hardware](https://vorondesign.com/voron_stealthburner) - Everything from the parts to the BOM to the assembly manual
 - [StealthBurner Pinout](https://wiki.kb-3d.com/en/home/linneo/voron/PCBs/Stealthburner_Two_Piece_PCB) - Should map to the connector on a Troodon 2.0 Pro breakout board 
-  
+
+#  
 Next: [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md)
