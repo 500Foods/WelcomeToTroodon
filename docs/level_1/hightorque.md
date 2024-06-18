@@ -10,7 +10,7 @@ Bonus points if you can get a matching black/red set - or one that matches your 
 <kbd><a href="URL"><img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/fe622605-4828-4d82-b64c-6fde7a5671d1 height=auto width=350></a></kbd>
 
 ## Product Links:
-- [Amazon (CA)](https://a.co/d/5eMKST0) - TEKTON Hex High-Torque Black Oxide Blade Screwdriver Set with Holder, 10-Piece (1.5-6 mm)
+- [Amazon 🇨🇦](https://a.co/d/5eMKST0) - TEKTON Hex High-Torque Black Oxide Blade Screwdriver Set with Holder, 10-Piece (1.5-6 mm)
 
 <br /><hr>
 
