@@ -8,8 +8,10 @@ Fortunately, there are plenty of sets available on Amazon or AliExpress that com
 
 NOTE: Be sure to pick up a bit magnetizer if the kit doesn't already come with one. It is trivial to magnetize bits, so no need to pay extra for a pre-magnetized set, but it should either come with a magnetizer or one can be purchased separately for a few dollars. Just a fancy magnet, after all.
 
-- [Amazon (USA)](https://www.amazon.com/s?k=mini+electric+screwdriver+set) - Search: Mini Electric Screwdriver Set
-- [Amazon (CA)](https://www.amazon.ca/s?k=mini+electric+screwdriver+set) - Search: Mini Electric Screwdriver Set
+## Product Links
+- [Amazon  🇺🇸](https://www.amazon.com/s?k=mini+electric+screwdriver+set) - Search: Mini Electric Screwdriver Set
+- [Amazon 🇨🇦](https://www.amazon.ca/s?k=mini+electric+screwdriver+set) - Search: Mini Electric Screwdriver Set
 - [AliExpress](https://www.aliexpress.us/w/wholesale-mini-electric-screwdriver-set.html) - Search: Mini Electric Screwdriver Set
 
+<hr>
 Next: [High-Torque Screwdrivers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/hightorque.md)
