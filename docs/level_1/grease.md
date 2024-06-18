@@ -29,7 +29,10 @@ Resources:
 - [Misumi: Installation and Maintenance of Linear Guides](https://us.misumi-ec.com/pdf/fa/2010/p0501.pdf)
 - [Hiwin: Lubricating instructions for linear guideways and ballscrews](https://www.hiwin.com/wp-content/uploads/lubricating_instructions.pdf)
 - [YouTube: How to Lubricate MGN12 Linear Rails](https://www.youtube.com/watch?v=GWzz6fQiWmw)
-- [Amazon 🇺🇸 B'laster 16-LG High-Performance White Lithium Grease](https://a.co/d/gwLPUC0)
+
+Products:
+- [Amazon 🇺🇸 - B'laster 16-LG High-Performance White Lithium Grease](https://a.co/d/gwLPUC0)
+- [Amazon 🇺🇸 - Super Lube-21030 Synthetic Multi-Purpose Grease, 3 Oz.](https://a.co/d/9RkeD1P)
 
  Next: [Nozzle Cleaning Needles](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/nozzle_needles.md)
  
