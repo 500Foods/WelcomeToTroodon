@@ -7,6 +7,7 @@
 - [Troodon Gantry Z Covers](https://www.printables.com/model/900588-troodon-20-motor-mount-covers) - Add a little bling to your printer
 - [Troodon Bed Alignment Guides](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/bed_alignment.md) - These help ensure the build plate is positioned accurately
 - [Troodon Rocker Feet](https://www.printables.com/model/629765-troodon-20-rocker-feet) - Makes getting into the electronics bay a little easier
+- [Troodon Front Door Magnets](https://www.printables.com/model/916927-troodon-20-pro-front-door-magnets) - "Get rid of those rattly, ugly kitchen cabinet magnets and make your front panels feel loved."
 
 #
 Next: [Level Two](https://github.com/500Foods/WelcomeToTroodon#-level-two---get-to-work)
