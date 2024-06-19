@@ -19,8 +19,9 @@ printer settings in the Machine G-code tab.
 
 ![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/087a84f8-6117-4588-a245-e9b9706cc150)
 
-In this case, the PRINT_START macro is called, and an extra setting is passed - the total number of layers in the print job. This makes the value available to Klipper macros, in case you want to use some kind of progress
-calculation, or pass this value out to a Linux Bash script.
+In this case, the PRINT_START macro is called with the temperature values chosen for EXTRUDER and BED being passed to it. These will have come from Orca settings, typically linked to the choice of filament being used.
+
+In the second line, an extra value is passed - the total number of layers in the print job. This makes the value available to Klipper macros, in case you want to use some kind of progress calculation or pass this value out to a Linux Bash script.
 ```
 PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]
 SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]
@@ -32,9 +33,8 @@ have the function call to trigger that module to generate a new image.
 
 ![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/ed066106-f669-47b7-b2ed-899f465a7a40)
 
-
 In this case, in addition to the Timelapse call, there's another Klipper mechanism to set the value for the current layer. As before, this makes it possible to do things in Klipper related to progress or to kick off something
-when certain layers are achieved. Perhaps a fan or heater can be turned on or off once a few layers are down, or different lighting modes can be enabled as the print progresses through 25%, 50%, and so on.
+when certain layers are achieved. Perhaps a fan or heater can be turned on or off once a few layers have been laid down, or different lighting modes can be enabled as the print progresses through 25%, 50%, and so on.
 ```
 ;AFTER_LAYER_CHANGE
 ;[layer_z]
