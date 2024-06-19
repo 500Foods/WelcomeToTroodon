@@ -51,7 +51,7 @@ gcode:
 
     # Set extruder temperature (without waiting) initially
     M104 S{temp_extruder}       # No Waiting
-    #M109 S{temp_extruder}      # Waiting
+    # M109 S{temp_extruder}     # Waiting
 
     # Get the bed temperature expected for this print job
     # This will typically be a value in the range 50-110C 
@@ -92,7 +92,7 @@ gcode:
     # a bed mesh for each print is a pretty good idea.
     # Otherwise, it can take a lot of time per print.
     # NOTE: Bed mesh data is stored at end of printer.cfg
-    #BED_MESH_CALIBRATE PROFILE=mesh1 METHOD=automatic
+    # BED_MESH_CALIBRATE PROFILE=mesh1 METHOD=automatic
     BED_MESH_PROFILE LOAD=mesh1
 
     # Change printer to absolute positioning mode
