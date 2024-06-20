@@ -28,11 +28,11 @@ There are several tools available to help with this. The principle is very simpl
 
 One option is to use a tool that helps with the alignment. In this case, the filament is aligned in the open space, and then a lighter is used to melt the filament. They are then pushed together and through the small hole to achieve the welded result.
 
-![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/a09428bb-f6c8-404c-b0c8-2ef376b76b23)
+<img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/a09428bb-f6c8-404c-b0c8-2ef376b76b23 width=400 />
 
 Another option is to use a tool that has a heater built into the design. In this case, the filament is joined in a clamp which then heats up to perform the weld.
 
-![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/b9a533ca-fe1f-4bc2-ad73-20960e1bf3bc)
+<img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/b9a533ca-fe1f-4bc2-ad73-20960e1bf3bc width=400 />
 
 Whether one of these options is used, or something else, you'll end up with longer lengths of filament that can then be used normally. If done properly there should be no difference in how it is used or the output quality of the prints as this is in essence the same filament.
 
@@ -42,10 +42,13 @@ Depending on the size of the waste, there are different options.
 ### Blender
 The option that spurred the creation of this document is the idea of using a blender. 
 This is not a new idea of course, but its lack of popularity in comparison to other approaches is kind of curious. But it seemed workable, particularly with a high-powered blender.
-So I gave it a try.
+So I gave it a try...
 
-![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/a6494e5b-cfe3-402a-9fab-24b4538b53dc)![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/ce9dbaa0-75e0-4f52-a8a1-5213b7ba4094)![image](https://github.com/500Foods/WelcomeToTroodon/assets/41052272/352b9698-f8d8-4244-a672-7c58bcd3d93b)
+<img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/a6494e5b-cfe3-402a-9fab-24b4538b53dc width=300 />
+<img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/ce9dbaa0-75e0-4f52-a8a1-5213b7ba4094 width=300 />
+<img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/352b9698-f8d8-4244-a672-7c58bcd3d93b width=300 />
 
+...and it worked pretty well! 
 
 
 ## 3D Files
