@@ -88,7 +88,7 @@ As complex as they are, 3D printers do require some amount of ongoing routine ma
 Configuration items are typically defined in the printer.cfg file. Be careful with these customizations as the hardware in your printer may be very different than what is assumed here. Note that any changes to Klipper's printer.cfg file will require a reboot to take effect.
 - printer.cfg [[probe]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/probe.md) - Voron TAP optimizations
 - printer.cfg [[quad_gantry_level]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/qgl.md) - Improve the QGL process
-- printer.cfg [Stock Troodon printer.cfg 1.2/2023-02-09](https://github.com/YGK3D/Troodon-2-Klipper/blob/main/Troodon2-Klipper-YGK3D-v1_2-printer.cfg) - Roll back to the starting point if things get messed up
+- printer.cfg [Stock Troodon printer.cfg](https://github.com/YGK3D/Troodon-2-Klipper/blob/main/Troodon2-Klipper-YGK3D-v1_2-printer.cfg) - Version 1.2 Released 02/09/23 
     
 ## ✂️ Macros Quick Reference
 Macros are typically defined in the printer.cfg file and these macros in particular are probably already present. Be sure to comment out any existing macro while testing changes, so you can revert back to the prior version if you encounter any problems.
