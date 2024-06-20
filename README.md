@@ -85,10 +85,9 @@ As complex as they are, 3D printers do require some amount of ongoing routine ma
 - [Seasonal Maintenace (Every 2,000 Print Hours)](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/seasonal.md) - Or every 2,000 print hours
 
 ## 🪛 Configuration Quick Reference
-Configuration items are typically defined in the printer.cfg file, and these are likely already all defined there. Be careful with these customizations as the hardware in your printer may be very different than what is assumed here.
-- [[probe]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/probe.md) - Voron TAP optimizations
-- [[quad_gantry_level]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/qgl.md) - Improve the QGL process
-- [Orca](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/orca.md) - Check that Klipper is being supplied with as much information as it can
+Configuration items are typically defined in the printer.cfg file. Be careful with these customizations as the hardware in your printer may be very different than what is assumed here. Note that any changes to Klipper's printer.cfg file will require a reboot to take effect.
+- [printer.cfg [probe]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/probe.md) - Voron TAP optimizations
+- [printer.cfg [quad_gantry_level]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/qgl.md) - Improve the QGL process
     
 ## ✂️ Macros Quick Reference
 Macros are typically defined in the printer.cfg file and these macros in particular are probably already present. Be sure to comment out any existing macro while testing changes, so you can revert back to the prior version if you encounter any problems.
@@ -96,6 +95,9 @@ Macros are typically defined in the printer.cfg file and these macros in particu
 - [PRINT_CANCEL](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_CANCEL.md) - Runs whenever a new print job is canceled, manually or otherwise
 - [TIMER](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/TIMER.md) - Adds support for adding timers to other macros, particularly to PRINT_START
 
+## Slicers Quick Reference
+Popular slicer software like Orca will generally work pretty well out of the box, as it comes with presets for a vast array of printers, including Troodon printers. Always room for improvement though.
+- [Orca](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/orca.md) - Check that Klipper is being supplied with as much information as it can
 
 ## 🪚 Scripts Quick Reference
 Typically these would be installed in ~/scripts on the BTT-CB1 or Raspberry Pi or wherever Klipper is running. Some of the scripts are intended for use with the [gcode_shell_command](https://github.com/dw-0/kiauh/blob/master/docs/gcode_shell_command.md) extension that can be very easily installed using [KIAUH](https://github.com/dw-0/kiauh). As its name implies, this extension allows for running Linux shell commands directly as gcode commands within, for example, printer.cfg. Rather useful. Note that most interfaces to the Klipper log allow you to filter entries, which comes in handy here in particular. 
