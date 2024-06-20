@@ -111,7 +111,7 @@ Note also that Linux scripts can be written in multiple languages, but most comm
 
 ## 💣 Experimental Projects
 And something for the brave souls who made it to the end of the page. Stuff that isn't ready for primetime but may still be useful. The usual disclaimers apply - enter at your own risk, here be dragons, not for the squeamish, etc., etc. 
-- Recycling Printer Waste - From support material, to failed prints, to calibrations, waste plastic is unavoidable
+- [Recycling Printer Waste](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_e/recycling.md) - From support material to failed prints to calibrations, what do do about waste
 - [Philement/carbon](https://github.com/500Foods/Philement/blob/main/elements/006-carbon/README.md) - On-device print failure monitoring using Timelapse images
   
 ## 📏 Repository Information 
