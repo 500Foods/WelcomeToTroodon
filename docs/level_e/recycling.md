@@ -38,8 +38,6 @@ Whether one of these options is used, or something else, you'll end up with long
 
 ## Waste Plastic - Breaking it Down
 Depending on the size of the waste, there are different options. 
-
-### Blender
 The option that spurred the creation of this document is the idea of using a blender. 
 This is not a new idea of course, but its lack of popularity in comparison to other approaches is kind of curious. But it seemed workable, particularly with a high-powered blender.
 So I gave it a try...
@@ -50,10 +48,27 @@ So I gave it a try...
 
 ...and it worked pretty well! 
 
+A few notes and caveats, however.
+- This is the Sieve used: [Thingiverse - 2mm Sieb Sieve Sandspielzeug Sand Toy](https://www.thingiverse.com/thing:4277134)
+- This is the blender used: [Amazon 🇨🇦 - Canddi Commercial Quiet Blender, 2200W](https://a.co/d/01p0vlCe)
+- The recycled material was ASA which has a very high melting point
+- It did take a bit of time to break down the densest pieces but it made it through all the material
+- As with printing ASA, dust and harmful VOCs are a likely byproduct of this process. It will make a mess.
+- Ideally, wear a decent mask. If you didn't like the fumes generated from printing, you'll like this even less.
+- A blender with an extra shroud (like this one) helps greatly to minimize the dust and material. *Highly recommended.*
+- It also came with a tamper. It may help speed up breaking down the largest chunks, but isn't strictly necessary.
+- Bread bags were used (double-bagged!) to store the resulting ground-up filmaent.
 
-## 3D Files
-- Sieve - 
+For anyone else wanting to give this a try, I deliberately chose the least expensive of the highest-powered blenders. Once used for this purpose, it would take a good deal of cleaning to be able to use it as a regular blender again. There are certainly more expensive blenders, but the 2200W 3HP motor running at 38,000rpm made quick work of pretty much everything thrown at it. Whether it will be as effective with prints in materials other than ASA is yet to be determined.
 
-## Products
-- Filament Welder
-- Cranddi Blender
+How fine does it need to be? That largely depends on what you want to do with it. I used a 2mm sieve thinking that I'll ultimately be recycling it into new filament. 
+This size helps ensure that any kind of filament tool, or even a toolhead supporting pellets, will be able to use this directly. Larger chunks would take less time to blend, however, and may result in stronger filament once it has been re-extruded. But it will also take up more volume.
+
+On the other hand, if you're going to press the material into large plates or push it through an injection molding process, it likely doesn't matter so much and can be much larger. 
+
+## Then What?
+My main objective was to get the material into a form that can be fed into some kind of machine for producing filaments. Like the shred-it options, these tend to be very expensive with all kinds of caveats. But the hope is that in time, this will be addressed and more consumer-friendly machines will appear on the market. 
+
+As mentioned above, there are other options. An injection molding machine is one. In this scenario, a mold fashioned out of something like aluminum is used with a press to push heated plastic down a heated tube into a mold. This works great when you want to produce many of the same parts, and ultimately is more efficient and far quicker than 3D printing. The catch is that the machine is a bit large and can be expensive, but machining molds is prohibitively expensive for casual use. The waste material must also be small enough to fit into the heated tube. 
+
+Another alternative is making plastic sheets, not unlike the back panel on a typical printer like a Voron or a Troodon. A press is used again, but the waste plastic is just laid out in a plate which is then compressed with another plate and then heated. Similar to injection molding, really, but different and with different price points and options. In this case, the waste filament chunks can be significantly larger, particularly if you mix different colors in to get a more random effect.
