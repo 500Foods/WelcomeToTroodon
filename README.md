@@ -1,116 +1,56 @@
+# Welcome To Troodon
+This repository has been created primarily as a community resource for those with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Troodons are very close relatives of the popular Voron series of printers. A great deal of the content here applies equally to those printers, as well as many other 3D printers. 
 
-Skip to content
-Navigation Menu
+## 🤔 Getting Started Resources
+Even before your printer is up and running, there are plenty of resources to check out. Both to learn more about 3D printing in general, if you are new to this space, and for considerably more in-depth knowledge about getting the most out of your printer.
+- [Documentation](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/documentation.md) - User manuals, online guides, and other reference materials
+- [Discord Communities](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/discord.md) - Connect with users and vendors of popular prints and products
+- [Vendor Websites](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/vendors.md) - Vetted suppliers with a history of delivering on their promises
+- [YouTube Videos](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/youtubers.md) - Helpful accounts to follow, covering a wide range of topics
+- [Troodon Information](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/troodon.md) - Links to check out if you're on the fence about purchasing a Troodon
+- [Notes About Mods](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/modifications.md) - What is a mod and why are they so popular?
 
-    500Foods
-    /
-    WelcomeToTroodon
+## 🤓 Effort, Expertise, and Expense
+Almost any kind of upgrade or modification to your printer will require something - a bit of time, a bit of know-how, or a bit of money. Sometimes more than one, and sometimes much more than a bit. To help, a simple rating system has been used throughout these pages. Naturally, everyone values their own time, skills, and money differently. What might be cheap for one person might be out of the question for someone else. The same goes for time and talent - there's a reason why we don't all have Vorons! 
 
-Code
-Issues
-Pull requests
-Discussions
-Actions
-Projects
-Wiki
-Security
-Insights
+| 🤓 | Effort | Description |
+|:-----:|:---------:|:---|
+| 🙂 | Easy   | Items that almost everyone can (and should) implement<ul><li>Not very time-consuming, often much less than an hour</li><li>Not very complex - grandma could do it (supervised, of course)</li><li>Little or no cost - won't impact the filament budget</li></ul> <tr></tr> |
+| 🔨 | Medium | Items that are broadly applicable, but strictly optional<ul><li>Might take some time to implement, certainly more than a few minutes </li><li>Definitiely need to read the documentation, maybe even watch a video or two</li><li>Some expense, likely more than the cost of a roll of filament</li></ul> <tr></tr> |
+| 🥇 | Difficult | Items that might be very beneficial but complex to implement<ul><li>More of a weekend project than an evening project</li><li>Need to do a bit of planning, watch several videos, do a bit of research</li><li>Likely the cost of several rolls of filament, or more, all-in</li><ul> <tr></tr> |
 
-    Settings
+## 🧐 Fussy Filaments
+A critical aspect of 3D printing relates to the type of filament used. While there are many websites that go on at length about the properties of each filament type, at the end of the day it comes down to how well the printer can process the filament being fed to it. There are differences in filament quality between vendors, and sometimes even between colors or batches of the same filament type from the same vendor. There can also be differences related to how dry the filament is. Here is a brief look at the most common filament types and what to plan for in terms of printer capabilities, modifications, settings, and so on.
 
-Editing README.md in WelcomeToTroodon
-Breadcrumbs
+- [PLA](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/pla.md) - Most common, easiest to start with, least expensive
+- [PETG](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/petg.md) - More durable, less brittle, quite popular
+- [TPU](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/tpu.md) - Much more flexible and sometimes even stretchy
+- [ABS / ASA](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/abs.md) - Better for high-temperature environments
+- [Nylon](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/nylon.md) - Not as strong but very durable, more expensive
+- [Additives](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/additivies.md) - Glass and Carbon Fiber take things up a notch
+- [Others](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/others.md) - Many, many more options to choose from
 
-    WelcomeToTroodon
+## ⚠️ Initial Build Tips
+Before putting together your 3D printer there are a few things to be aware of. These items are targeted at those assembling a Troodon printer but may be of interest to others. These items might have been overlooked (or not included) in the assembly guide. 
+- [Linear Rails](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/linear_rails.md) - Smooth operation is not optional
+- [Bed Plate Screws](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/bed_plate.md) - How tight is too tight?
+- [Belt Tensioning](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/belt_tensioning.md) - Also, how tight is too tight?
+- [T-Nuts](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/tnuts.md) - Friend or foe?
+- [Acrylic Panels](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/acrylic_panels.md) - Enclosures are great, right?
+- [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/first_problems.md) - Forewarned is forearmed!
 
-/
-in
-main
+## 🙂 Level One - Welcome!  
+This list is aimed at new 3D printer owners, particularly new Troodon 3D printer owners, as well as anyone looking to get more from their existing setup. This is more about the initial few weeks with a new printer and what to have on hand to make that experience as positive and productive as possible. 
+No mods here, really, as these are focused on getting up and running with what you already have out of the box with a typical stock configuration.
 
-Indent mode
-Indent size
-Line wrap mode
-Editing README.md file contents
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
-117
-118
-119
-120
-121
-122
-123
-124
-125
-126
-127
-128
-129
-130
-131
-132
-133
+- 🙂 [Software and Firmware](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/software.md) - Get everything up to date
+- 🙂 [Tools](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/tools.md) - What you need to perform basic assembly, maintenance, and repairs
+- 🙂 [Accessories](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/accessories.md) - Not strictly required, but a few things to help 
+- 🙂 [Chemicals](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/chemicals.md) - Keep these on hand for quick cleanup and proper maintenance
+- 🙂 [Replacement Parts](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/replacment_parts.md) - Stuff is going to break, so be prepared
+- 🙂 [Initial Tuning](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/initial_tuning.md) - A little extra TLC goes a long way
+- 🙂 [First Prints](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_prints.md) - Good places to start
+
 ## 🔨 Level Two - Get to Work!
 This list is aimed at those who might be planning for a more production-oriented environment. Maybe you're using your printer in a business. Maybe you have an Etsy store. Maybe you print a lot of the same things over and over again. Or maybe you just like to tinker. Here are modifications that can help ensure reliable prints day in and day out. And again, we're not touching anything in the main filament path of the printer but instead focused on everything around it. Often, small updates or modifications can make a big difference in the day-to-day experience. These are intended to be on the less expensive and easy-to-implement side of the fence, accessible to most everyone without too much of a learning curve.
 
