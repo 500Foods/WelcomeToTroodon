@@ -96,7 +96,7 @@ Macros are typically defined in the printer.cfg file and these macros in particu
 - [PRINT_CANCEL](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_CANCEL.md) - Runs whenever a new print job is canceled, manually or otherwise
 - [TIMER](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/TIMER.md) - Adds support for adding timers to other macros, particularly to PRINT_START
 
-## :sword Slicers Quick Reference
+## ⚔️ Slicers Quick Reference
 Popular slicer software like Orca will generally work pretty well out of the box, as it comes with presets for a vast array of printers, including Troodon printers. Always room for improvement though.
 - [Orca](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/orca.md) - Check that Klipper is being supplied with as much information as it can
 
