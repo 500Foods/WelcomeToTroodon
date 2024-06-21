@@ -117,3 +117,19 @@ gcode:
     # RUN_SHELL_COMMAND CMD=shell_get_elapsed_time PARAMS='PRINT_START'
     
 ```
+## Why 150C?
+Finally, a note about 150C. The QGL and potentially the bed levelling that occurs is generally performed at 150C. So in essence, we have a situation where the following occurs.
+- Increase nozzle temperature to printing value, say 260C (depends on filament)
+- Nozzle clean
+- Reduce nozzle temperature to 150C
+- QGL
+- Increase nozzle temperature to back to printing value
+- Nozzle Clean
+- Print
+
+If you have a fast nozzle heater, like a ceramic heater, this happens very quickly. If you don't, this can take an agonizingly long time. But why do this at all?
+
+Well, the nozzle is ideally set at printing temperature to ensure it can be properly cleaned. Any filament stuck to the tip of the nozzle might not come off otherwise. In practice, filament tends to be not stuck to the nozzle but rather simply extruded and thus dangling, and it would get removed when doing a nozzle clean at any temperature.
+
+The QGL and, optionally, the bed levelling, is done at 150C. One reason given is that this is to prevent damage to the build plate or even the underlying base plate. Constant TAP contact at high temperatures at identical points will lead to damage, and a lower temperature will reduce the that possibility. It may also be that build plaltes have improved, and TAP itself has improved, likely to the point where this isn't an issue. Another reason given is to have a low enough temperature to ensure that a TAP doesn't lead to filament coming out of the nozzle. As the nozzle is the primary sensor in play with TAP, having material extruded while TAPing would be a serious problem.  150C is below the temperature at which this occurs for PLA. So if you never use PLA, thien this value can be set significantly higher, thus reducing the time to get to/from the printing temperature.
+
