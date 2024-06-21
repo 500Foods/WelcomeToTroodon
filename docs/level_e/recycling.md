@@ -53,17 +53,14 @@ A few notes and caveats, however.
 - This is the blender used: [Amazon 🇨🇦 - Canddi Commercial Quiet Blender, 2200W](https://a.co/d/01p0vlCe)
 - The recycled material was ASA which has a very high melting point
 - It did take a bit of time to break down the densest pieces but it made it through all the material
-- As with printing ASA, dust and harmful VOCs are a likely byproduct of this process. It will make a mess.
-- Ideally, wear a decent mask. If you didn't like the fumes generated from printing, you'll like this even less.
 - A blender with an extra shroud (like this one) helps greatly to minimize the dust and material. *Highly recommended.*
+- This can be a very messy process any dust escaping will go everywhere.
 - It also came with a tamper. It may help speed up breaking down the largest chunks, but isn't strictly necessary.
 - Bread bags were used (double-bagged!) to store the resulting ground-up filament.
 
-NOTE: Blending printer waste will reduce some of it to very fine particles. That then become airborne. And VOCs can also be released. So best to wear a good mask with an activated charcoal filter if the material you're blending warrants it.
+NOTE: Blending printer waste will reduce some of it to very fine particles. That then become airborne. And VOCs can also be released. So best to wear a good mask with an activated charcoal filter if the material you're blending warrants it. 
 
 NOTE: Blending printer waste will reduce some of it to very fine particles. This is generally undesirable as it breaks down some of the bonds in the plastic that give it strength. Filament produced from waste recycled in this way is thus likely to be less strong and of less quality generally. This effect varies with the type of material used, however.
-
-
 
 For anyone else wanting to give this a try, I deliberately chose the least expensive of the highest-powered blenders. Once used for this purpose, it would take a good deal of cleaning to be able to use it as a regular blender again. There are certainly more expensive blenders, but the 2200W 3HP motor running at 38,000rpm made quick work of pretty much everything thrown at it. Whether it will be as effective with prints in materials other than ASA is yet to be determined.
 
