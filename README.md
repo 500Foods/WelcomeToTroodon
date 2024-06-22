@@ -1,8 +1,8 @@
 # Welcome To Troodon
 This repository has been created primarily as a community resource for those with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Troodons are very close relatives of the popular Voron series of printers. A great deal of the content here applies equally to those printers, as well as many other 3D printers. 
 
-Note that this repository is still rather new and very much a work in progress. 
-<br/><img src="https://progress-bar.dev/53/?title=%20Completed%20&width=350">
+Note: This is a new project with many pages yet to be completed.
+<br/><img src="https://progress-bar.dev/53/?title=%20Completed%20&width=415">
 
 ## 🤔 Getting Started Resources
 Even before your printer is up and running, there are plenty of resources to check out. Both to learn more about 3D printing in general, if you are new to this space, and for considerably more in-depth knowledge about getting the most out of your printer.
