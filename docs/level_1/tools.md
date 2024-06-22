@@ -11,8 +11,10 @@ Who doesn't like an excuse to buy more tools? Here are several that can make qui
 - [Syringes](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/syringes.md) - Linear rails need to be lubricated
 - [Grease](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/grease.md) - If your printer didn't come with any
 - [Nozzle Cleaning Needles](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/nozzle_needles.md) - Sooner or later something is going to get stuck in there
+- [NoClogger](https://www.etsy.com/ca/listing/1203822782/noclogger-the-must-have-3d-printing-tool) - When you want to clean out the entire filament path quickly
 - [Filament Cutter](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/filament_cutter.md) - Clean cuts every time
 - [Thermometers and Hygrometers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/thermo_hygro.md) - Monitor your environments
 - [3D Printer Toolkits](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/toolkits.md) - No need to buy these individually
 
+#
 Next: [Accessories](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/accessories.md)
