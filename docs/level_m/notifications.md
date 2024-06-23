@@ -12,8 +12,9 @@ There are quite a few options here. And some depend on whether you're using othe
 - Times - How much time is left? How much time has elapsed?
 - Milestones - Is it time for more maintenance?
 
-Generally speaking, what we're after here is reducing the number of surprises as we go about our day. Running out of disk space is a rare occurrence, for example, but when it happens it creates problems might not immediately point to that as the underlying cause. 
-So doing a bit of work to setup such a notification can save running into that kind of problem. Likewise, being reminded that you've crossed a 500 Print Hour boundary might be just the little nudge you need to look over a few less common things. Tighten a few belts. 
+Generally speaking, what we're after here is reducing the number of surprises as we go about our day. Running out of disk space is a rare occurrence, for example, but when it happens it creates problems that might not immediately point to that as the underlying cause. 
+So doing a bit of work to set up such a notification can save running into that kind of problem. Likewise, being reminded that you've crossed a 500 Print Hour boundary might be just the little nudge you need to look over a few less common things. Tighten a few belts. 
 That sort of thing.
 
+#
 Next: [Between Every Print](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/every_print.md)
