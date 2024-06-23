@@ -60,9 +60,11 @@ A few notes and caveats, however.
 
 NOTE: Blending printer waste will reduce some of it to very fine particles. That then become airborne. And VOCs can also be released. So best to wear a good mask with an activated charcoal filter if the material you're blending warrants it. 
 
-NOTE: Blending printer waste will reduce some of it to very fine particles. This is generally undesirable as it breaks down some of the bonds in the plastic that give it strength. Filament produced from waste recycled in this way is thus likely to be less strong and of less quality generally. This effect varies with the type of material used, however.
+NOTE: Blending printer waste will reduce some of it to very fine particles. This is generally undesirable as it breaks down some of the bonds in the plastic that give it strength. Filament produced from waste recycled in this way is thus likely to be less strong and of less quality generally. This effect varies with the type of material.
 
-For anyone else wanting to give this a try, I deliberately chose the least expensive of the highest-powered blenders. Once used for this purpose, it would take a good deal of cleaning to be able to use it as a regular blender again. There are certainly more expensive blenders, but the 2200W 3HP motor running at 38,000rpm made quick work of pretty much everything thrown at it. Whether it will be as effective with prints in materials other than ASA is yet to be determined.
+NOTE: Once used for this purpose, it would take a good deal of cleaning to be able to use the blender for preparing food or drinks again. At the very least, it would be best to replace the blender jar as there will likely be microscopic bits of filament embedded inside that you would not want added to your diet.
+
+For anyone wanting to give this a try, I deliberately chose the least expensive of the highest-powered blenders. There are certainly more expensive blenders. As a minimum, find one that is capable of routinely crushing ice. And with as few "extras" as possible. This model has a 2200W 3HP motor running at 38,000 RPM which made quick work of pretty much everything thrown at it. Whether it will be as effective with prints in materials other than ASA is yet to be determined.
 
 How fine does it need to be? That largely depends on what you want to do with it. I used a 2mm sieve thinking that I'll ultimately be recycling it into new filament. 
 This size helps ensure that any kind of filament tool, or even a toolhead supporting pellets, will be able to use this directly. Larger chunks would take less time to blend, however, and may result in stronger filament once it has been re-extruded. But it will also take up more volume.
