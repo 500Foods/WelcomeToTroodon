@@ -81,3 +81,6 @@ gcode:
     PRINT_CANCEL
     BASE_CANCEL_PRINT
 ```
+
+#
+Parent: [Macros Quick Reference](https://github.com/500Foods/WelcomeToTroodon#%EF%B8%8F-macros-quick-reference)
