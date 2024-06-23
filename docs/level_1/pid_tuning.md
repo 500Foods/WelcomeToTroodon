@@ -41,4 +41,5 @@ PID_CALIBRATE HEATER=heater_bed TARGET=100
 ```
 Changing the bed heater or anything related to the components involved in maintaining a consistent bed temperature would be a good time to run this calibration.
 
+#
 Next: [First Prints](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_prints.md)
