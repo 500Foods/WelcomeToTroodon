@@ -75,3 +75,6 @@ My main objective was to get the material into a form that can be fed into some 
 As mentioned above, there are other options. An injection molding machine is one. In this scenario, a mold fashioned out of something like aluminum is used with a press to push heated plastic down a heated tube into a mold. This works great when you want to produce many of the same parts, and ultimately is more efficient and far quicker than 3D printing. The catch is that the machine is a bit large and can be expensive, but machining molds is prohibitively expensive for casual use. The waste material must also be small enough to fit into the heated tube. 
 
 Another alternative is making plastic sheets, not unlike the back panel on a typical printer like a Voron or a Troodon. A press is used again, but the waste plastic is just laid out in a plate which is then compressed with another plate and then heated. Similar to injection molding, really, but different and with different price points and options. In this case, the waste filament chunks can be significantly larger, particularly if you mix different colors in to get a more random effect.
+
+Yet another option is to fill silicone baking molds and then heat them in the oven. Great for making simpler shapes, letters, and so on. Will give this one a try first.
+
