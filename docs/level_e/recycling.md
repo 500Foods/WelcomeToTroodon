@@ -78,3 +78,5 @@ Another alternative is making plastic sheets, not unlike the back panel on a typ
 
 Yet another option is to fill silicone baking molds and then heat them in the oven. Great for making simpler shapes, letters, and so on. Will give this one a try first.
 
+#
+Parent: [Experimental Projects](https://github.com/500Foods/WelcomeToTroodon/tree/main#-experimental-projects)
