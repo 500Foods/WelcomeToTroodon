@@ -96,5 +96,5 @@ Now, once the PRINT_START macro completes, you'll see a message something like t
 
 <kbd><a href="URL"><img src=https://github.com/500Foods/WelcomeToTroodon/assets/41052272/2a4a8850-b9e3-4bbb-91c9-559647912ae4></a></kbd>
 
-
-
+#
+Parent: [Scripts Quick Reference](https://github.com/500Foods/WelcomeToTroodon#-scripts-quick-reference)
