@@ -40,3 +40,6 @@ After KlipperScreen restarts (and Klipper itself is restarted to enable the macr
 
 NOTE: Klipper processes macros in a sequential and single-threaded manner. If a long-running macro is currently running, such as a PRINT_START macro, other macros will queue up behind it, and not get executed until it is finished.
 Put another way, this means that while something like PRINT_START is running, the light button will appear to not work. But tapping it will queue up the request which will be executed after.
+
+#
+Parent: [Macros Quick Reference](https://github.com/500Foods/WelcomeToTroodon#%EF%B8%8F-macros-quick-reference)
