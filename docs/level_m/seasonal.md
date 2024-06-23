@@ -7,4 +7,5 @@ After several months of continuous printing, there are likely to be more serious
 - [ ] 🥇 &nbsp; 04 &nbsp; - &nbsp; Consider replacing the aluminum base plate if it has warped over time
 - [ ] 🔨 &nbsp; 05 &nbsp; - &nbsp; [Lubricate](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/lubrication.md) all of the linear rails again
 
+#
 Next: [Macros Quick Reference](https://github.com/500Foods/WelcomeToTroodon#macros-quick-reference)
