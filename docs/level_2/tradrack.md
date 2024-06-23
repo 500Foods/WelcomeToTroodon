@@ -1,2 +1,2 @@
 # TradRack
-TBD
+TBD.
