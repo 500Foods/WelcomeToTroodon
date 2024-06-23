@@ -135,3 +135,5 @@ The QGL and, optionally, the bed levelling, is done at 150C. One reason given is
 
 NOTE: The 150C QGL temperature is set explicitly in the PRINT_START script above, but it is likely also set when running a QGL, which can be found in the G32 macro in printer.cfg.
 
+#
+Parent: [Macros Quick Reference](https://github.com/500Foods/WelcomeToTroodon#%EF%B8%8F-macros-quick-reference)
