@@ -4,6 +4,22 @@ This repository has been created primarily as a community resource for those wit
 Note: This is a new project with many pages yet to be completed.
 <br/><br/><img src="https://progress-bar.dev/44/?scale=86&title=%20Completed%20&width=415&suffix=%20%2F%2086%20Pages">
 
+## 🎁 Contents
+- [🤔 Getting Started Resources](https://github.com/500Foods/WelcomeToTroodon/tree/main#-getting-started-resources)
+- [🤓 Effort, Expertise, and Expense](https://github.com/500Foods/WelcomeToTroodon/tree/main#-effort-expertise-and-expense)
+- [🧐 Fussy Filaments](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-fussy-filaments)
+- [⚠️ Initial Build Tips](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#%EF%B8%8F-initial-build-tips)
+- [🙂 Level One - Welcome!](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-level-one---welcome)
+- [🔨 Level Two - Get to Work!](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-level-two---get-to-work)
+- [🥇 Level Three - More Speed!](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-level-three---more-speed)
+- [⏰ Routine Maintenance](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-routine-maintenance)
+- [🪛 Configuration Quick Reference](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-configuration-quick-reference)
+- [✂️ Macros Quick Reference](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#%EF%B8%8F-macros-quick-reference)
+- [⚔️ Slicers Quick Reference](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#%EF%B8%8F-slicers-quick-reference)
+- [🪚 Scripts Quick Reference](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-scripts-quick-reference)
+- [💣 Experimental Projects](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-experimental-projects)
+- [📏 Repository Information ](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#-repository-information)
+
 ## 🤔 Getting Started Resources
 Even before your printer is up and running, there are plenty of resources to check out. Both to learn more about 3D printing in general, if you are new to this space, and for considerably more in-depth knowledge about getting the most out of your printer.
 - [Documentation](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/documentation.md) - User manuals, online guides, and other reference materials
@@ -135,4 +151,6 @@ SUM:                            91            358             54           1345
 2 Files (without source code) were skipped
 ```
 <!--CLOC-END-->
- 
+
+#
+Suggestions are welcome! Create a GitHub Issue or reach out to @500Foods on the #Troodon channel on the [FormBot Discord](https://discord.gg/spAGFK2PnN).
