@@ -76,7 +76,7 @@ As mentioned above, there are other options. An injection molding machine is one
 
 Another alternative is making plastic sheets, not unlike the back panel on a typical printer like a Voron or a Troodon. A press is used again, but the waste plastic is just laid out in a plate which is then compressed with another plate and then heated. Similar to injection molding, really, but different and with different price points and options. In this case, the waste filament chunks can be significantly larger, particularly if you mix different colors in to get a more random effect.
 
-Yet another option is to fill silicone baking molds and then heat them in the oven. Great for making simpler shapes, letters, and so on. Will give this one a try first.
+Yet another option is to fill silicone baking molds and then heat them in the oven. Great for making simpler shapes, letters, and so on.
 
 #
 Parent: [Experimental Projects](https://github.com/500Foods/WelcomeToTroodon/tree/main#-experimental-projects)
