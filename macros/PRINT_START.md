@@ -19,6 +19,10 @@ In Orca, for example, these are set in the top-most printer settings under "Mach
 
 NOTE: The PRINT_START macro call is added to the gcode sent to the printer by the slicer software. For example, in Orca, it looks like this, which can be found in Print Settings > Machine G-cocde > Machine Start G-code. 
 This is where the values for EXTRUDER and BED are derived from in the script.
+
+***NOTE: It is critically important that the call to PRINT_START and its parameters supplied by your [slicer](https://github.com/500Foods/WelcomeToTroodon/tree/main?tab=readme-ov-file#%EF%B8%8F-slicers-quick-reference) 
+match the PRINT_START macro in your printer.cfg. Also, review whatever else is being added by your slicer as this may have changed during an update, and may be duplicating some of the work of the PRINT_START macro. 
+See the [Orca](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/orca.md) page for more information on that particular slicer software.***
 ```
 PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]
 ```
