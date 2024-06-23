@@ -22,5 +22,7 @@ When changing the filament (when not using an MMU):
 - [ ] 🙂 &nbsp; 17 &nbsp; - &nbsp; Use the "Load Filament" macro and check that the new filament is extruded
 - [ ] 🙂 &nbsp; 18 &nbsp; - &nbsp; Clean out the extruded filament and give the nozzle a good brush
 - [ ] 🙂 &nbsp; 19 &nbsp; - &nbsp; Use the "Nozzle Clean" and "Nozzle Purge" macros to ensure everything is ready
+- [ ] 🙂 &nbsp; 20 &nbsp; - &nbsp; Use the [NoClogger](https://www.etsy.com/ca/listing/1203822782/noclogger-the-must-have-3d-printing-tool) tool, if you've got one, to clean out the filament path
 
+#
 Next: [Weekly Maintenance](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_m/weekly.md)
