@@ -1,4 +1,4 @@
-# Time and Timer Commands
+# Time and Timer Shell Scripts
 Klipper isn't particularly aware of anything to do with time. It doesn't even seem to currently support the M75 gcode command (start the print timer). Nor does it have any concept of what the current time is. 
 
 To address this, a Klipper extension called [gcode_shell_command](https://github.com/dw-0/kiauh/blob/master/docs/gcode_shell_command.md) can be used. This can be easily installed using [KIAUH](https://github.com/dw-0/kiauh) which, itself, is also easy to install. The extension provides a mechanism to run Linux commands and even pass parameters to them. The output of the commands can be displayed on the Klipper console. 
