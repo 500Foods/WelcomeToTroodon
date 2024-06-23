@@ -34,5 +34,5 @@ Here are some signs that indicate that more lubrication might help.
 - [Amazon 🇺🇸 - B'laster 16-LG High-Performance White Lithium Grease](https://a.co/d/gwLPUC0)
 - [Amazon 🇺🇸 - Super Lube-21030 Synthetic Multi-Purpose Grease, 3 Oz.](https://a.co/d/9RkeD1P)
 
- Next: [Nozzle Cleaning Needles](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/nozzle_needles.md)
- 
+#
+Next: [Nozzle Cleaning Needles](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/nozzle_needles.md)
