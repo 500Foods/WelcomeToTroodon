@@ -1,4 +1,5 @@
 # ABS / ASA
+TBD.
 
 Brainstorming...
 - Need heated bed
@@ -15,6 +16,5 @@ Brainstorming...
 - Fixing adhesion not the only problem - parts can lift the build plate off of aluminum base plate
 - Part design can have a big impact on how cooling relates to adhesion and warping
 - Solid parts are more of a problem, whereas gaps lessen the forces being applied
-  
-
 - Print monitoring applicable here - watching for parts that have been knocked out of position
+  
