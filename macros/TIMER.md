@@ -46,3 +46,5 @@ gcode:
     RUN_SHELL_COMMAND CMD=shell_get_elapsed_time PARAMS={TIMER}
 ```
 
+#
+Parent: [Macros Quick Reference](https://github.com/500Foods/WelcomeToTroodon#%EF%B8%8F-macros-quick-reference)
