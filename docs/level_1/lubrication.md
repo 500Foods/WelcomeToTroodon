@@ -24,6 +24,5 @@ These can prevent the grease outside the block from entering inside the block, a
 - [Hiwin: Lubricating instructions for linear guideways and ballscrews](https://www.hiwin.com/wp-content/uploads/lubricating_instructions.pdf)
 - [YouTube: How to Lubricate MGN12 Linear Rails](https://www.youtube.com/watch?v=GWzz6fQiWmw)
 
-<br /><hr>
-
+#
 Next: X/Y/Z Limits
