@@ -1,13 +1,13 @@
 # Troodon Information
 If you've not yet purchased a printer and have been struggling to decide which printer to get, you're not alone. There are many to choose from, with many options to fit nearly any budget. To help narrow the field a bit, there are generally a few key considerations.
 
-- **FDM vs Resin** - We're primarily interested in with FDM printers. But if your main goal is to print smaller high-resolution objects like figurines or game pieces then a resin printer may be a better choice.
+- **FDM vs Resin** - We're primarily interested in FDM printers. But if your main goal is to print smaller high-resolution objects like figurines or game pieces then a resin printer may be a better choice.
                      The main restrictions are that they tend to have much smaller print volumes and there are currently no options for multi-color or multi-material prints.
 - **Print Volume** - A key criterion relates to the dimensions of the largest print supported by a given printer. These range between 180mm<sup>3</sup> all the way up to 500mm<sup>3</sup>. Often, all three dimensions are the same or similar, but be sure to check carefully as this is not always the case.
                      While having a large print volume allows for printing larger objects, it also means many smaller objects can be printed in one print run as well. This can be important if you plan to print many copies of smaller parts.
 - **Enclosure** - Another key differentiator is whether the printer is enclosed, typically within acrylic panels. These panels, and the frame to support them, can add quite a bit to the cost but they are necessary for printing certain materials.
                  This applies particularly to ABS and ASA where the internal chamber temperature needs to remain constant and high. Another consideration is that some of these materials (ABS in particular) produce harmful exhaust fumes (VOCs) that need to be pushed
-                 through an active carbon filter, necessitating an enclosre. This is less of a concern if you're only interested in something like PLA prints.
+                 through an active carbon filter, necessitating an enclosure. This is less of a concern if you're only interested in something like PLA prints.
 - **Assembly Effort** - Some printers arrive ready to print out-of-the-box. Just plug it in and go! Eg: Bambu Labs printers. Some printers have to be built from scratch starting with ordering individual parts from separate vendors, after which you're faced with a full week of assembly. Eg: Voron printers.
                       And there are printers that can be found covering every step in between. Numerous kits are available for Voron printers, for example, to help with sourcing parts. Some kits come partially assembled, like Troodon, cutting the assembly time down from several days to several hours.
 - **Cost** - Consumer-level 3D printers range in cost from a few hundred dollars to a few thousand dollars. Sometimes the cost comes from the need for more or larger parts, hence larger print volumes tend to lead to higher prices. But, largely, the basic parts of a 3D printer are quite similar.
