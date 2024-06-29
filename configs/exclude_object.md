@@ -15,3 +15,6 @@ In order to enable this feature, it is a simple addition of the following to the
 With that line in place, Mainsail (the web interface for Klipper) will now have a button at the top, where the pause/cancel button is, that will bring up an interface and allow you to exclude objects. 
 
 NOTE: This also requires that your slicer includes labels for the objects and has "exclude objects" enabled as well. In Orca, this can be found under the "Others" tab when the Advanced option is enabled.
+
+## Reference
+- [Klipper Documentation](https://www.klipper3d.org/Exclude_Object.html) - Exclude Objects 
