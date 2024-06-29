@@ -11,6 +11,6 @@
 - [Troodon Bed Alignment Guides](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/bed_alignment.md) - These help ensure the build plate is positioned accurately
 - [Troodon Corner Brackets](https://github.com/TeamGloomy/Troodon-V2/blob/improved/STL_Files/Formbot/Corner_Piece/Troodonv2cornerpieces.STL) - When you want to change up the color scheme
 - [Troodon Rocker Feet](https://www.printables.com/model/629765-troodon-20-rocker-feet) - Makes getting into the electronics bay a little easier
-- [Troodon Front Door Magnets](https://www.printables.com/model/916927-troodon-20-pro-front-door-magnets) - "Get rid of those rattly, ugly kitchen cabinet magnets and make your front panels feel loved."
+- [Troodon Front Door Magnets](https://www.printables.com/model/916927-troodon-20-pro-front-door-magnets) - "Get rid of those rattly, ugly kitchen cabinet magnets and make your front panels feel loved"
 #
 Next: [Level Two](https://github.com/500Foods/WelcomeToTroodon#-level-two---get-to-work)
