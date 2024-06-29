@@ -26,7 +26,7 @@ samples_tolerance_retries: 10   # Number of times to retry before giving up
 sample_retract_dist: 2.0        # Distance to lift between each probe (mm)
 ```
 
-References:
+## References
 - [Voron TAP GitHub Repository](https://github.com/VoronDesign/Voron-Tap) - Software and links to CAD drawings, etc.
 - [Voron TAP Assembly Manual](https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/Assembly_Manual_Tap.pdf) - If you want to assemble or repair the Voron TAP probe
 - [Klipper TAP Documentation ](https://www.klipper3d.org/Config_Reference.html#probe)- List of parameters
