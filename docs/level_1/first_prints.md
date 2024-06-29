@@ -3,6 +3,8 @@
 - [Califlower Calibration Tool](https://vector3d.shop/products/califlower-calibration) - Used to calibrate printer dimensional accuracy and skew
 - [StealthBurner Latch](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_print_latch.md) - A better version of a frequently broken part
 - [Gantry Levelling "Beer Cans"](https://www.printables.com/model/869496-gantry-leveling-beer-cans-voron-gantry-leveling-ai) - Used to manually level the gantry
+
+## For the Troodon 2.0 Pro 
 - [Troodon Filament Runout Sensor Mount](https://www.printables.com/model/568188-filament-sensor-bracket-for-troodon-20) - Don't just leave it hanging
 - [Troodon Z-Belt Covers](https://www.printables.com/model/926813-troodon-20-z-belt-covers) - Keep debris from falling into the belts
 - [Troodon Motor Mount Covers](https://www.printables.com/model/900588-troodon-20-motor-mount-covers) - Add a little bling to your printer
