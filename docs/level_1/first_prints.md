@@ -5,7 +5,7 @@
 - [Gantry Levelling "Beer Cans"](https://www.printables.com/model/869496-gantry-leveling-beer-cans-voron-gantry-leveling-ai) - Used to manually level the gantry
 - [Troodon Filament Runout Sensor Mount](https://www.printables.com/model/568188-filament-sensor-bracket-for-troodon-20) - Don't just leave it hanging
 - [Troodon Z-Belt Covers](https://www.printables.com/model/926813-troodon-20-z-belt-covers) - Keep debris from falling into the belts
-- [Troodon Gantry Z Covers](https://www.printables.com/model/900588-troodon-20-motor-mount-covers) - Add a little bling to your printer
+- [Troodon Motor Mount Covers](https://www.printables.com/model/900588-troodon-20-motor-mount-covers) - Add a little bling to your printer
 - [Troodon Bed Alignment Guides](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/bed_alignment.md) - These help ensure the build plate is positioned accurately
 - [Troodon Corner Brackets](https://github.com/TeamGloomy/Troodon-V2/blob/improved/STL_Files/Formbot/Corner_Piece/Troodonv2cornerpieces.STL) - When you want to change up the color scheme
 - [Troodon Rocker Feet](https://www.printables.com/model/629765-troodon-20-rocker-feet) - Makes getting into the electronics bay a little easier
