@@ -43,6 +43,9 @@ Please be sure to thoroughly test any changes you make to your own printer confi
 description: Prepare the printer for a new print job
 gcode:
 
+    # Log the start of the script
+    M118 PRINT_START has started
+
     # Start a timer (Note: Requires TIMER macros)
     # RUN_SHELL_COMMAND CMD=shell_get_current_datetime
     # RUN_SHELL_COMMAND CMD=shell_log_current_datetime PARAMS='PRINT_START'
@@ -119,7 +122,9 @@ gcode:
 
     # Show elapsed time (Note: Requires TIMER macros)
     # RUN_SHELL_COMMAND CMD=shell_get_elapsed_time PARAMS='PRINT_START'
-    
+
+    # Log the end of the script
+    M118 PRINT_START has ended
 ```
 ## Why 150C?
 Finally, a note about 150C. The QGL and potentially the bed leveling that occurs is generally performed at 150C. So in essence, we have a situation where the following occurs.
