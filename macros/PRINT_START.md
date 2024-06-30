@@ -117,6 +117,9 @@ gcode:
     # One last clean 
     NOZZLE_CLEAN
 
+    # Try a print
+    # NOZZLE_PRIME
+
     # One last home
     G28
 
