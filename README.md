@@ -108,7 +108,7 @@ Configuration items are typically defined in the printer.cfg file. Be careful wi
 - printer.cfg [[exclude_object]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/exclude_object.md) - Enable option for excluding failed objects from currently running print job
 - printer.cfg [[probe]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/probe.md) - Voron TAP optimizations
 - printer.cfg [[quad_gantry_level]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/qgl.md) - Improve the QGL process
-- printer.cfg [gcode_arcs] - Enable support for G2/G3 G-Code commands
+- printer.cfg [[gcode_arcs]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/gcode_arcs.md)- Enable support for G2/G3 G-Code commands
 - printer.cfg [Stock Troodon printer.cfg](https://github.com/YGK3D/Troodon-2-Klipper/blob/main/Troodon2-Klipper-YGK3D-v1_2-printer.cfg) - Version 1.2 Released 02/09/23 
     
 ## ✂️ Macros Quick Reference
