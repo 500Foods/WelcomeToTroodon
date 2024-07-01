@@ -147,5 +147,16 @@ The QGL and, optionally, the bed levelling, is done at 150C. One reason given is
 
 NOTE: The 150C QGL temperature is set explicitly in the PRINT_START script above, but it is likely also set when running a QGL, which can be found in the G32 macro in printer.cfg.
 
+## Troubleshooting
+Here are a few additional notes to help with troubleshooting the PRINT_START macro. These are intended specifically for new users of the Troodon 2.0 Pro which ships with a macro that doesn't quite work properly with current versions of Orca.
+
+- Double-check that the Orca settings for calling PRINT_START with the EXTRUDER and BED parameters match the same parameters in the PRINT_START macro.
+- Double-check that the Orca settings don't also include temperature commands as all the necessary commands for the bed and extruder are included in PRINT_START already. Remove any extraneous M109 commands, for example.
+- The PRINT_STATUS macro was recently updated with an extra "PRINT_START has started" and "PRINT_START has ended" message output to the console so you can confirm that it is in fact running.
+- This was also to address the problem of people editing printer.cfg and not saving the changes, or not rebooting after, or updating a different printer.cfg.
+- There are often several printer.cfg files with timestamps. These are generated whenever you do a new bed mesh levelling, so be careful not to make changes to those as only the base "printer.cfg" file is actually used by Klipper.
+- The PRINT_START macro can be run directly from the web interface without using Orca at all. It will do the same steps - heating to print temperature, then to 150C to do a QGL, and then back to print temperature. Running the macro in this way may help track down issues with the macro itself. Note that by default, the NOZZLE_PRIME command is commented out, so the PRINT_START macro does not actually attempt to extrude anything and as such should never give an extruder temperature error.
+- As part of the PRINT_START commands, it loads a pre-existing "mesh1" bed mesh. If you've not yet done a bed mesh leveling, use the "mesh leveling" and "save mesh" macros to generate one. The "mesh1" name is used by default.
+
 #
 Parent: [Macros Quick Reference](https://github.com/500Foods/WelcomeToTroodon#%EF%B8%8F-macros-quick-reference)
