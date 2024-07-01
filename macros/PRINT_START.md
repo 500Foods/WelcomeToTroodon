@@ -152,11 +152,15 @@ Here are a few additional notes to help with troubleshooting the PRINT_START mac
 
 - Double-check that the [Orca settings](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/orca.md) for calling PRINT_START with the EXTRUDER and BED parameters match the same parameters in the PRINT_START macro.
 - Double-check that the [Orca settings](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/orca.md) don't also include temperature commands as all the necessary commands for the bed and extruder are included in PRINT_START already. Remove any extraneous M109 commands, for example.
-- The PRINT_START macro was recently updated with an extra "PRINT_START has started" and "PRINT_START has ended" message output to the console so you can confirm that it is in fact running.
-- This was also to address the problem of people editing printer.cfg and not saving the changes, or not rebooting after, or updating a different printer.cfg.
+- The PRINT_START macro was recently updated with extra "PRINT_START has started" and "PRINT_START has ended" messages output to the console so you can confirm that it is in fact this version of the macro that is running.
+- This was also to address the problem of people editing printer.cfg and not saving the changes, or not rebooting after, or updating a different printer.cfg file.
+- Any and all changes to printer.cfg require rebooting Klipper to have the changes take effect. If you edit the printer.cfg file while Klipper is currently printing, it will allow you to save the file, but you will still have to restart Klipper after the print completes for the updated printer.cfg changes to take effect.
 - There are often several printer.cfg files with timestamps. These are generated whenever you do a new bed mesh levelling, so be careful not to make changes to those as only the base "printer.cfg" file is actually used by Klipper.
 - The PRINT_START macro can be run directly from the web interface without using Orca at all. It will do the same steps - heating to print temperature, then to 150C to do a QGL, and then back to print temperature. Running the macro in this way may help track down issues with the macro itself. Note that by default, the NOZZLE_PRIME command is commented out, so the PRINT_START macro does not actually attempt to extrude anything and as such should never give an extruder temperature error.
-- As part of the PRINT_START commands, it loads a pre-existing "mesh1" bed mesh. If you've not yet done a bed mesh leveling, use the "mesh leveling" and "save mesh" macros to generate one. The "mesh1" name is used by default.
+- When running the PRINT_START macro from the web interface, it will end with the extruder at 260C and the bed at 100C as per the defaults in the PRINT_START macro.
+- You can change those defaults by editing the printer.cfg file and editing the macro itself.
+- When running the PRINT_START macro from the web interface, you can also enter the EXTRUDER and BED values directly by clicking on the arrow on the right side of the macro button.
+- As part of the PRINT_START sequence of commands, it loads a pre-existing "mesh1" bed mesh. If you've not yet done a bed mesh leveling, use the "mesh leveling" and "save mesh" macros to generate one. The "mesh1" name is used by default.
 - Check that there is only one PRINT_START macro defined in printer.cfg. Comment out or remove any others.
 - Check that there is no START_PRINT macro defined in printer.cfg. Comment out or delete any that are present.
 
