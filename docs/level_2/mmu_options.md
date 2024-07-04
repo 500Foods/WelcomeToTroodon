@@ -12,10 +12,10 @@ There is also typically a need for a filament cutter somewhere in the filament p
 
 Most of the examples here have been designed to support a customizable number of inputs, making it easy to size them to your particular needs. Depending on how your filament sources are arranged, and the type of printer you have, these can be mounted directly on top of the printer or somewhere close by. For the most part, these are simple to use and aren't terribly expensive. Some can be built from scratch (kits are available) and others can be set up straight out of the box.
 
-- 🔨 [ERCF](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/ercf.md) - Connects multiple filaments, based largely on the original VORON MMU design
-- 🔨 [TradRack](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tradrack.md) - Connects multiple filaments, similar to ERCF with a 4different design
-- 🔨 [8-Track](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/8track.md) - Connects a set of custom filament dry boxes (cassettes), each with their own extruder
-- 🔨 [Bambu Labs' AMS](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/ams.md) - If you have a Bambu printer, an AMS or AMS Lite is also an easy option
+- 🔨 [ERCF](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/ercf.md) - Connects multiple filaments, based largely on the original VORON MMU design.
+- 🔨 [TradRack](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/tradrack.md) - Connects multiple filaments, similar to ERCF with a different design.
+- 🔨 [8-Track](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/8track.md) - Connects a set of custom filament dry boxes (cassettes), each with their own extruder.
+- 🔨 [Bambu Labs' AMS](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_2/ams.md) - If you have a Bambu printer, an AMS or AMS Lite is also an easy option.
 - 🔨 Tool Changers - Instead of changing the filament, swap the entire toolhead. 
 
 #
