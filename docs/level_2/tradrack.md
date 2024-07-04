@@ -3,12 +3,16 @@
 
 ## The Kit
 
-## Printing Parts
+## Printed Parts
 
 ## Assembly
 
 ## Klipper Configuration
 
-## Initial Testing
+## Mounting
 
-## Review
+## Feeding
+
+## Initial Testing
+ 
+## Final Review
