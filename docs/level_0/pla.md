@@ -18,4 +18,4 @@ Typical printer settings:
 - Chamber: Doors open
 
 #
-Back to Fussy Filaments
+Back to [Fussy Filaments](https://github.com/500Foods/WelcomeToTroodon#-fussy-filaments)
