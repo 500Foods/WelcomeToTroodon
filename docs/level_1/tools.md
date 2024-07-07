@@ -4,6 +4,7 @@ Who doesn't like an excuse to buy more tools? Here are several that can make qui
 - [Electric Screwdrivers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/electric_screwdrivers.md) - There are typically a LOT of screws to contend with
 - [High-Torque Screwdrivers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/hightorque.md) - For when you're not asking
 - [Digital Belt Tension Gauge](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/digital_belt_gauge.md) - Leave the plucking to the guitar players
+- Digital Calipers - Sooner or later you're going to want to measure something with at least a bit of precision
 - [Microfiber Cloths](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/microfiber_cloths.md) - Lint-free is where you want to be
 - [Scraper](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/scraper.md) - For part removal and bed cleaning
 - [Deburring Tool](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/deburring_tool.md) - Quick and easy part cleanup
