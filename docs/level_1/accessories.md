@@ -7,6 +7,7 @@ The last section listed a collection of [Tools](https://github.com/500Foods/Welc
 - Filament Drying
 - Filament Welder
 - Filament Rewinder
+- BTT HBB Keypad - For when you want to use physical buttons instead of navigating KlipperScreen
  
 #
 Next: [Chemicals](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/chemicals.md)
