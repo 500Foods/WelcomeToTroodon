@@ -32,6 +32,8 @@ The other thing to be mindful of is that this will very likely use a different t
 
 With this HotEnd installed, you should be able to exceed the stock max flow rates without any problems, and the heating/cooling times of the HotEnd will be dramatically better. This alone makes using a Troodon Pro 2.0 a much nicer experience already.
 
+NOTE: This HotEnd, like many others, comes with a silicone sock rated for 275C. A silicone sock rated for 300C is avialable separately from AliExpress if you plan on doing a lot of high temperature printing. Or simply remove the sock.
+
 ## Upgrade #2 - Bigger Heat Block
 Next, let's try another variation of the same thing, but instead, let's use a larger heat block so we can get a better flow rate. With this configuration, it should be possible to hit a target flow rate of 20mm3/s, easily double of what is possible with a stock HotEnd. There are other considerations when it comes to overall print speed, but this removes one of the key obstacles.
 - Amazon 🇨🇦 - [Improved High Speed Fast Heat V6 HotEnd 24V 48W Ceramic Heater Core](https://a.co/d/0SKyygp)
@@ -43,7 +45,7 @@ The limitation here though is that the max temperature, while stated as 300C, is
 The other thing to be aware of is that this does take longer to heat up. Perhaps not surprising as it is a larger heat block, but it falls somewhere between the stock heater and Upgrade #1. Maybe closer to the stock heater. 
 
 ## Upgrade #3 - Bigger Heater, Better Paste
-Using the same approach as #2, the heater supplied with that HotEnd was 48W. This can be directly upgraded to a 60W heater without changing the thermistor and without having to redo the wiring that was done there - just replace the heater with a different one. This addresses the high temperature limitation as well as the heating time and can easily and safely print at 275C.
+Using the same approach as #2, the heater supplied with that HotEnd was 48W. This can be directly upgraded to a 60W heater without changing the heater or the thermistor and without having to redo the wiring that was done there - just replace the heater with a different one. This addresses the high temperature limitation as well as the heating time and can easily and safely print at 275C.
 
 - Amazon 🇺🇸 - [60W Ceramic Heater Blade](https://a.co/d/0hgVW8B)
 
