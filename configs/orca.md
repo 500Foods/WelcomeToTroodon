@@ -1,4 +1,4 @@
-# Orca
+# Orca Slicer
 Depending on how a printer was originally configured in Orca, there may be a lot of information sent along with the G-code to Klipper, or there may be very little. 
 And within Orca's normal settings, there are options to be more or less verbose when generating G-code. 
 These are all things to be aware of if you're trying to get data into your Klipper macros or even over to Linux Bash scripts using the gcode_shell_command extension.
@@ -41,4 +41,4 @@ when certain layers are achieved. Perhaps a fan or heater can be turned on or of
 SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1} 
 TIMELAPSE_TAKE_FRAME
 ```
-Note: lines beginning with a ; will still be inserted into the G-code, which you can see in the slicer output. But they aren't executed or visible by Klipper macros.
+Note: lines beginning with a ; will still be inserted into the G-code, which you can see in the slicer output. But they aren't executed or visible to Klipper macros.
