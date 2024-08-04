@@ -2,6 +2,7 @@
 - [Benchy](https://www.3dbenchy.com/) - Easily the most popular calibration print 
 - [Califlower Calibration Tool](https://vector3d.shop/products/califlower-calibration) - Used to calibrate printer dimensional accuracy and skew
 - [StealthBurner Latch](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_1/first_print_latch.md) - A better version of a frequently broken part
+- [StealtBurner Toolhead ](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs)- Just in case anything else breaks
 - [Gantry Levelling "Beer Cans"](https://www.printables.com/model/869496-gantry-leveling-beer-cans-voron-gantry-leveling-ai) - Used to manually level the gantry
 
 ## For the Troodon 2.0 Pro 
