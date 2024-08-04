@@ -2,7 +2,7 @@
 This repository has been created primarily as a community resource for those with a new [Troodon 3D printer](https://www.formbot3d.com/collections/troodon-390). Troodons are very close relatives of the popular Voron series of printers. A great deal of the content here applies equally to those printers, as well as many other 3D printers. 
 
 Note: This is a new project with many pages yet to be completed.
-<br/><br/><img src="https://progress-bar.dev/49/?scale=89&title=%20Completed%20&width=415&suffix=%20%2F%2091%20Pages">
+<br/><br/><img src="https://progress-bar.dev/63/?scale=89&title=%20Completed%20&width=415&suffix=%20%2F%20105%20Pages">
 
 ## 🎁 Contents
 - [🤔 Getting Started Resources](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/getting_started.md)
