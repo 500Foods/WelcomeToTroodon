@@ -27,7 +27,7 @@ Note: This is a new project with many pages yet to be completed.
 - [💣 Experimental Projects](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/experiments.md)
 <br>
 
-## Contributions Encouraged!
+## 💡 Contributions Encouraged!
 Please create a GitHub Issue here in this repository, or reach out to @500Foods on the #Troodon channel on the [FormBot Discord](https://discord.gg/spAGFK2PnN).
 
 <p><br></p>
