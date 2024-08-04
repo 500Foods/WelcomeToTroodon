@@ -1,7 +1,7 @@
 # 🪛 Quick Reference - Configuration
 Configuration items are typically defined in the printer.cfg file. Be careful with these customizations as the hardware in your printer may be very different than what is assumed here. 
 
-Not: Any changes to Klipper's printer.cfg file will require a reboot to take effect.
+***Note: Any changes to Klipper's printer.cfg file will require a reboot to take effect.***
 
 - printer.cfg [[exclude_object]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/exclude_object.md) - Enable option for excluding failed objects from the currently running print job
 - printer.cfg [[gcode_arcs]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/gcode_arcs.md) - Enable support for G2/G3 G-Code commands
