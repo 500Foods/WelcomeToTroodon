@@ -25,6 +25,12 @@ Note: This is a new project with many pages yet to be completed.
 
 - [🥳 Showcase](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/showcase.md)
 - [💣 Experimental Projects](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/experiments.md)
+<br>
+
+## Contributions Encouraged!
+Please create a GitHub Issue here in this repository, or reach out to @500Foods on the #Troodon channel on the [FormBot Discord](https://discord.gg/spAGFK2PnN).
+
+<p><br></p>
 
 ## 📏 Repository Information 
 [![Count Lines of Code](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml)
@@ -43,6 +49,3 @@ SUM:                           110            438             54           1559
 2 Files (without source code) were skipped
 ```
 <!--CLOC-END-->
-
-#
-Suggestions are welcome! Create a GitHub Issue or reach out to @500Foods on the #Troodon channel on the [FormBot Discord](https://discord.gg/spAGFK2PnN).
