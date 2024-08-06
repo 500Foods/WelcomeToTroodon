@@ -7,6 +7,8 @@ Inside a Troodon 2.0 Pro printer:
 - For the MGN12 rail (the gantry rail supporting the toolhead), an 18G needle is used.
 - There's also an MGN9 rail for TAP embedded inside the toolhead that should be lubricated.
 
+Once a printer has been fully assembled, the service ports on some of the linear rail blocks might be more difficult to access. To help with this syringes with flexible needs can be used.
+
 ***NOTE: As of this writing, the Troodon 2.0 Pro printer ships with none of the rails lubricated. They include lubricant in the box, but not the syringes.***
 
 ## Resources
@@ -18,6 +20,7 @@ Inside a Troodon 2.0 Pro printer:
 - [Amazon 🇨🇦 - 10 Pack - Plastic Syringe Blunt Tip Needles - Various sizes](https://a.co/d/cmNPUo2)
 - [Amazon 🇺🇸 - 10 Pack - Plastic Syringe with 18Ga Blunt Tip Needles](https://a.co/d/dMXu7Gv)
 - [Amazon 🇺🇸 - 10 Pack - Plastic Syringe with 16Ga Blunt Tip Needles](https://a.co/d/1T7yKLE)
+- [Amazon 🇨🇦 - 10 Pack - Plastic Syring with 16ga Flexible Tips](https://a.co/d/aeOvvkr)
 - https://www.needlez.co.uk
 
 #
