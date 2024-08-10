@@ -36,6 +36,16 @@ Another option is to use a tool that has a heater built into the design. In this
 
 Whether one of these options is used, or something else, you'll end up with longer lengths of filament that can then be used normally. If done properly there should be no difference in how it is used or the output quality of the prints as this is in essence the same filament.
 
+## Waste Plastic - Sorting and Organizing
+One of the primary challenges for a waste processing facility is in sorting waste, or in this case, sorting plastic into batches that are the same material or the same color. But most of us aren't running waste processing facilities, and it is simply *far easier* just to keep the waste material organized as it is generated. Printing with blue PLA? the waste goes in a blue PLA bin or bag. Easy! No need to sort or filter or do anything else at that point. If you've got a bit of overlapping filament from a filament change, well, that 20mm section of 0.4mm extruded filament can go in the garbage. Nobody is going to tell.  If it's the same material (both PLA for example), then it can go into a separate "mixed" bag or something.
+
+Point being, if you're sorting the material at the source, then you don't have to deal with any of the cleaning, washing, sorting, and drying that this guy goes into in his video. I think what he might have also left out is how much prep time he needs to spend, and the potential additional cost of things like the spare toaster oven, in addition to the main aspects of shredding and extruding the material. This of course makes the whole process even less cost-effective than it already is. 
+https://www.youtube.com/watch?v=RF05JBnNazA 
+
+Ultimately, the size of the waste material will generally be smaller than a typical print bed in any particular dimension, so using small bins or buckets works well. Ice cream buckets were my bin of choice for a while, but it turns out that a 350mm side is bigger than the bucket diameter, so switching to a larger shoebox-style bin (with lids!) works much better for this kind of thing. How many bins do you need? Well, that depends on how many color and filament variations you use regularly. This can vary from 3-4 to dozens if you've got a lot of printers and a lot of colors in play or a lot of different materials.
+
+Something like this works well: https://a.co/d/0CIKntX Note that buying these on Amazon or AliExpress is likely significantly more expensive than the equivalent at your local hardware supply store, where identical or very similar equivalents can usually be found for less than a third of the price.
+
 ## Waste Plastic - Breaking it Down
 Depending on the size of the waste, there are different options. 
 The option that spurred the creation of this document is the idea of using a blender. 
