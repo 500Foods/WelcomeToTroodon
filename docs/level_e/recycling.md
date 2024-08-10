@@ -60,7 +60,7 @@ So I gave it a try...
 
 A few notes and caveats, however.
 - This is the Sieve used: [Thingiverse - 2mm Sieb Sieve Sandspielzeug Sand Toy](https://www.thingiverse.com/thing:4277134)
-- This is the blender used: [Amazon 🇨🇦 - Canddi Commercial Quiet Blender, 2200W](https://a.co/d/01p0vlCe)
+- This is the blender used: [Amazon 🇨🇦 - Cranddi Commercial Quiet Blender, 2200W](https://a.co/d/01p0vlCe)
 - The recycled material was ASA which has a very high melting point
 - It did take a bit of time to break down the densest pieces but it made it through all the material
 - A blender with an extra shroud (like this one) helps greatly to minimize the dust and material. *Highly recommended.*
