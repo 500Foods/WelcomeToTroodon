@@ -84,7 +84,7 @@ This size helps ensure that any kind of filament tool, or even a toolhead suppor
 On the other hand, if you're going to press the material into large plates or push it through an injection molding process, it likely doesn't matter so much and can be much larger. 
 
 ## Then What?
-My main objective was to get the material into a form that can be fed into some kind of machine for producing filaments. Like the shred-it options, these tend to be very expensive with all kinds of caveats. But the hope is that in time, this will be addressed and more consumer-friendly machines will appear on the market. 
+The main objective was to get the material into a form that could be fed into some kind of machine for producing filaments. Like the shredder options, these tend to be very expensive with all kinds of caveats of their own. But the hope is that in time, this will be addressed and more consumer-friendly machines will appear on the market. Pellet extruders are also a thing. And, perhaps most importantly in the short term, by grinding up the waste it can be stored in a fraction of the space. 
 
 As mentioned above, there are other options. An injection molding machine is one. In this scenario, a mold fashioned out of something like aluminum is used with a press to push heated plastic down a heated tube into a mold. This works great when you want to produce many of the same parts, and ultimately is more efficient and far quicker than 3D printing. The catch is that the machine is a bit large and can be expensive, but machining molds is prohibitively expensive for casual use. The waste material must also be small enough to fit into the heated tube. 
 
