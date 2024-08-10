@@ -68,6 +68,8 @@ A few notes and caveats, however.
 - It also came with a tamper. It may help speed up breaking down the largest chunks, but isn't strictly necessary.
 - Bread bags were used (double-bagged!) to store the resulting ground-up filament.
 
+The general process involved taking a large handful of waste material and putting it into the blender jar. Blend for 3 minutes at high power. Run it through the sieve. Add another handful to whatever was left that was bigger than 2mm. Repeat. It did take probably an hour to work through the bucket and generate 1kg of blended waste material, but a lot of that was giving the blender a chance to cool down between runs. It isn't advisable in this blender's documentation to run for more than 3 minutes at a time or it may overheat. So of that hour, 2/3rds of it was spent doing something else while waiting for the blender to run or waiting for it to cool. As for the noise, well, it is advertised as a "quiet blender" but it isn't particularly quiet at all.
+
 NOTE: Blending printer waste will reduce some of it to very fine particles. That then become airborne. And VOCs can also be released. So best to wear a good mask with an activated charcoal filter if the material you're blending warrants it. 
 
 NOTE: Blending printer waste will reduce some of it to very fine particles. This is generally undesirable as it breaks down some of the bonds in the plastic that give it strength. Filament produced from waste recycled in this way is thus likely to be less strong and of less quality generally. This effect varies with the type of material.
