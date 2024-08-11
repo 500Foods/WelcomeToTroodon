@@ -41,16 +41,18 @@ If you find this work interesting, helpful, or valuable, or that it has saved yo
 [![Count Lines of Code](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```
-Last updated at 2024-08-11 17:35:41 UTC
+Last updated at 2024-08-11 20:05:49 UTC
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 Markdown                       106            442              2           1550
-YAML                             1              8             13             33
+YAML                             1              8             13             35
 Bourne Shell                     4              6             39             19
 -------------------------------------------------------------------------------
-SUM:                           111            456             54           1602
+SUM:                           111            456             54           1604
 -------------------------------------------------------------------------------
-2 Files (without source code) were skipped
+2 Files were skipped (duplicate, binary, or without source code):
+  3d: 1
+  license: 1
 ```
 <!--CLOC-END-->
