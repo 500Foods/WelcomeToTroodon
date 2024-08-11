@@ -24,13 +24,13 @@ jobs:
     steps:
     
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v3
-
+    - uses: actions/checkout@v4
+    
     # Runs djdefi/cloc-action
     - name: Count Lines of Code (cloc)
       uses: djdefi/cloc-action@main
       with:
-        options: --report-file=cloc.txt --ignored=cloc-ignored.txt
+        options: --force-lang=Pascal,inc --report-file=cloc.txt --ignored=cloc-ignored.txt  
 
     # Copy the new cloc.txt contents into the README.md file at the appropriate spot
     - run: csplit README.md /\<\!--CLOC/ {1}
@@ -41,13 +41,15 @@ jobs:
     - run: echo "Last updated at ${{ env.NOW }}" >> README.md
     - run: tail -n +2 cloc.txt >> README.md
     - run: echo "SKIP=$(wc -l < cloc-ignored.txt)" >> $GITHUB_ENV
-    - run: echo "${{ env.SKIP }} Files (without source code) were skipped" >> README.md
+    - run: echo "${{ env.SKIP }} Files were skipped (duplicate, binary, or without source code):" >> README.md
+    - run: |
+        awk '{sub(/:.*/,""); ext=tolower($1); ext=substr(ext, match(ext, /[^\/]*$/)); ext=substr(ext, match(ext, /\.[^.]*$/)+1); counts[ext]++} END {for(i in counts) {printf("  %s: %d\n",i,counts[i])}}' cloc-ignored.txt | sort -t: -k2nr -k1 >> README.md
 #    - run: cat cloc-ignored.txt >> README.md
     - run: echo "\`\`\`" >> README.md
     - run: cat xx02 >> README.md
 
     # Save the output back to the repository
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         skip_dirty_check: true            
         branch: main
