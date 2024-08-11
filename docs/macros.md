@@ -4,4 +4,4 @@ Macros are typically defined in the printer.cfg file and these macros in particu
 - [PRINT_START](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_START.md) - Runs whenever a new print job is sent to the printer
 - [PRINT_CANCEL](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/PRINT_CANCEL.md) - Runs whenever a new print job is canceled, manually or otherwise
 - [TIMER](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/TIMER.md) - Adds support for adding timers to other macros, particularly to PRINT_START
-- [TEMPS](https://github.com/500Foods/WelcomeToTroodon/new/main/macros) - Change how Klipper monitors temperatures to more of a "temp reached" rather than "temp stable" mode
+- [TEMPS](https://github.com/500Foods/WelcomeToTroodon/blob/main/macros/TEMPS.md) - Change how Klipper monitors temperatures to more of a "temp reached" rather than "temp stable" mode
