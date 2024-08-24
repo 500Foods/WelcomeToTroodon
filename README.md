@@ -52,7 +52,7 @@ SUM:                           112            468             54           1642
 <p><br></p>
 
 ## 💡 Contributions Encouraged
-If you see something that could be improved, or if you have ideas for additional content, please create a GitHub Issue here in this repository, or reach out to @500Foods on the #Troodon channel in the [FormBot Discord](https://discord.gg/spAGFK2PnN).
+If you see something that could be improved, or if you have ideas for additional content, please create a GitHub Issue here in this repository, submit a GitHub PR directly if you're so inclined, or reach out to @500Foods on the #Troodon channel in the [FormBot Discord](https://discord.gg/spAGFK2PnN).
 
 This project is still at a very early stage, so there are plenty of blank pages waiting to be populated. If you run across one of those and would like to help out, please get in touch.
 
