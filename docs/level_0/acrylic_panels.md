@@ -14,11 +14,11 @@ The inserts can be printed with no top/bottom solid layers to save plastic and i
 
 ### Files
 
-- [`Back Panel Inserts-TopMiddle.3mf`](../../3D%20files/RearPanelInserts/Back Panel Inserts-TopMiddle.3mf): the horizontal insert at the middle top, need one.
-- [`Back Panel Inserts-TopLeft.3mf`](../../3D%20files/RearPanelInserts/Back Panel Inserts-TopLeft.3mf): the top left corner insert, need one.
-- [`Back Panel Inserts-TopRight.3mf`](../../3D%20files/RearPanelInserts/Back Panel Inserts-TopRight.3mf): the top right corner insert, need one.
-- [`Back Panel Inserts-SideMiddle.3mf`](../../3D%20files/RearPanelInserts/Back Panel Inserts-SideMiddle.3mf): the vertical insert at the middle, need two, one for each side.
-- [`Back Panel Inserts-SideBottom.3mf`](../../3D%20files/RearPanelInserts/Back Panel Inserts-SideBottom.3mf): the vertical insert at the bottom, need two, one for each side.
+- [`Back Panel Inserts-TopMiddle.3mf`](../../3D%20files/RearPanelInserts/Back%20Panel%20Inserts-TopMiddle.3mf): the horizontal insert at the middle top, need one.
+- [`Back Panel Inserts-TopLeft.3mf`](../../3D%20files/RearPanelInserts/Back%20Panel%20Inserts-TopLeft.3mf): the top left corner insert, need one.
+- [`Back Panel Inserts-TopRight.3mf`](../../3D%20files/RearPanelInserts/Back%20Panel%20Inserts-TopRight.3mf): the top right corner insert, need one.
+- [`Back Panel Inserts-SideMiddle.3mf`](../../3D%20files/RearPanelInserts/Back%20Panel%20Inserts-SideMiddle.3mf): the vertical insert at the middle, need two, one for each side.
+- [`Back Panel Inserts-SideBottom.3mf`](../../3D%20files/RearPanelInserts/Back%20Panel%20Inserts-SideBottom.3mf): the vertical insert at the bottom, need two, one for each side.
 
 ### Screenshots
 
