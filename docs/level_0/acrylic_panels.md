@@ -18,7 +18,7 @@ The inserts can be printed with no top/bottom solid layers to save plastic and i
 
 ## Screenshots
 ![](../../3D_Files/RearPanelInserts/RearPanelInserts-00.png)
-![](../../3D_Ffiles/RearPanelInserts/RearPanelInserts-01.png)
+![](../../3D_Files/RearPanelInserts/RearPanelInserts-01.png)
 
 #
 Next: [First Problems](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_0/first_problems.md)
