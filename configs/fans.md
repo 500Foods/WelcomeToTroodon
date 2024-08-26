@@ -66,7 +66,7 @@ But when the print is done, we want the chamber to cool down more quickly, and f
 [PRINT_START]
 ...
     # Exhaust fan to low (Note: Requires [fan_generic exhaust_fan] configured)
-    SET_FAN_SPEED FAN=exhaust_fan SPEED=0.3  # Exhaust fan to low -> don't want to coll the chamber 
+    SET_FAN_SPEED FAN=exhaust_fan SPEED=0.3  # Exhaust fan to low -> don't want to cool the chamber 
 ...
 
 [PRINT_END]
@@ -161,7 +161,7 @@ For the chamber temperature issue, the goal is to incease the overall chamber te
 reduce the warping that can occur with these filaments, as the change in temperature between the already printed component of the print and the new plastic laid down on top is significantly reduced.
 And this is what causes the warping in the first place. The higher layers are laid down at a cooler temperature, so they shrink a little more, pulling up on the corners, causing the print to warp.
 
-There are other considerations, like having a fully-enclosed and properly-sealed chamber to begin with. As well as having accurate chamber thermistors. And that's where the [temperature_fan] part comes in - by monitoring the 
+There are other considerations, like having a fully enclosed and properly sealed chamber to begin with. As well as having accurate chamber thermistors. And that's where the [temperature_fan] part comes in - by monitoring the 
 chamber temperature, these fans, typically placed under the heated bed, distribute the heat from the bed heater to the rest of the printer. This greatly reduces the time needed to get the chamber
 to the desired temperature, and also for heat-soaking the printer, where that temperature is maintained for a short time (say, 20 minutes) before printing begins.
 
