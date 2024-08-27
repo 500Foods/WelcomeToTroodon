@@ -176,7 +176,8 @@ As a print progresses through different layers, the speed of this fan is often a
 as would very short layer times. On the other hand, if it is a big print job and the layer times are really long at various points, then the part-cooling requirements are reduced.
 
 ## [temperature_fan] Chamber Fan
-The final Klipper [fan] mode is one that isn't defined in a stock Troodon configuration, but would likely appear in one that has been upgraded to have chamber fans.
+The final Klipper [fan] mode is one that isn't defined in a stock Troodon configuration, but would likely appear in one that has been upgraded to have chamber fans, or if a supplemental
+CPU fan is added like we showed above.
 What are chamber fans? These are auxiliary fans, like nevermore or The Fan, that circulate air within the chamber, typically through their own additional activated carbon filters.
 Why? Two primary reasons. More VOC filtering and higher chamber temperatures.
 
