@@ -114,7 +114,7 @@ With these in place, the MCU and CPU temperatures will be included in the Klippe
 While the stock Troodon doesn't come with a fan attached to the BTT-CB1 (a Raspberry Pi clone) - it just uses a heatsink - it is possible to add a fan to the heatsink.
 And there's a convenient fan header pin positioned right beside the heatsink as well, making this an easy process, as demostrated here by user @Don_Duce in the Formbot Discord #Troodon_2 channel:
 
-![image](https://github.com/user-attachments/assets/dd48f5df-92d9-47c0-a4e0-00b2d58fb9db)
+![image](https://github.com/user-attachments/assets/dd48f5df-92d9-47c0-a4e0-00b2d58fb9db)<br/>
 *Custom fan added to BTT-CB1*
 
 Then, to enable this fan, another Klipper [fan] section can be added where the pin definition comes from the [BTT-Pi repository](https://github.com/bigtreetech/BTT-Pi/blob/master/BIGTREETECH%20Pi%20V1.2%20-%20Board%20Fan%20Pin%20Configuration).
