@@ -110,7 +110,7 @@ max_temp: 100
 ```
 With these in place, the MCU and CPU temperatures will be included in the Klipper temperature graph, and the MCU fan will be listed among the other fans, showing whether or not it is running.
 
-## [temperature fan] Supplemental CPU Fan
+## [temperature_fan] Supplemental CPU Fan
 While the stock Troodon doesn't come with a fan attached to the BTT-CB1 (a Raspberry Pi clone) - it just uses a heatsink - it is possible to add a fan to the heatsink.
 And there's a convenient fan header pin positioned right beside the heatsink as well, making this an easy process, as demostrated here by user @Don_Duce in the Formbot Discord #Troodon_2 channel:
 
