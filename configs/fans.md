@@ -110,6 +110,33 @@ max_temp: 100
 ```
 With these in place, the MCU and CPU temperatures will be included in the Klipper temperature graph, and the MCU fan will be listed among the other fans, showing whether or not it is running.
 
+## [temperature fan] Supplemental CPU Fan
+While the stock Troodon doesn't come with a fan attached to the BTT-CB1 (a Raspberry Pi clone) - it just uses a heatsink - it is possible to add a fan to the heatsink.
+And there's a convenient fan header pin positioned right beside the heatsink as well, making this an easy process, as demostrated here by user @Don_Duce in the Formbot Discord #Troodon_2 channel:
+
+![image](https://github.com/user-attachments/assets/dd48f5df-92d9-47c0-a4e0-00b2d58fb9db)
+*Custom fan added to BTT-CB1*
+
+Then, to enable this fan, another Klipper [fan] section can be added where the pin definition comes from the [BTT-Pi repository](https://github.com/bigtreetech/BTT-Pi/blob/master/BIGTREETECH%20Pi%20V1.2%20-%20Board%20Fan%20Pin%20Configuration).
+In this case, the fan is temperature-controlled, meaning that a temperature sensor is used to control the fan. Conveniently, we've just added the sensor we need as `temperature_host` so the config looks something like this.
+The extra PID parameters are used to adjust the fan speed as the temperature rises.
+```
+[temperature_fan btt_cb1_fan]
+sensor_type: temperature_host
+pin: host:gpio211
+kick_start_time: 0.8
+max_power: 1.0
+control: pid
+min_temp: 0
+max_temp: 85
+pid_kp: 1.0
+pid_ki: 0.5
+pid_kd: 2.0
+min_speed: 0.1
+max_speed: 0.6
+target_temp: 38
+```
+
 ## [heater_fan] Hotend Fan
 Here we're referring to the fan that is in the toolhead. Normally, this will be running at 100% whenever the extruder heater is on. 
 This is a critical fan, as without it the heat from the heat block will slowly creep up into the extruder and start melting things that are not supposed to be melted.
