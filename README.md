@@ -32,15 +32,15 @@ Note: This is a new project with many pages yet to be completed.
 ## 📏 Repository Information &nbsp; &nbsp; &nbsp; &nbsp; [![Count Lines of Code](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/WelcomeToTroodon/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```
-Last updated at 2024-08-27 06:58:53 UTC
+Last updated at 2024-09-02 21:57:32 UTC
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                       108            485              2           1755
+Markdown                       108            484              2           1756
 YAML                             1              8             13             35
 Bourne Shell                     4              6             39             19
 -------------------------------------------------------------------------------
-SUM:                           113            499             54           1809
+SUM:                           113            498             54           1810
 -------------------------------------------------------------------------------
 8 Files were skipped (duplicate, binary, or without source code):
   3mf: 5
