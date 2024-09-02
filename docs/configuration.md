@@ -11,6 +11,6 @@ Configuration items are typically defined in the printer.cfg file. Be careful wi
 
 ## Stock Configuration Files
 - [Stock Troodon printer.cfg](https://github.com/YGK3D/Troodon-2-Klipper/blob/main/Troodon2-Klipper-YGK3D-v1_2-printer.cfg) - Version 1.2 Released 02/09/23 (before TAP was added to stock)
-- [Stock Troodon printer.cfg - 2024 Edition](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/original%20troodon%202.0%20pro%20with%20tap%20printer.cfg) - This is the version shipped with CNC TAP machines
+- [Stock Troodon printer.cfg - 2024 Edition](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/original_troodon_2.0_pro_with_tap_printer.cfg) - This is the version shipped with CNC TAP machines
 #
 Next: [Quick Reference - Macros](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/macros.md)
