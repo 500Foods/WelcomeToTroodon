@@ -18,6 +18,7 @@ Note: This is a new project with many pages yet to be completed.
 - [⏰ Routine Maintenance](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/maintenance.md) - What to keep an eye on to avoid nasty surprises
 
 ## 🏹 Quick Reference
+- 🪜 HowTo's - Assorted step-by-step guides
 - [🪛 Configs](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/configuration.md) - Get the most from Klipper's printer.cfg
 - [✂️ Macros](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/macros.md) - Klipper macros like PRINT_START
 - [⚔️ Slicers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/slicers.md) - Settings for Orca Slicer and others
