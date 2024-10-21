@@ -3,7 +3,7 @@ This repository has been created primarily as a community resource for those wit
 
 Note: This is a new project with many pages yet to be completed.
 
-<img src="https://progressbar-guibranco.vercel.app/69/?scale=89&title=%20Completed%20&width=415&suffix=%20%2F%20108%20Pages">
+<img src="https://progressbar-guibranco.vercel.app/70/?scale=89&title=%20Completed%20&width=415&suffix=%20%2F%20109%20Pages">
 
 ## 📚 Where to Start
 - [🤔 Getting Started Resources](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/getting_started.md) - Documentation, assembly guides, and more
@@ -18,7 +18,7 @@ Note: This is a new project with many pages yet to be completed.
 - [⏰ Routine Maintenance](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/maintenance.md) - What to keep an eye on to avoid nasty surprises
 
 ## 🏹 Quick Reference
-- 🪜 HowTo's - Assorted step-by-step guides
+- [🪜 HowTo's](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/README.md) - Assorted step-by-step guides
 - [🪛 Configs](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/configuration.md) - Get the most from Klipper's printer.cfg
 - [✂️ Macros](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/macros.md) - Klipper macros like PRINT_START
 - [⚔️ Slicers](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/slicers.md) - Settings for Orca Slicer and others
