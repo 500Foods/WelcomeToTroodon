@@ -5,7 +5,7 @@ It also has provisions for installing DangerKlipper - the latest version of Klip
 
 ## Step 1. Install KIAUH
 
-## Step 2. Use KIAHU to perform updates
+## Step 2. Use KIAUH to perform updates
 
 ## Step 3. Use KIAUH to install optional software
 
