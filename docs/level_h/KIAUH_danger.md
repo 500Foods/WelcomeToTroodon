@@ -764,7 +764,6 @@ Check the output for errors, but assuming nothing went wrong, the installation o
 ## References
 - [KIAUH](https://github.com/dw-0/kiauh) - Klipper Installation and Update Helper
 - [DangerKlipper](https://github.com/DangerKlippers/danger-klipper) - The "risky" fork of Klipper with additional features
-  
 - [G-Code Shell Command](https://github.com/dw-0/kiauh/blob/master/docs/gcode_shell_command.md)
 - [Mainsail Themes](https://docs.mainsail.xyz/overview/features/themes/themes)
 - [Mobileraker](https://mobileraker.com/)
