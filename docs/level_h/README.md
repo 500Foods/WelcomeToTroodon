@@ -15,4 +15,5 @@ Here is a list of guides for performing common modifications or supplemental bui
 - KNOMI Remote - Setup KNOMI as a desk accessory
 
 ## References
-
+- [KIAUH](https://github.com/dw-0/kiauh) - Klipper Installation and Update Helper
+- [DangerKlipper](https://github.com/DangerKlippers/danger-klipper) - The "risky" fork of Klipper with additional features
