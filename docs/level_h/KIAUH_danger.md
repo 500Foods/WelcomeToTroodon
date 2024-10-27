@@ -4,11 +4,12 @@ The Klipper Installation and Update Helper, aka KIAUH, is a super-useful tool to
 It also has provisions for installing DangerKlipper - the latest version of Klipper that enables additional but risky features not included in the regular Klipper software.
 
 ***NOTE: Do not attempt any of these steps while a print is running. Many of these will cause Klipper to restart, thus ending the current print job.***
-### Contents
-Step 1: Install KIAHU
-Step 2: Use KIAUH to install updates
-Step 3: Use KIAHU to install additional software
-Step 4: Use KIAUH to install DangerKlipper
+
+## Contents
+[Step 1: Install KIAHU](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-1-install-kiauh)<br/>
+[Step 2: Use KIAUH to install updates](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-2-use-kiauh-to-perform-updates)<br/>
+[Step 3: Use KIAHU to install additional software](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-3-use-kiauh-to-install-optional-software)<br/>
+[Step 4: Use KIAUH to install DangerKlipper](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-4-use-kiauh-to-install-dangerklipper)<br/>
 
 ## Step 1: Install KIAUH
 KIAUH can be used to install Klipper on a system where it has never been installed previously, or on a system like the Troodon 2.0 Pro where Klipper is already installed. Using KIAUH makes it easy to perform updates and install additional software beyond just the Klipper basics.
@@ -16,7 +17,7 @@ The [KIAUH GitHub repository](https://github.com/dw-0/kiauh) has the most curren
 
 1. Login to your printer with SSH.
 2. For a Troodon 2.0 Pro, the default username and password are both `biqu`.
-3. Install the git command if it hasn't been installed previously with `sudo apt-get update && sudo apt-get install git -y`
+3. Install the git command if it hasn't been installed previously by using the command `sudo apt-get update && sudo apt-get install git -y`
 4. Clone the KIAUH repository using the command `cd ~ && git clone https://github.com/dw-0/kiauh.git`
 5. Launch KIAUH by using the command `./kiauh/kiauh.sh`
 
