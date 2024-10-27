@@ -7,6 +7,7 @@ Here is a list of guides for performing common modifications or supplemental bui
 - Chamber Lighting - Dramatically better lighting option
 
 ## Applicable to any modern Klipper-based 3D printer
+- Install KIAUH and DangerKlipper - Get the latest Klipper release and a tool to manage it
 - Tradrack MMU - Add multi-color or multi-material capabilities to your printer
 - 5V Buck Converter - Ad a 5V power source to your 24V printer
 - Klipper Expander - Add more IO to your Klipper-based printer
