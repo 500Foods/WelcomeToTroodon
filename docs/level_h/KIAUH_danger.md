@@ -14,6 +14,9 @@ In this step, what we're doing is changing the Klipper repository that KIAUH is 
 
 By pointing it at the DangerKlipper URL, and selecting a branch (master in this case), KIAUH has everything it needs to perform the update.
 
+NOTE: This is only applicable if you want to use DangerKlipper. For most purposes, the regular fork of Klipper works very well. 
+DangerKlipper is only likely to be of interest to those who are modifying their printers, using an MMU, upgrading motors, or working with other software that can benefit from the latest version of Klipper. 
+
 To get started, launch KIAUH and then select `Option S` to access KIAUH's settings
 ```
 ╔═══════════════════════════════════════════════════════╗
@@ -285,5 +288,9 @@ Check the output for errors, but assuming nothing went wrong, the installation o
 ###### Perform action: q
 ###### Happy printing!
 ```
+
+## References
+- [KIAUH](https://github.com/dw-0/kiauh) - Klipper Installation and Update Helper
+- [DangerKlipper](https://github.com/DangerKlippers/danger-klipper) - The "risky" fork of Klipper with additional features
 
 
