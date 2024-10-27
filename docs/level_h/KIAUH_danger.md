@@ -466,16 +466,16 @@ In addition, other community-developed software, now referred to as Extensions i
 ╚═══════════════════════════════════════════════════════╝
 ###### Perform action:
 ```
-1. **G-Code Shell Command** - We use this extension in the [Scripts](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/scripts.md) that are found here in the WelcomeToTroodon repository. This extension makes it possible to call Linux bash scripts from within G-Code macros, including passing in current print state information like the current layer or filename. These bash scripts can also output information to the Klipper log. 
-2. **Mainsail Theme Installer** - Who doesn't like themes? There isn't a huge array of themes, but there are themes that make better use of higher-resolution desktop displays.
-3. **Mobileraker** - Connect your phone to your printer, with various options for fully remote access.
-4. **Klipper-Backup** - Automatically backup Klipper to a GitHub repository.
-5. **Moonraker Telegram Bot** - Connects your printer to Telegram allowing for remote monitoring and control without a VPN or other software.
-6. **Obico for Klipper** - A remote access option with print monitoring, optional self-hosting, and more.
-7. **OctoEverywhere for Klipper** - A remote access option with print monitoring and more.
-8. **PrettyGcode for Klipper** - A G-Code visualizer/simulator that can also be used for real-time print monitoring.
-9. **OctoApp for Klipper** - Another option for connecting your phone to your printer if you're using one of the Octo options
-10. **SimplyPrint** - This is used as an alternative to Mainsail or Fluidd and can be used to manage multiple printers, even supporting tasks like sending the same print job to multiple printers.
+1. [G-Code Shell Command](https://github.com/dw-0/kiauh/blob/master/docs/gcode_shell_command.md) - We use this extension in the [Scripts](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/scripts.md) that are found here in the WelcomeToTroodon repository. This extension makes it possible to call Linux bash scripts from within G-Code macros, including passing in current print state information like the current layer or filename. These bash scripts can also output information to the Klipper log. 
+2. [Mainsail Theme Installer](https://docs.mainsail.xyz/overview/features/themes/themes) - Who doesn't like themes? There isn't a huge array of themes, but there are themes that make better use of higher-resolution desktop displays.
+3. [Mobileraker](https://mobileraker.com/) - Connect your phone to your printer, with various options for fully remote access.
+4. [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup) - Automatically backup Klipper to a GitHub repository.
+5. [Moonraker Telegram Bot](https://github.com/nlef/moonraker-telegram-bot) - Connects your printer to Telegram allowing for remote monitoring and control without a VPN or other software.
+6. [Obico for Klipper](https://www.obico.io/klipper.html) - A remote access option with print monitoring, optional self-hosting, and more.
+7. [OctoEverywhere for Klipper](https://octoeverywhere.com/?source=klipper_welcome_page&noredirect=t) - A remote access option with print monitoring and more.
+8. [PrettyGcode for Klipper](https://github.com/Kragrathea/pgcode) - A G-Code visualizer/simulator that can also be used for real-time print monitoring.
+9. [OctoApp for Klipper](https://blog.octoeverywhere.com/octoapp-for-klipper-octoprint-upgrade-your-printers-main-display/) - Another option for connecting your phone to your printer if you're using one of the Octo options
+10. [SimplyPrint](https://simplyprint.io/) - This is used as an alternative to Mainsail or Fluidd and can be used to manage multiple printers, even supporting tasks like sending the same print job to multiple printers.
 
 ***NOTE: KIAUH 6 doesn't currently list Spoolman (a tool for managing your filament collection) though it did previously and likely will again in the near future.***
 
@@ -764,5 +764,16 @@ Check the output for errors, but assuming nothing went wrong, the installation o
 ## References
 - [KIAUH](https://github.com/dw-0/kiauh) - Klipper Installation and Update Helper
 - [DangerKlipper](https://github.com/DangerKlippers/danger-klipper) - The "risky" fork of Klipper with additional features
+  
+- [G-Code Shell Command](https://github.com/dw-0/kiauh/blob/master/docs/gcode_shell_command.md)
+- [Mainsail Themes](https://docs.mainsail.xyz/overview/features/themes/themes)
+- [Mobileraker](https://mobileraker.com/)
+- [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup)
+- [Moonraker Telegram Bot](https://github.com/nlef/moonraker-telegram-bot)
+- [Obico for Klipper](https://www.obico.io/klipper.html)
+- [OctoEverywhere for Klipper](https://octoeverywhere.com/?source=klipper_welcome_page&noredirect=t)
+- [PrettyGCode for Klipper](https://github.com/Kragrathea/pgcode)
+- [OctoApp for Klipper](https://blog.octoeverywhere.com/octoapp-for-klipper-octoprint-upgrade-your-printers-main-display/)
+- [SimplyPrint](https://simplyprint.io/)
 
 
