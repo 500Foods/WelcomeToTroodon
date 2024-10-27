@@ -6,7 +6,7 @@ It also has provisions for installing DangerKlipper - the latest version of Klip
 ***NOTE: Do not attempt any of these steps while a print is running. Many of these will cause Klipper to restart, thus ending the current print job.***
 
 ## Contents
-[Step 1: Install KIAHU](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-1-install-kiauh)<br/>
+[Step 1: Install KIAUH](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-1-install-kiauh)<br/>
 [Step 2: Use KIAUH to install updates](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-2-use-kiauh-to-perform-updates)<br/>
 [Step 3: Use KIAHU to install additional software](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-3-use-kiauh-to-install-optional-software)<br/>
 [Step 4: Use KIAUH to install DangerKlipper](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/level_h/KIAUH_danger.md#step-4-use-kiauh-to-install-dangerklipper)<br/>
