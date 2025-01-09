@@ -3,6 +3,9 @@ Configuration items are typically defined in the printer.cfg file. Be careful wi
 
 ***Note: Any changes to Klipper's printer.cfg file will require a reboot to take effect.***
 
+***Note: Before copying and replacing large sections of a printer.cfg file, be mindful that there is typically a printer-specific serial number appearing near the beginning of the file. 
+This is tied to the serial number of the MCU board (an Octopus F407 board in the case of the Troodon 2.0 Pro). Be careful not to overwrite that line.***
+
 - printer.cfg [[exclude_object]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/exclude_object.md) - Enable option for excluding failed objects from the currently running print job
 - printer.cfg [[gcode_arcs]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/gcode_arcs.md) - Enable support for G2/G3 G-Code commands
 - printer.cfg [[probe]](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/probe.md) - Voron TAP optimizations
