@@ -3,7 +3,7 @@ This repository has been created primarily as a community resource for those wit
 
 Note: This is a new project with many pages yet to be completed.
 
-<img src="https://progressbar-guibranco.vercel.app/71/?scale=89&title=%20Completed%20&width=415&suffix=%20%2F%20110%20Pages">
+<img src="https://progressbar-guibranco.vercel.app/72/?scale=89&title=%20Completed%20&width=415&suffix=%20%2F%20111%20Pages">
 
 ## 📚 Where to Start
 - [🤔 Getting Started Resources](https://github.com/500Foods/WelcomeToTroodon/blob/main/docs/getting_started.md) - Documentation, assembly guides, and more
