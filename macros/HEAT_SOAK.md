@@ -3,7 +3,8 @@ For some filaments, like ASA or ABS, it is helpful to have the printer set up wi
 In addition, it helps if the printer is at that temperature for a period of time so that all of the compnents also reach the same temperature.
 This is known as "heat soaking" the printer, and generally leads to improved (aka more consistent) prints. Particularly compared to starting the printer cold.
 
-Discord #troodon_2 user @Chase has provided the following macros for just this purpose. Using the UI, the desired temperature and duration can be set.
+Discord #troodon_2 user @Chase has provided the following macros for just this purpose. Using the UI, the desired temperature and duration can be set. 
+For a stock Troodon 2.0 Pro, a chamber temperature of 40C for 20 minutes would be a good place to start.
 
 ![image](https://github.com/user-attachments/assets/5afbb14d-b862-445b-8f37-bae725516256)
 
