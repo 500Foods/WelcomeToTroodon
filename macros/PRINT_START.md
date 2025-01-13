@@ -27,7 +27,7 @@ See the [Orca](https://github.com/500Foods/WelcomeToTroodon/blob/main/configs/or
 PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]
 ```
 
-NOTE: Sometimes there is also a START_PRINT macro defined in printer.cfg. Unless it is being called by your slicer or by another macro, it can be safely removed.
+***NOTE: Sometimes there is also a START_PRINT macro defined in printer.cfg. Unless it is being called by your slicer or by another macro, it can be safely removed.***
 
 As with all the Macros provided here, be sure to examine them thoroughly and comment/uncomment the various parts as needed. Also, note that if there are more console log entries than you'd like to see,
 the console log typically has the ability to have filters applied. In Mainsail, you can find these under the Interface Settings (gear icon in the top-right corner), at the bottom of the Console page.
