@@ -27,7 +27,7 @@ The stealth burner is a snug unit, and where the ports on the Nitehawk sit, you 
 I only realized AFTER I soldered the pins that I can plug the cables in. So if you can, get a low profile set of pins and connectors, or you will have to cut a section out of the stealth burner to accommodate.
 If I wasn't upgrading I would have been a bit gentler, but my disdain for the stealth burner prompted my decision to get medieval on its arse. 
 
-# Second Problem
+## Second Problem
 So, once the cables and everything were installed, we got to the code. I have this as the module for defining and enabling the BTT SFSv2 in my printer.cfg
 
  ```
