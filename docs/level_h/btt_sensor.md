@@ -6,6 +6,7 @@
 *Normally while printing, filament will move through the sensor at a steady rate. It will abruptly stop when there is a clog (the "printing air" situation). 
 It might also stop when the filament has run out, but the end of the filament is still fixed to the spool. Neither scenario will be picked up by the stock runout sensor.*
 
+## The Plan
 Ok. So my initial plan was to configure and set a delay of 'X' seconds after the purge line to ensure the print would start and not pause because of the filament not moving from the purge line to where the print starts.
 I couldn't get this working mainly because the macro was giving me no end of grief. So, I was shown by someone in the Klipper discord to just disable and enable the switch via startup gcode.
  
