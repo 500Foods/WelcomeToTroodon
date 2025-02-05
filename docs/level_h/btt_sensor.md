@@ -1,8 +1,9 @@
 # BTT Smart Filament Sensor
 
 *User Critical Paint - Justin, from the #troodon_2 Discord, has provided the following information on setting up this sensor in a Troodon 2.0 Pro printer.*
-*The BTT Smart Filament Sensor is similar to the stock filament runout sensor, but it also has an extra encoder used to track how much filament is moving through the sensor.  
-Normally while printing, filament will move through the sensor at a steady rate. It will abruptly stop when there is a clog (the "printing air" situation). 
+*The BTT Smart Filament Sensor is similar to the stock filament runout sensor, but it also has an extra encoder used to track how much filament is moving through the sensor.*
+
+*Normally while printing, filament will move through the sensor at a steady rate. It will abruptly stop when there is a clog (the "printing air" situation). 
 It might also stop when the filament has run out, but the end of the filament is still fixed to the spool. Neither scenario will be picked up by the stock runout sensor.*
 
 Ok. So my initial plan was to configure and set a delay of 'X' seconds after the purge line to ensure the print would start and not pause because of the filament not moving from the purge line to where the print starts.
