@@ -5,7 +5,10 @@ The TAP probe uses the nozzle directly, so the x_offset and y_offset are both se
 
 Note that the TAP probe is used in both the Quad Gantry Levelling process as well as the Bed Mesh Levelling process. When making changes here, please be sure to test those as well.
 
+***NOTE: In some printer.cfg files like the stock Troodn 2.0 Pro shipping configs, there's a left-over "activate g-code" bit that should be removed.****
+
 ***NOTE: Setting z_offset as suggested in the documentation seems to set it globally, meaning that it changes the z_offset for your printer. Which is absolutely not what is intended. So this value is deliberately not included here. I've got a wonderfully engraved first layer in a glass bed as a testament to this.***
+
 ```
 #####################################################################
 # Voron TAP config (probe IS the nozzle)
