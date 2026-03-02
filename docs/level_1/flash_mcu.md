@@ -21,6 +21,19 @@ TBD.
 - [Klipper Documentation - SDCard Updates](https://www.klipper3d.org/SDCard_Updates.html)
 - [Voron Documentation - Automating Klipper MCU Updates](https://docs.vorondesign.com/community/howto/drachenkatze/automating_klipper_mcu_updates.html)
 
+## Upgrading the firmware
+Note: Locate *your* device first.
+```
+ls /dev/serial-by-id/
+
+sudo service klipper stop
+cd ~/klipper/
+make clean
+make menuconfig
+make
+make flash FLASH_DEVICE=/dev/serial/by-id/usb-Klipper_stm32f407xx_2D0023000E47323137363638-if00
+sudo service klipper start
+```
 
 ## Updating the ADXL
 Here's a start, credit to @dog2bert from the #Troodon Discord community. This has been added as "adxl_update.sh" in the "scripts" folder in this repository. We'll give this a once over a little bit later.
@@ -41,4 +54,5 @@ sudo service klipper start
 In Menuconfig:
 - Microcontroller: Raspberry Pi RP 2040
 - Com Interface: USBSERIAL
+
 
